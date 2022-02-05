@@ -1,7 +1,9 @@
 # Summary
 
-- [Introduction](./intro.md)
+- [Samskrta-Subodhini - Unofficial Key](./intro.md)
 - [Lesson 1](./chapter_1.md)
 - [Lesson 10](./chapter_10.md)
 - [Lesson 11](./chapter_11.md)
+- [Lesson 12](./chapter_12.md)
+- [Lesson 13](./chapter_13.md)
 - [Lesson 14](./chapter_14.md)

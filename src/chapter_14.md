@@ -173,6 +173,6 @@ Done above
 | दरिद्र | poor |
 
 
-**Indeclinables:**
+**Indeclinables**
 
 अन्यथा - otherwise, तु - however, but
