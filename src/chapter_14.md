@@ -145,3 +145,34 @@ Done above
 **5\) Write any five Sanskrit sentences of your own.**
 
 ## Notes
+
+**Nouns**
+
+| Word | Meaning | Word | Meaning |
+| --- | --- | --- | --- |
+| वारि (n) | water | ज्ञान (n) | knowledge |
+| मधु (n) | honey | शिष्य (m) | disciple |
+| अश्रु (n) | tears | शब्द (m) | word |
+| अम्बु (n) | water | नेत्र (n) | eye |
+| दारु (n) | wood | शकट (n) | cart |
+| वस्तु (n) | thing | गुरु (m) | teacher |
+| स्कन्ध (m) | shoulder | कारण (n) | cause |
+
+**Adjectives**
+
+| Word | Meaning | Word | Meaning | Word | Meaning |
+| --- | --- | --- | --- |--- | --- |
+| अन्ध | blind | वृद्ध | old | पीन | fat |
+| उदार | generous | श्वेत | white | हत | killed |
+| काण | one-eyed | सुगन्धि | fragrant | मृत | dead |
+| कुशल | well, skillful | शुचि | pure | व्याधित | sick |
+| क्षुद्र | small, mean | बहु | much | गुरू | heavy, big |
+| खञ्ज | lame | साधु | virtuous | मृदु | soft |
+| नव | new | आशु | swift | स्वादु | sweet |
+| प्रसन्न | favourable, clear | चारू | beautiful | समर्थ | able |
+| दरिद्र | poor |
+
+
+**Indeclinables:**
+
+अन्यथा - otherwise, तु - however, but
