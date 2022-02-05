@@ -469,3 +469,45 @@ The boy washed the fruit and ate them.
 
 30\) I want to think only of god.
 <br><br>
+
+## Notes
+
+### क्त्वा ल्यप् च प्रत्ययः
+
+These are called gerunds. They are indeclinable.
+
+**From Samskruta Bharati Pravesha lesson 8:**
+
+क्त्वा प्रत्यय: - गत्वा – having gone. त्वा is used if the verb has no prefix
+
+ल्यप् प्रत्ययः  - सम् + गम् + य = संगम्य – having come together
+
+Words with क्त्वा प्रत्ययः are called क्त्वान्त
+
+Words with ल्यप् प्रत्ययः  are called ल्यबन्त
+
+A verb by itself can take क्त्वा प्रत्ययः but if it has a prefix it will take ल्यप् प्रतययः
+
+For instance क्त्वानत of हरति is हृत्वा but अपहरति can only become a ल्यबन्त and will be अपहृत्य
+
+|Word | With ल्यप् |
+| --- | --- |
+| परिहरति | परिहृत्य |
+| समर्पयति | समर्प्य |
+| आरोहति | आरूह्य |
+| उपविशति | उपविश्य |
+| प्रक्षालयति | प्रक्षाल्य |
+
+|Word | With क्त्वा |
+| --- | --- |
+| अर्थयते  | अर्थयित्वा |
+| इच्छति  | इष्ट्वा, एषित्वा |
+
+
+### तुमुन् प्रत्ययः
+
+This is called infinitive and it is indeclinable.
+
+From Samskruta Bharati Pravesha lesson 9
+
+गन्तुम् – to go, पठितुम् – to read, क्रीडितुम् – to play, पक्तुं – to cook

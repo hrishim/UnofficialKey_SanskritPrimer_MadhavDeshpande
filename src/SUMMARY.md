@@ -2,6 +2,7 @@
 
 - [Samskrta-Subodhini - Unofficial Key](./intro.md)
 - [Lesson 1](./chapter_1.md)
+- [Lesson 9](./chapter_9.md)
 - [Lesson 10](./chapter_10.md)
 - [Lesson 11](./chapter_11.md)
 - [Lesson 12](./chapter_12.md)
