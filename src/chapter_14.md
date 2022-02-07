@@ -35,6 +35,8 @@ That river that gives all people all water always, why is she not generous? Some
 
 How is a guru a guru? Since/because teacher’s knowledge is heavy (here it means deep or strong ), therefore he is a teacher – thus say teachers. Some teachers bodies also becomes heavy. But some only the body becomes heavy. Since their knowledge is light, therefore they are not gurus – this all good students know.
 
+गुरुः कथङ्गरुर्भवति ? यतो गुरोः ज्ञानङ्गुरु भवति, ततः स गुरुर्भवतीति गुरवो वदन्ति। केषाञ्चित गुरुणामं शरीराणयपि गुरूणि भवन्ति। केषाञ्चित् तु शरीराणयेव गुरूणि भवन्ति। यतः तेषां ज्ञानं लघु भवति, ततः ते गुरवयेव न वर्तन्तयिति सर्वे कुशलाः शिष्या मन्यन्ते।
+
 <br><br>
 
 ६. यद् वारि तद् एव अम्बु तद् एव च जलम्। अत्र तद् एव वस्तु। बहवः तु शब्दाः। जनाः वारि पिबन्ति। ते अम्बुनि पात्राणि क्षालयन्ति। नद्याः जले च स्नानाय गाहन्ते। तथा बहवः देवाः एकम् तु सत्यम् इति मुनयः जनेभ्यः कथयन्ति। एकः एव ईश्वरः। बहवः तु शबदाः। केचित् जनाः शिवः इति वदन्ति, केचित् विष्णुः इति, केचित् अल्ला इति, केचित् तु जेहोवा इति। ईश्वरः तु सः एव।
@@ -140,7 +142,8 @@ Done above
 यतः अहम् बहुनि फलानि अखादम् जलम् अपि अपिबम् अधुना अहम् मम गृहम् प्रति चालितुम न शक्नोमि। व्यादितम् अहम्।
 
 12\. When the Buddha abandoned his beautiful wife in the palace, she abused him: “He who does not understand his own wife’s sorrow, would never understand the sorrow of the world”
-निन्दति
+
+यदा बुद्धः प्रासादे तस्य चारुम् भार्याम् अत्यजत् सा तम् अनिन्दत् इति – "यः तस्य भार्ययाः दुःखम् न जानाति सः लोकस्य दुःखम कदापि न जानाति।"
 
 **5\) Write any five Sanskrit sentences of your own.**
 
