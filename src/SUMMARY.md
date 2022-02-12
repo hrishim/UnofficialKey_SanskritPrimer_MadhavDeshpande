@@ -12,3 +12,4 @@
   - [Lesson 15](./chapter_15.md)
 - [संस्कृतप्रथमादर्शः Reader - I](r1_intro.md)
   - [Lesson 1: सूर्यः प्रत्यक्षदेवता](./r1l1.md)
+  - [Lesson 2: उद्यमः कार्यसाधकः](./r1l2.md)
