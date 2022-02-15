@@ -14,3 +14,4 @@
   - [Lesson 1: सूर्यः प्रत्यक्षदेवता](./r1l1.md)
   - [Lesson 2: उद्यमः कार्यसाधकः](./r1l2.md)
   - [Lesson 9: अश्वशारङ्गयोः कथा](./r1l9.md)
+  - [Amarakosha Extracts](./r1ae.md)
