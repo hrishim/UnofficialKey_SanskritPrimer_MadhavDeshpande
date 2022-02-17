@@ -16,11 +16,35 @@ How is the word पर्यैक्षत formed? It means examined. It is fro
 
 The लङ् लकार (past-imperfect) form is as follows:
 
-अ + ईक्षते = आ + ईक्षत = ऐक्षत
+अ + ईक्षते = ऐक्षत
 
 For verbs with initial vowels, the combination of the past-tense अ with the initial vowel results in the वृद्धि of the initial vowel. See Lesson 11.
 
 परि + ऐक्षत = पर्यैक्षत
+
+<br>
+
+२) यदा कश्चित् भर्ता भार्याम् अवगणयति, तदा सा अपि तम् भर्तारम् मूर्खम् मत्वा अधिक्षिपति।
+
+When some husband despises (belittles) the wife, then she also thinking that husband is a fool, abuses him.
+
+यदा कश्चिद्भर्ता भार्याम् अवगणयति, तदा सा अपि तम्भर्तारम्मूर्खम्मत्वा अधिक्षिपति।
+
+<br>
+
+३) शास्त्राणि प्रदातुम् गुरवः न शिष्याणाम् गृहाणि गच्छन्ति। किन्तु शिष्या एव गुरोः गृहम् आगत्य शास्त्राणि अधिगच्छन्ति। अद्य तु यदि शिष्याः विद्यालयम् न आगच्छेयुः, गुरवः क्व भवेयुः?
+
+To teach the scriptures teachers do not go to the homes of students. But the students only, after coming to the teacher's house, obtain (learn) the scriptures.
+But today if students don't come to school where will they become gurus.
+
+What is the meaning of प्रदातुम्?
+
+प्रददाति - present (offer)
+
+प्रदाय - supply, प्रदान - confer, delivery, payment
+
+शास्त्राणि प्रदातुङ्गुरवो न शिष्याणाङ्गृहाणि गच्छन्ति। किन्तु शिष्यैव गुरोः गृहम् आगत्य शास्त्राणयधिगच्छन्ति। अद्य तु यदि शिष्या विद्यालयन्न आगच्छेयुः, गुरवः क्व भवेयुः?
+
 
 <br>
 
@@ -101,3 +125,11 @@ Sometimes when उपसर्ग is added the word changes from आत्मन
 **Words with उपसर्ग  have the affix य when applied to words with क्त्वा प्रत्यय:**
 
 Example: गत्वा and आगत्य
+
+**Vocabulary**
+
+| Word | Meaning | Word | Meaning |
+| --- | --- | --- | --- |
+| परिक्षते = परि + ईक्षते | to examine | प्रतीक्षते = प्रति + ईक्षते | to await, expect |
+| आकर्षति = आ + कर्षति | to attract | उत्खनति = उद् + खनति | to dig up |
+| अधिक्षिपति = अधि + क्षिपति | to abuse, accuse | प्रक्षिपति = प्र + क्षिपति | to throw |
