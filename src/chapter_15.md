@@ -144,6 +144,13 @@ Example: गत्वा and आगत्य
 | परिक्षते = परि + ईक्षते | to examine | प्रतीक्षते = प्रति + ईक्षते | to await, expect |
 | आकर्षति = आ + कर्षति | to attract | उत्खनति = उद् + खनति | to dig up |
 | अधिक्षिपति = अधि + क्षिपति | to abuse, accuse | प्रक्षिपति = प्र + क्षिपति | to throw |
-
-| उपगच्छति = उप + गच्छति | to approach | | |
+| प्रक्षिपति = प्र + क्षिपति | to throw | निक्षिपति = नि + क्षिपति | to throw down |
+| संक्षिपति = सम् + क्षिपति  | to summarize, shorten | अवगणयति = अव + गणयति | to despise, belittle |
+| निर्गच्छति = निर् + गच्छति | to leave, go out | अधिगच्छति = अधि + गच्छति | to obtain |
+| अवगच्छति = अव + गच्छति | to know, to learn | आगच्छति = आ + गच्छति | to come, return |
+| उपगच्छति = उप + गच्छति | to approach | संगच्छते = सम् + गच्छते | to unite, concur |
+| आचरति = आ + चरति | to perform | विजयते = वि + जयते | to onquer, win |
+| पराजयते = परा + जयते | to defeat | प्रज्वलति = प्र + ज्वलति | to burn |
+| सन्तुष्यति =  सम् + तुष्यति | to be pleased | परित्यजति = परि + त्यजति | to give up, forsake |  
+| अवदहति = अव + दहति | to burn down | आयच्छति = आ + यच्छति | to receive, take |
 | प्रयच्छति = प्र + यच्छति | to give, offer | | |
