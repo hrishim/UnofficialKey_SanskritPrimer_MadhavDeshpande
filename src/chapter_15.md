@@ -153,4 +153,8 @@ Example: गत्वा and आगत्य
 | पराजयते = परा + जयते | to defeat | प्रज्वलति = प्र + ज्वलति | to burn |
 | सन्तुष्यति =  सम् + तुष्यति | to be pleased | परित्यजति = परि + त्यजति | to give up, forsake |  
 | अवदहति = अव + दहति | to burn down | आयच्छति = आ + यच्छति | to receive, take |
-| प्रयच्छति = प्र + यच्छति | to give, offer | | |
+| प्रयच्छति = प्र + यच्छति | to give, offer | आदिशति = आ + दिशति | to advise, instruct |
+| उपदिशति = उप + दिशति | to advise, instruct | अभिधावति = अभि + धावति | to attack |
+| प्रणयति = प्र + नयति | to compose (a book) | निर्णयति = निर + नयति | to choose, decide |
+| आपृच्छते = आ + पृच्छते | to take leave | प्रबोधति = प्र + बोधति | to awake |
+| अनुभवति = अनु + भवति | to enjoy, feel, experience | उद्भवति = उद् + भवति | to arise, originate |
