@@ -322,9 +322,48 @@ Can we use जनकम् instead of जनकः?
 
 ### Vocabulary
 
-FIXME - complete vocabulary
-
 **Verbs**
 
 | Root | Word (present tense singular) | Meaning |
 | --- | --- | --- |
+| पच् (1P) | पचति | to cook |
+| यज् (1P) | यजति | to sacrifice, to worship |
+| रक्ष् (1P) | रक्षति | to protect |
+| वह् (1P) | वहति | to carry |
+| शंस् (1P) | शंसति | to praise |
+| दंश् (1P) | दशति | to bite |
+| निन्द् (1P) | निन्दति | to blame, accuse |
+| हृ (1P) | हरति | to take away, to steal |
+| दा (1P) | यच्छति | to give |
+| हस् (1P) | हसति | to laugh |
+| पठ् (1P) | पठति | to read, to recite |
+| प्रच्छ (6P) | पृच्छति | to ask |
+| रच् (10P) | रचयति | to arrange, construct, build, compose |
+| भ्रम् (4P) | भ्राम्यति | to roam |
+| शम् (4P) | शाम्यति  | to quieten, cease, become peaceful |
+
+
+**Nouns**
+
+| Masculine || Neuter ||
+| --- | --- | --- | --- |
+| कर | hand | स्थान | place |
+| देश | country | शस्त्र | weapon |
+| मेघ | cloud | शास्त्र | sacred text, manual |
+| सूर्य | sun | शीर्ष | head |
+| अनिल | wind | पुस्तक | book |
+| अनल | fire | | |
+| तात | father | | |
+| पण्डित | a learned man | | |
+
+**Indeclinables**
+
+| Word | Meaning | Word | Meaning |
+| --- | --- | --- | --- |
+| कुत्र | where | क्व | where |
+| इह, अत्र | here | कुतः | why? from where? |
+| ततः | therefore, from there, then | यतः | since, because |
+| यदि | if | तर्हि | then (conditional) |
+| तदा | then (temporal) | कदा | when? |
+| यदा | when (relative pronoun) | यत्र | where (relative pr.) |
+| तत्र | there | | |
