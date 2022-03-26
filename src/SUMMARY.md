@@ -1,5 +1,6 @@
 # Summary
 
+- [Sanskrit Notes](./notes_intro.md)
 - [Samskrta-Subodhini - Unofficial Key](./intro.md)
   - [Lesson 1](./chapter_1.md)
   - [Lesson 3](./chapter_3.md)

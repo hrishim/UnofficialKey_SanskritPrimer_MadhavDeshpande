@@ -3,7 +3,7 @@ authors = ["hrishim"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Unofficial Key for Samskrta-Subodhini:A Sanskrit Primer"
+title = "My Sanskrit Notes"
 
 [build]
 build-dir = "docs"
