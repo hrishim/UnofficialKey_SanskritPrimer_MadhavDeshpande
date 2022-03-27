@@ -1,3 +1,26 @@
 # Sanskrit Notes
 
-This is a collection of notes, translations and other things I am collecting as I learn Sanskrit.
+These pages are a collection of my notes, my translations, and other useful things I have collected  as I learn Sanskrit.
+
+The best way to learn Sanskrit is to learn from a good teacher following whatever text they prescribe. But that may not be possible for all. Here are a list of books and resources I have found useful:
+
+- [Samskrita Bharathi](https://samskritabharati.in/) an NGO founded by Shri. Chamu Shastry has distance learning courses. The courses are based on their own books. Recommended if you are motivated, can already read Devnagri script, and can pronounce Sanskrit correctly.
+- [Vyoma Labs](https://www.sanskritfromhome.org/) - Many free and paid courses. The people in this organization are experts in the language and have experience teaching.
+- [CBSE NCERT Sanskrit books](https://ncert.nic.in/textbook.php?fhsk1=0-15) - used to teach school children in India. They are reasonably good.
+- [Sanskrit OTT](https://www.sanskritott.com/guest/home) - Movies and short films
+- [सम्भाषणसन्देशः](https://sambhashanasandesha.in/) - Sanskrit Magazine
+- [*Sandhi* in Sanskrit](https://openpathshala.com/sandhi-in-sanskrit)
+- [Sanskrit Stories by Madras Sanskrit College](https://youtube.com/playlist?list=PLnnFGi5KwfGF89tdSXx7bCLDuUbeQMheL)
+- Ashtadhyayi
+  - [NCT Acharya Youtube Playlist](https://www.youtube.com/playlist?list=PLX9ZmqCHS6MZ2md47AS9T_3kDoLis9WP3)
+  - [Learn to chant Ashtadhyayi](https://youtube.com/playlist?list=PLmozlYyYE-ETy0niNSEMi4IfW3bqE9Y4A) YouTube Playlist by Vyoma Labs
+  - [Ashtadhyayi Sutra SVBP](https://www.youtube.com/playlist?list=PLjq_FJlkDxOY4u_UrzU1TOlFo9b12IK3R)
+- [Laghu Siddhanta Kaumudi Part 1](https://youtube.com/playlist?list=PLmozlYyYE-EQyN06EzYJlnRRjE_qSJ-wc) - Youtube Playlist by Vyoma Labs
+- [Ten day spoken Sanskrit classes by Prof B Mahadevan](https://youtube.com/playlist?list=PLWjpkY4mU2RDq1GVq0dQwnNsuYnKXoLkV)
+- [Learn Sanskrit through Sanskrit (Rashtriya Sanskrit Sansthan)](https://youtube.com/playlist?list=PLudSN7Po9muLeRM6545s68eakbxwZRpEJ)
+- [Samskritasri Pathamala Smt. Deepa Rangarajan](https://youtube.com/playlist?list=PLmozlYyYE-ETX4yu2uq7vyzzVw29kvWVX): The Pathamala Series has a very unique and judicious mis of Vyakarana (Grammer), Kavya (Litrature), Bhakti through Stotras and Bhagavat-katha and essays on various topics. This is a series of Youtube videos from the Vyoma Labs Youtube channel.
+- [High School Sanskrit Grammar Made Easy](https://youtube.com/playlist?list=PLmozlYyYE-ET72Pz5n8WDtKHH31K06QhW) A Youtube playlist from our favorite Vyoma Labs.
+- [Learn to Chant Amarakosha - Vyoma Labs](https://youtube.com/playlist?list=PLmozlYyYE-ES0OM9C3NRXRAfWmNjBrkzp)
+- [Master Basic Shabdarupas and Dhaturupas](https://youtube.com/playlist?list=PLmozlYyYE-EQ3kJmDuXWSZtnEueO29FH)
+
+Note: Memorizing Amarakosha or Ashtadhyayi maybe attempted by young learners. Older ones may not find it easy.
