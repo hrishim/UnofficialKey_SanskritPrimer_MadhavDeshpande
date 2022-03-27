@@ -4,13 +4,19 @@ These pages are a collection of my notes, my translations, and other useful thin
 
 The best way to learn Sanskrit is to learn from a good teacher following whatever text they prescribe. But that may not be possible for all. Here are a list of books and resources I have found useful:
 
+Courses for beginners:
 - [Samskrita Bharathi](https://samskritabharati.in/) an NGO founded by Shri. Chamu Shastry has distance learning courses. The courses are based on their own books. Recommended if you are motivated, can already read Devnagri script, and can pronounce Sanskrit correctly.
 - [Vyoma Labs](https://www.sanskritfromhome.org/) - Many free and paid courses. The people in this organization are experts in the language and have experience teaching.
 - [CBSE NCERT Sanskrit books](https://ncert.nic.in/textbook.php?fhsk1=0-15) - used to teach school children in India. They are reasonably good.
 - [Madras Sanskrit College Online Course](https://digital.madrassanskritcollege.edu.in/site/home)
 - [Sanskrit through self-study - IITM](http://acharya.gen.in:8080/sanskrit/lessons.php)
+
+Magazines etc:
 - [Sanskrit OTT](https://www.sanskritott.com/guest/home) - Movies and short films
 - [सम्भाषणसन्देशः](https://sambhashanasandesha.in/) - Sanskrit Magazine
+- [सुधर्मा संस्कृतदिनपत्रिका](https://sudharmasanskritdaily.in/) - Sudharma Sanskrit Newspaper
+
+Useful links:
 - [*Sandhi* in Sanskrit](https://openpathshala.com/sandhi-in-sanskrit)
 - [Sanskrit Stories by Madras Sanskrit College](https://youtube.com/playlist?list=PLnnFGi5KwfGF89tdSXx7bCLDuUbeQMheL)
 - Ashtadhyayi
@@ -23,7 +29,7 @@ The best way to learn Sanskrit is to learn from a good teacher following whateve
 - [Samskritasri Pathamala Smt. Deepa Rangarajan](https://youtube.com/playlist?list=PLmozlYyYE-ETX4yu2uq7vyzzVw29kvWVX): The Pathamala Series has a very unique and judicious mix of Vyakarana (Grammer), Kavya (Litrature), Bhakti through Stotras and Bhagavat-katha and essays on various topics. This is a series of Youtube videos from the Vyoma Labs Youtube channel.
 - [High School Sanskrit Grammar Made Easy](https://youtube.com/playlist?list=PLmozlYyYE-ET72Pz5n8WDtKHH31K06QhW) A Youtube playlist from our favorite Vyoma Labs.
 - [Learn to Chant Amarakosha - Vyoma Labs](https://youtube.com/playlist?list=PLmozlYyYE-ES0OM9C3NRXRAfWmNjBrkzp)
-- [Master Basic Shabdarupas and Dhaturupas](https://youtube.com/playlist?list=PLmozlYyYE-EQ3kJmDuXWSZtnEueO29FH)
+- [Master Basic Shabdarupas and Dhaturupas - Vyoma Labs](https://youtube.com/playlist?list=PLmozlYyYE-EQ3kJmDuXWSZtnEueO29FH)
 - [Sanskrit Document Collection](https://sanskritdocuments.org/)
 - [Learn to Chant Narayaneeyam](https://youtube.com/playlist?list=PL8Y9um-Q0HDEhYh2Y2ewNhV-6o93ZRcae) - Youtube Playlist
 
