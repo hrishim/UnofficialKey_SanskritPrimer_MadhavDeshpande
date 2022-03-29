@@ -11,7 +11,7 @@ Courses for beginners:
 - [Madras Sanskrit College Online Course](https://digital.madrassanskritcollege.edu.in/site/home)
 - [Sanskrit through self-study - IITM](http://acharya.gen.in:8080/sanskrit/lessons.php)
 
-Magazines etc:
+Magazines etc.:
 - [Sanskrit OTT](https://www.sanskritott.com/guest/home) - Movies and short films
 - [सम्भाषणसन्देशः](https://sambhashanasandesha.in/) - Sanskrit Magazine
 - [सुधर्मा संस्कृतदिनपत्रिका](https://sudharmasanskritdaily.in/) - Sudharma Sanskrit Newspaper
