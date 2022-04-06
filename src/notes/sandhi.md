@@ -82,6 +82,29 @@ Examples:
 
 तद् + मित्रम् = तन्मित्रम्
 
-Optionally: तद्न, वाग्मम, and तद्मित्रम्
+Optionally: तद्न, वाग्मम, and तद्मित्रम् (rare in texts)
 
-9\.
+9\. ह् after a stop is replaced by the corresponding voiced aspirated stop, optionally:
+
+Examples:
+
+तद् + हि = तद्धि
+
+
+वाक् + हि = वाग्घि
+
+Optionally तद्हि and वाग्हि (rare in texts).
+
+<br>
+
+10\. Final ङ्, ण्, and न् are doubled, after a short vowel and before any vowel
+
+Examples:
+
+अपतन् + इह = अपतन्निह
+
+अगच्छन् + आकाशम् = अगच्छन्नाकाशम्
+
+<br>
+
+11\. 
