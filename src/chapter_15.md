@@ -69,10 +69,41 @@ Just as old men perform (act) so do boys also behave. Because (यतः) boys f
 
 <BR>
 
+६. यदा स पुत्रः वृद्धम् पितरम् मातरम् च वने एव परित्यज्य चार्व्या भार्यया सह आशुना अश्वेन ग्रामाय प्रातिष्ठत, तदा तौ पितरौ पुत्रम् अध्यक्षिपताम्।
+
+When (यदा) that (स) son (पुत्रः), after abandoning (परित्यज्य) old (वृद्धम्) father (पितरम्) and (च) mother (मातरम्) in the forest (वने) only (एव), set out to (प्रातिष्ठत) the village (ग्रामाय ) with (सह) his (implied) beautiful (चार्व्या) wife (भार्यया), then (तदा) the two parents (तौ पितरौ) abused/accused (अध्यक्षिपताम्) the son (पुत्रम्).
+
+चार्व्या - how is this word formed? I guessed it means beautiful and that the word is 3rd vibhakti because of भार्यया.
+
+यदा स पुत्रो वृद्धम्पितरम्मातरञ्च वनयेव परित्यज्य चार्व्या भार्यया सह आशुना अश्वेन ग्रामाय प्रातिष्ठत, तदा तौ पितरौ पुत्रम् अध्यक्षिपताम्।
+
+---
+
+**Note**:
+
+अध्यक्षिपताम् = अधि + अक्षिपताम्
+
+अधिक्षिपति means to abuse, accuse. It is a formed with अधि + क्षिपति. In this sentence  the third person, dual past tense form of क्षिपति is used which is अक्षिपताम्. अध्यक्षिपताम् is the third person, dual past tense form of अधिक्षिपति.
+
+
+प्रातिष्ठत = प्र + अतिष्ठत
+
+प्रतिष्ठते means to set out. It is formed with प्र + तिष्ठते. In this sentence the third person singular form प्रातिष्ठत is used. It is formed as follows - the word अतिष्ठत is the third person singular past tense of तिष्ठते.
+
+
+पितरौ is प्रथम् विभक्ति द्विवचन of पितृ (father). In this context it means parents.
+
+---
+
+<BR>
+
 
 **3) Rewrite the above Sanskrit Sentences with all known sandhis.**
 
 Done above
+
+<BR>
+
 
 **4) Translate the following sentences into Sanskrit, making all possible Sandhis. Whenever possible use the verbal preposition + verb forms contained in the vocabulary of this lesson.** (Use potential forms to translate English future until we learn the Sanskrit future forms in Lesson 17.)
 
