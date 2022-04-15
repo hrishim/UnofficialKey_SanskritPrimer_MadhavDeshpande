@@ -73,9 +73,15 @@ Just as old men perform (act) so do boys also behave. Because (यतः) boys f
 
 When (यदा) that (स) son (पुत्रः), after abandoning (परित्यज्य) old (वृद्धम्) father (पितरम्) and (च) mother (मातरम्) in the forest (वने) only (एव), set out to (प्रातिष्ठत) the village (ग्रामाय ) with (सह) his (implied) beautiful (चार्व्या) wife (भार्यया), then (तदा) the two parents (तौ पितरौ) abused/accused (अध्यक्षिपताम्) the son (पुत्रम्).
 
-चार्व्या - how is this word formed? I guessed it means beautiful and that the word is 3rd vibhakti because of भार्यया.
-
 यदा स पुत्रो वृद्धम्पितरम्मातरञ्च वनयेव परित्यज्य चार्व्या भार्यया सह आशुना अश्वेन ग्रामाय प्रातिष्ठत, तदा तौ पितरौ पुत्रम् अध्यक्षिपताम्।
+
+---
+Notes from teacher:
+
+चार्व्या - 3rd case of "चारुस्" शब्दः। चारु is the root and as it is an adjective it has formation in all the genders. Feminine form is "चारुस्"। Meaning "beautiful.
+
+---
+
 
 ---
 
