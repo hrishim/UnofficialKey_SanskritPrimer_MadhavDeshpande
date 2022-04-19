@@ -36,4 +36,4 @@ The best way to learn Sanskrit is to learn from a good teacher following whateve
 - [Learn to Chant Narayaneeyam](https://youtube.com/playlist?list=PL8Y9um-Q0HDEhYh2Y2ewNhV-6o93ZRcae) - Youtube Playlist
 
 
-**Note:** Memorizing Amarakosha or Ashtadhyayi maybe attempted by young learners. Older ones may not find it easy.
+**Note:** Memorizing Amarakosha or Ashtadhyayi may be attempted by young learners. Older ones may not find it easy.
