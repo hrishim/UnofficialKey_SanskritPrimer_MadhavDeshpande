@@ -20,5 +20,6 @@
   - [Lesson 2: उद्यमः कार्यसाधकः](./r1l2.md)
   - [Lesson 3: गोदोहः](./r1l3.md)
   - [Lesson 4: स्वयङ्कृतोऽनर्थः](./r1l4.md)
+  - [Lesson 6: अश्वः](./reader1/r1l6.md)
   - [Lesson 9: अश्वशारङ्गयोः कथा](./r1l9.md)
   - [Amarakosha Extracts](./r1ae.md)
