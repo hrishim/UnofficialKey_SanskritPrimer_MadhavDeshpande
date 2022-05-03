@@ -22,4 +22,4 @@
   - [Lesson 4: स्वयङ्कृतोऽनर्थः](./reader1/r1l4.md)
   - [Lesson 6: अश्वः](./reader1/r1l6.md)
   - [Lesson 9: अश्वशारङ्गयोः कथा](./reader1/r1l9.md)
-  - [Amarakosha Extracts](./r1ae.md)
+  - [Amarakosha Extracts](./reader1/r1ae.md)
