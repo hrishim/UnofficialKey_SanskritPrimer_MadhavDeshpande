@@ -1,0 +1,236 @@
+# Lesson 15
+
+**1) Write past-imperfect 3rd-person forms (singular, dual and plural) for any thirty verbs with verbal prepositions**
+
+Past-imperfect is लङ् लकारः  and preposition is उपसर्गः
+
+**2) Translate the following sentences into English:**
+
+१. कवीनाम् सभायाम् उपविशय सः नृपः एतस्य कवेः काव्यानाम् गुणान् पर्यैक्षत। काव्येषु गुणान् दृष्टवा प्रसन्नः सः नृपः एतस्मै कुशलाय कवये बहु धनम् प्रायच्छत्।
+
+After sitting in the poet's congregation the king examined the quality of this poet's poems. After seeing the quality in the poems the happy king gave this skillful poet lot of wealth.
+
+कवीनाम् सभायाम् उपविशय स नृप एतस्य कवेः काव्यानाङ्गुणान् पर्यैक्षत। काव्येषु गुणान् दृष्टवा प्रसन्नः स नृः एतस्मै कुशलाय कवये बहु धनम्प्रायच्छत्।
+
+How is the word पर्यैक्षत formed? It means examined. It is from the verb ईक्षते (लट् लकारः आत्मनेपदी).
+
+The लङ् लकार (past-imperfect) form is as follows:
+
+अ + ईक्षते = ऐक्षत
+
+For verbs with initial vowels, the combination of the past-tense अ with the initial vowel results in the वृद्धि of the initial vowel. See Lesson 11.
+
+परि + ऐक्षत = पर्यैक्षत
+
+<br>
+
+२. यदा कश्चित् भर्ता भार्याम् अवगणयति, तदा सा अपि तम् भर्तारम् मूर्खम् मत्वा अधिक्षिपति।
+
+When some husband despises (belittles) the wife, then she also thinking that husband is a fool, abuses him.
+
+यदा कश्चिद्भर्ता भार्याम् अवगणयति, तदा सा अपि तम्भर्तारम्मूर्खम्मत्वा अधिक्षिपति।
+
+<br>
+
+३. शास्त्राणि प्रदातुम् गुरवः न शिष्याणाम् गृहाणि गच्छन्ति। किन्तु शिष्या एव गुरोः गृहम् आगत्य शास्त्राणि अधिगच्छन्ति। अद्य तु यदि शिष्याः विद्यालयम् न आगच्छेयुः, गुरवः क्व भवेयुः?
+
+To teach the scriptures teachers do not go to the homes of students. But the students only, after coming to the teacher's house, obtain (learn) the scriptures.
+But today if students don't come to school where will they become gurus.
+
+What is the meaning of प्रदातुम्?
+
+प्रददाति - present (offer)
+
+प्रदाय - supply, प्रदान - confer, delivery, payment
+
+शास्त्राणि प्रदातुङ्गुरवो न शिष्याणाङ्गृहाणि गच्छन्ति। किन्तु शिष्यैव गुरोः गृहम् आगत्य शास्त्राणयधिगच्छन्ति। अद्य तु यदि शिष्या विद्यालयन्न आगच्छेयुः, गुरवः क्व भवेयुः?
+
+<br>
+
+४. स नृपो मुनिम् उपगम्य तस्मै बहु कनकम् प्रायच्छत्। मुनिः तत् कनकम् कराभ्याम् आदाय भूमौ प्राक्षिपत्। सः अवदत् - कनकम् दृष्ट्वा न अहम् विषीदामि न वा प्रसीदामि। किम् मे कनकेन्? तव कनकम् तव एव प्रासादे विश्राम्यतु - इति।
+
+The king (स नृपो), having approached (उपगम्य) the sage (मुनिम्) , offered to him (तस्मै) a lot of (बहु) gold (कनकम्). The sage (मुनिः), having taken (आदाय) that (तत्) gold (कनकम्) with his two hands (कराभ्याम्), threw it (प्राक्षिपत्) on the ground (भूमौ). He (सः) said (अवदत्) - after seeing (दृष्ट्वा) the gold (कनकम्) I am not (न अहम्) depressed (विषीदामि) and not (न वा) pleased (प्रसीदामि।)। What (किम्) is gold (कनकेन्) for me (मे)? Let your gold (तव कनकम्) rest in your palace only (तव एव प्रासादे विश्राम्यतु) - thus (इति).
+
+
+प्रायच्छत् = प्र + अ + यच्छत्
+
+आदाय = ?
+
+प्राक्षिपत् = प्र + अ + क्षिपति = प्र + अक्षिपत = प्राक्षिपत्
+
+<BR>
+
+५. यथा वृद्धाः आचरन्ति तथा बालाः अपि व्यवहरन्ति। यतः बालाः वृद्धान् अनुसरन्ति, ततः वृद्धाः क्वचित् (sometimes) बालान् परिहरन्ति। बालाः च तान् परिहरन्ति।
+
+
+Just as old men perform (act) so do boys also behave. Because (यतः) boys follow (अनुसरन्ति) the old men so old men sometimes avoid (परिहरन्ति) the boys. The boys also avoid them.
+
+यथा वृद्धा आचरन्ति तथा बाला अपि व्यवहरन्ति। यतो बाला वृद्धान् अनुसरन्ति, ततो वृद्धाः क्वचित् (sometimes) बालान् परिहरन्ति। बालाः च तान् परिहरन्ति।
+
+<BR>
+
+६. यदा स पुत्रः वृद्धम् पितरम् मातरम् च वने एव परित्यज्य चार्व्या भार्यया सह आशुना अश्वेन ग्रामाय प्रातिष्ठत, तदा तौ पितरौ पुत्रम् अध्यक्षिपताम्।
+
+When (यदा) that (स) son (पुत्रः), after abandoning (परित्यज्य) old (वृद्धम्) father (पितरम्) and (च) mother (मातरम्) in the forest (वने) only (एव), set out to (प्रातिष्ठत) the village (ग्रामाय ) with (सह) his (implied) beautiful (चार्व्या) wife (भार्यया), then (तदा) the two parents (तौ पितरौ) abused/accused (अध्यक्षिपताम्) the son (पुत्रम्).
+
+यदा स पुत्रो वृद्धम्पितरम्मातरञ्च वनयेव परित्यज्य चार्व्या भार्यया सह आशुना अश्वेन ग्रामाय प्रातिष्ठत, तदा तौ पितरौ पुत्रम् अध्यक्षिपताम्।
+
+---
+
+**Note**:
+
+अध्यक्षिपताम् = अधि + अक्षिपताम्
+
+अधिक्षिपति means to abuse, accuse. It is a formed with अधि + क्षिपति. In this sentence  the third person, dual past tense form of क्षिपति is used which is अक्षिपताम्. अध्यक्षिपताम् is the third person, dual past tense form of अधिक्षिपति.
+
+
+प्रातिष्ठत = प्र + अतिष्ठत
+
+प्रतिष्ठते means to set out. It is formed with प्र + तिष्ठते. In this sentence the third person singular form प्रातिष्ठत is used. It is formed as follows - the word अतिष्ठत is the third person singular past tense of तिष्ठते.
+
+
+पितरौ is प्रथम् विभक्ति द्विवचन of पितृ (father). In this context it means parents.
+
+Note from teacher:
+
+चार्व्या - 3rd case of "चारुस्" शब्दः। चारु is the root and as it is an adjective it has formation in all the genders. Feminine form is "चारुस्"। Meaning "beautiful.
+
+---
+
+<BR>
+
+७. अस्माकम् नृपस्य वीरा सेना तम् अरीणाम् देशम् अभ्यधावत्, तान् च सर्वान् अरीन् पराजित्य तेषाम् सर्वान् ग्रामान् अवादहत्।
+
+Our (अस्माकम्) king's (नृपस्य) brave (वीरा) army (सेना) attacked (अभ्यधावत्) that (तम्) enemy's (अरीणाम्) country (देशम्) and (च) defeating (पराजित्य) all (सर्वान्) those (तान्) enemies (अरीन्) burned down (अवादहत) all (सर्वान्) their (तेषाम्) villages (ग्रामान्).
+
+अस्माकन्नृपस्य वीरा सेना तम् अरीणान्देशम् अभ्यधावत्, तांश्च सर्वान् अरीन् पराजित्य तेषाम् सर्वान् ग्रामान् अवादहत्।
+
+<BR>
+
+८. यदा स भर्ता भार्यया सह व्यवदत, तदा सा कुशला नारी तम् आदिशत् - एतस्मात् गृहात् अधुना एव बहिर् गच्छ इति। यदा भर्ता गृहात् निर्गत्य कूपाय प्रातिष्ठत, तदा सा तस्मै अवदत् - मम कूपे अपि तव शरीरम् द्रष्टुम् न इच्छामि। अन्यत्र गच्छ इति।
+
+<BR>
+
+When (यदा) that (स) husband (भर्ता) disagreed (व्यवदत) with (सह) his wife (भार्यया), then (तदा) that (सा) happy (कुशला) woman (नारी) instructs (आदिशत्) him (तम्) thus (इति।) - Now (अधुना) it self (एव) go (गच्छ) out (बहिर्) from this house (गृहात्). When (यदा) the husband (भर्ता), having left (निर्गत्य) from the house (गृहात्) set out for (प्रातिष्ठत) the well (कूपाय), then (तदा) she (सा) said (अवदत्) to him (तस्मै) - I don't (न) wish (इच्छामि) to see (द्रष्टुम्) your (तव) body (शरीरम्) in my (मम) well (कूपे) also (अपि). Go (गच्छ) somewhere else (अन्यत्र) - thus (इति).
+
+
+यदा स भर्ता भार्यया सह व्यवदत, तदा सा कुशला नारी तम् आदिशत् - एतस्माद्गृहादधुनैव बहिर् गच्छेति। यदा भर्ता गृहाद्निर्गत्य कूपाय प्रातिष्ठत, तदा सा तस्मै अवदत् - मम कूपेऽपि तव शरीरन्द्रष्टुन्नेच्छामि। अन्यत्र गच्छेति।
+
+---
+
+Notes:
+
+व्यवदत : From वदते (quarrel) -> अवदत (past tense) -> वि + अवदत = व्यवदत (disagreed). विवदते - to disagree, dispute.
+
+प्रातिष्ठत : From तिष्ठते -> अतिष्ठत (past tense) -> प्र + अतिष्ठत = प्रातिष्ठत (set out past tense)
+
+---
+
+<BR>
+
+**3) Rewrite the above Sanskrit Sentences with all known sandhis.**
+
+Done above
+
+<BR>
+
+
+**4) Translate the following sentences into Sanskrit, making all possible Sandhis. Whenever possible use the verbal preposition + verb forms contained in the vocabulary of this lesson.** (Use potential forms to translate English future until we learn the Sanskrit future forms in Lesson 17.)
+
+
+## Notes
+
+Sanskrit Grammarians enumerate the following prepositions:
+प्र, परा, अप, सम् , अनु, अव, निस्, निर्, दुस्, दुर्, वि, आ, नि, अधि, अपि, अति, सु, उद्, अभि, प्रति, परि, उप।
+
+These prepositions function in two distinct ways. Sometimes, they govern nouns and functions as **adverbial phrases**. In this kind of usage, they govern different cases of nouns. In this usage, the Sanskrit grammarians call them **कर्मप्रवचनीयः**.
+
+These prepositions can also be directly attached to verb roots. This way they lead to the formation of a new combination, **which can have a distinct meaning**. In this function, these are called **उपसर्ग** by the Sanskrit grammarians.
+
+**Note: When a उपसर्ग is attached to a verb the meaning could change completely. Also the way a उपसर्ग changes the meaning of one verb may not apply to another verb.**
+
+English prepositions are words like in, at, on, of, and to. उपसर्ग and कर्मप्रवचनीयः are not the same. Why does Deshpande refer to them as prepositions?
+
+| Verb | Meaning | Verb | Meaning | Verb | Meaning |
+| --- | --- | --- | --- | --- | --- |
+| गच्छति | he goes | ईक्षते | he sees | हरति | he takes |
+| आगच्छति | he comes | प्रतीक्षते | he awaits | आहरति | he brings |
+| | | निरीक्षते | he observes | विहरति | he wanders |
+| | | परीक्षते | he examines | | |
+
+<br>
+Two are three verbal prepositions may be simultaneously be prefixed to a verb:
+
+| Word | Meaning | Prefixes (my interpretation) |
+| --- | --- | --- |
+| व्याहरति | he speaks | वि + आ + हरति |
+| प्रत्यागच्छति | he returns | प्रति + आ + गच्छति |
+| अनुव्याहरति | he repeats (someone's words) | अनु + वि + आ + हरति |
+
+<br>
+The past tense marker अ is always prefixed to the word before adding the verbal prepositions. So the sequence is always: preposition + अ + verb. Examples:
+
+<br>
+
+| Present tense with preposition | Meaning | Past tense with preposition | Meaning |
+| --- | --- | --- | --- |
+| प्रविशति | he enters | प्राविशत् | he entered |
+| अनुगच्छति | he follows | अन्वगच्छत् | he followed |
+| उत्खनति | he digs up | उदखनत् | he dug up |
+| विहरति | he moves about | व्यहरत् | he moved about |
+
+There are examples where the अ marker for past tense will not be "visible":
+
+आ + गच्छति = आगच्छति (he comes)
+
+आ + अ + गच्छत् = आगच्छत् (he came)
+
+<br>
+
+आ + हरति = आहरति (he brings)
+
+आ + अ + हरत् = आहरत् (he brought)
+
+Sometimes when उपसर्ग is added the word changes from आत्मनेपदि to परस्मैपदि :
+
+रमते (he feels happy) --> विरमति (he desists, stops) (Also with आ, परि and उप)
+
+तिष्ठति (he stands) --> सन्तिष्ठति (he stays, remains) (Also with अव, प्र, and वि)
+
+जयति (he conquers) --> पराजयते (he defeats) (Also with वि)
+
+गच्छति (he goes) --> सङ्गच्छते (he unites, meets with)
+
+विशति (he enters) --> निविशते (he occupies)
+
+
+**Words with उपसर्ग  have the affix य when applied to words with क्त्वा प्रत्यय:**
+
+Example: गत्वा and आगत्य
+
+**Vocabulary**
+
+| Word | Meaning | Word | Meaning |
+| --- | --- | --- | --- |
+| परिक्षते = परि + ईक्षते | to examine | प्रतीक्षते = प्रति + ईक्षते | to await, expect |
+| आकर्षति = आ + कर्षति | to attract | उत्खनति = उद् + खनति | to dig up |
+| अधिक्षिपति = अधि + क्षिपति | to abuse, accuse | प्रक्षिपति = प्र + क्षिपति | to throw |
+| प्रक्षिपति = प्र + क्षिपति | to throw | निक्षिपति = नि + क्षिपति | to throw down |
+| संक्षिपति = सम् + क्षिपति  | to summarize, shorten | अवगणयति = अव + गणयति | to despise, belittle |
+| निर्गच्छति = निर् + गच्छति | to leave, go out | अधिगच्छति = अधि + गच्छति | to obtain |
+| अवगच्छति = अव + गच्छति | to know, to learn | आगच्छति = आ + गच्छति | to come, return |
+| उपगच्छति = उप + गच्छति | to approach | संगच्छते = सम् + गच्छते | to unite, concur |
+| आचरति = आ + चरति | to perform | विजयते = वि + जयते | to onquer, win |
+| पराजयते = परा + जयते | to defeat | प्रज्वलति = प्र + ज्वलति | to burn |
+| सन्तुष्यति =  सम् + तुष्यति | to be pleased | परित्यजति = परि + त्यजति | to give up, forsake |  
+| अवदहति = अव + दहति | to burn down | आयच्छति = आ + यच्छति | to receive, take |
+| प्रयच्छति = प्र + यच्छति | to give, offer | आदिशति = आ + दिशति | to advise, instruct |
+| उपदिशति = उप + दिशति | to advise, instruct | अभिधावति = अभि + धावति | to attack |
+| प्रणयति = प्र + नयति | to compose (a book) | निर्णयति = निर + नयति | to choose, decide |
+| आपृच्छते = आ + पृच्छते | to take leave | प्रबोधति = प्र + बोधति | to awake |
+| अनुभवति = अनु + भवति | to enjoy, feel, experience | उद्भवति = उद् + भवति | to arise, originate |
+| परिभवति = परि + भवति | to overcome, defeat | प्रभवति = प्र + भवति | to originate, prevail, be able |
+| अनुमन्यते = अनु + मन्यते | to permit, allow | आरोहति = आ + रोहति | to climb, mount |
+| विवदते = वि + विदते | to disagree, dispute | अभिनिविशते = अभि-नि + विशते | to resort to |
+| उपविशति = उप + विशति | to sit | प्रविशति = प्र + विशति | to enter |
+| निवर्तते = नि + वर्तते | to desist from | परिवर्तते = परि + वर्तते | to turn, change (intransitive) |
