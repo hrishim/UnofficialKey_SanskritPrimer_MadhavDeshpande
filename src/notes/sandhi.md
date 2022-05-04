@@ -136,7 +136,7 @@ Examples:
 
 <br>
 
-13\. If a woed ending in a short vowel is followed by छ, a च् is inserted between the two. This insertion is optional after a long vowel. Examples:
+13\. If a word ending in a short vowel is followed by छ, a च् is inserted between the two. This insertion is optional after a long vowel. Examples:
 
 कवि + छात्रः = कविच्छात्रः
 
