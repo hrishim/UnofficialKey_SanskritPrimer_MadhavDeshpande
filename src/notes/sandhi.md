@@ -1,5 +1,58 @@
 # Sandhi
 
+## Anusvāra Sandhi Rules
+
+अनुस्वार
+
+Final म् when followed by a consonant is changed to *anusvāra*. Example: रामम् वदति  -> रामं वदति
+
+The change does not happen if म् is followed by a vowel or is at the end of a sentence. In that case it has to remain as म्.
+
+Optionally an *anusvāra* is further changes to a nasal consonant, which is homorganic with the following consonant. Change of *anusvāra* before य् व् and ल् is less common.
+
+रामम् करोति -> रामं करोति -> रामङ्करोति
+
+रामम् च -> रामं च -> रामञ्च
+
+रामम् टीहा -> रामं टीका -> रामण्टीका
+
+रामम् तत्र -> रामं तत्र -> रामन्तत्र
+
+रामम् पश्यति -> रामं पश्यति -> रामम्पश्यति
+
+रामम् यत्र -> रामं यत्र -> रामय्ँयत्र
+
+रामम् वा -> रामं वा -> रामव्ँवा
+
+रामम् लता -> रामं लता -> रामल्ँलता
+
+## Visarga Sandhi Rules
+
+1\) The final *visarga* remains unchanged before क् ख् प् फ् : रामम् पतति।
+
+<BR>
+
+2\) The final *visarga* changes to a sibilant homorganic with the following unvoiced consonants marginally before श् ष् and स्.
+
+A *visarga* becomes श् before च्, छ्, and श् - जनाः च -> जनाश्च
+
+A *visarga* becomes ष् before ट्, ठ्, and ष् - जनाः टीकाम् -> जनाष्टीकाम्
+
+A *visarga* becomes स् before त्, थ्, and स् - रामः तत्र -> रामस्तत्र
+
+<BR>
+
+3\) A *visarga* when preceded by आ and followed by a voiced consonant or vowel is dropped:
+
+बालाः धावन्ति -> बाला धावन्ति।
+
+जनाः अभितः -> जना अभितः।
+
+<BR>
+
+4\)
+
+
 ## Consonant Sandhi Rules
 
 1\. unvoiced stop -> voiced stop, before a voiced consonant or a vowel

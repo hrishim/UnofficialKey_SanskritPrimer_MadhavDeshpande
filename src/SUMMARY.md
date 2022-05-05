@@ -6,6 +6,7 @@
 - [Samskrta-Subodhini - Unofficial Key](./deshpande/intro.md)
   - [Lesson 1](./deshpande/chapter_1.md)
   - [Lesson 3](./deshpande/chapter_3.md)
+  - [Lesson 6](./deshpande/chapter_6.md)
   - [Lesson 7](./deshpande/chapter_7.md)
   - [Lesson 8](./deshpande/chapter_8.md)
   - [Lesson 9](./deshpande/chapter_9.md)
