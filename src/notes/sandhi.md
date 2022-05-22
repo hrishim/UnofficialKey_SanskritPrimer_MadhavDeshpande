@@ -50,8 +50,58 @@ A *visarga* becomes स् before त्, थ्, and स् - रामः त�
 
 <BR>
 
-4\)
+4\) When a विसर्ग is preceded by अ and followed by a voiced consonant, the sequence अः is changed to ओ :-
 
+पुत्रः धावति -> पुत्रो धावति।
+
+जनः वसति -> जनो वसति।
+
+<BR>
+
+5\) When preceded by अ and followed by any vowel except अ। the विसर्ग is dropped:
+
+पुत्रः उभयतः -> पुत्र उभयतः।
+
+धावतः इह -> धावत इह।
+
+<BR>
+
+6\) When a visarga is preceded by अ and followed by अ, अः is changed to ओ while the following अ is elided. This lost अ is indicated by the unpronounced sign ऽ called *Avagraha*
+
+धावतः अश्वौ -> धावतोऽश्वौ।
+
+पुत्रः अत्र -> पुत्रोऽत्र।
+
+<BR>
+
+7\) An exception to the visarga sandhi
+
+The *visarga* after सः and एषः followed by a consonant does not follow any of the above sandhi-rules, but can be dropped optionally. Before vowels, it follows the normal sandhi rules:
+
+सः तत्र -> स तत्र।
+
+एषः गच्छति -> एष गच्छति।
+
+सः अत्र -> सोऽत्र।
+
+सः उभयतः -> स उभयतः।
+
+एषः च -> एष च।
+
+
+8\) A *visarga* changes to र् if it is preceded by any vowel except अ or आ, and followed by a vowel or a voiced consonant:
+
+मुनिः अत्र -> मुनिरत्र
+
+मुनिः गच्छति -> मुनिर्गच्छति
+
+तरोः + इति -> तरोरिति
+
+तरोः + धावति -> तरोर्धावति
+
+## Word-internal Sandhi rule: Change of न् to ण्
+
+## Vowel Sandhi
 
 ## Consonant Sandhi Rules
 
