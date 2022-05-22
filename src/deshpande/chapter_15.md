@@ -177,8 +177,6 @@ Even though (यद्यपि) mothers (मातरः) do not (न) allow (�
 
 When (यदा) that (सः) teacher (गुरुः) came (आगच्छत्), then (तदा) seeing (दृष्ट्वा) him (तम्) boys (बालाः) stood (उदतिष्ठन्). When (यदा) they (ते) bowed (प्राणमन्) to the teacher (गुरुम्), then (तदा) he (सः) said (अभाषत) - Oh (हे) boys (बालाः) you all sit (उपविशत). You all (यूयम्) have come (आगच्छथ) here (अत्र) to learn (अवगन्तुम्) sacred texts (शास्त्राणि). Yet (तथापि) your (युष्माकम्) mind (मतिः) wanders (परिभ्रमति) elsewhere (अन्यत्र) only (एव) - so he said (इति). The boys (बालाः) bowed (प्रणम्य) to the teacher (गुरुम्) and (च) said (अभाषन्त) - Oh (हे) teacher (गुरो), you (त्वम्) only (एव) read/study (पठ) those (तानि) sacred texts (शास्त्राणि). We (supplied) wish (इच्छामः) to roam (परिभ्रमितुम्) there (तत्र) where (यत्र)  you (त्वम्) and (च) your (तव) sacred texts (शास्त्राणि) are not there (भवेयुः).
 
-What is the meaning of इति in the last sentence?
-
 यदा स गुरुरागच्छत्, तदा तन्दृष्ट्वा बाला उदतिष्ठन्। यदा ते गुरुम्प्राणमन्, तदा सोऽभाषत - हे बाला उपविशत। शास्त्राण्यवगन्तुं यूयम् अत्रागच्छथ। तथापि युष्माकम्मतिरन्यत्रैव परिभ्रमतीति। बाला गुरुम्प्रणम्याभाषन्त - हे गुरो, त्वमेव तानि शास्त्राणि पठ। तत्र वयम्परिभ्रमितुमिच्छामो यत्र त्वन्तव शास्त्राणि च न भवेयुरिति।
 
 
@@ -190,6 +188,28 @@ Done above
 
 
 **4) Translate the following sentences into Sanskrit, making all possible Sandhis. Whenever possible use the verbal preposition + verb forms contained in the vocabulary of this lesson.** (Use potential forms to translate English future until we learn the Sanskrit future forms in Lesson 17.)
+
+1\. Having married the beautiful girl in the garden, the king returned to the palace.
+
+2\. The servant put down the heavy wood. He said to his friend: "Having rested, I will carry this wood out". The friend advised him: "You should carry that wood in a cart."
+
+दारु - wood. Lesson 14?
+
+3\. The teacher awoke and decided to take leave of the fat king.
+
+4\. The woman roamed in the forest to obtain some small, fragrant flowers.
+
+5\. The disciples ask the teacher: "Does happiness originate in a pure mind?". The teacher tells them: "You must overcome (परा + जि) desire. If you would overcome desire, you would not experience happiness or misery."
+
+6\. The daughter brought her mother sweet honey in a heavy, white vessel.
+
+7\. Having composed a new book, the mean sage did not want to summarize it.
+
+8\. When he vanquished the village, the virtuous king was not able to burn it. He requested the enemy: "Let us unite for the sake of the people."
+
+9\. The old father-in-law awaited his son-in-law outside the house. The son-in-law thought: "My father-in-law will only abuse me.". Avoiding him, the son-in-law set out for the forest.
+
+10\. The mother instructed her son: "You must eat only soft fruits. Otherwise you will get sick."
 
 
 ## Notes
