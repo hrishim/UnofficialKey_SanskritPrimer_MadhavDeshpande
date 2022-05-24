@@ -103,6 +103,30 @@ The *visarga* after सः and एषः followed by a consonant does not follow
 
 ## Vowel Sandhi
 
+C) Formation of diphthongs:
+
+ a) अ or आ + इ or ई -> ए
+
+ Examples:
+ च + इति -> चेति &nbsp; मुनिना + इह -> मुनिनेह
+
+ b) अ or आ + उ or ऊ -> ओ
+
+ Examples:
+ अत्र + उपरि -> अत्रोपरि &nbsp; मुनिना + उपरि -> मुनिनोपरि
+
+ c) अ or आ + ए or ऐ -> ऐ
+
+ Examples:
+ च + एव -> चैव &nbsp;
+ धेन्वा + एतद् -> धेन्वैतद्
+
+ d) अ or आ + ओ or औ -> औ
+
+ Examples:
+ च + ओदनम् -> चौदनम् &nbsp;
+ पिबाम + औषधम् -> पिबामौषधम्
+
 ## Consonant Sandhi Rules
 
 1\. unvoiced stop -> voiced stop, before a voiced consonant or a vowel
