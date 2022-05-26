@@ -127,6 +127,20 @@ C) Formation of diphthongs:
  च + ओदनम् -> चौदनम् &nbsp;
  पिबाम + औषधम् -> पिबामौषधम्
 
+ <BR>
+
+**Vowel sandhi rules (continued)**
+
+a.1) ए + अ = ए
+
+Examples:
+लभते अत्र -> लाभतेऽत्र &nbsp; वने अपि -> वनेऽपि
+
+a.2) ए -> अय् before any vowel other than अ
+
+Examples: वने इः -> वनयिह &nbsp; देवे इति -> देवयिति
+
+
 ## Consonant Sandhi Rules
 
 1\. unvoiced stop -> voiced stop, before a voiced consonant or a vowel
