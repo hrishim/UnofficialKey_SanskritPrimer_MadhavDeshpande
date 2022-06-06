@@ -14,7 +14,7 @@ Optionally an *anusvāra* is further changes to a nasal consonant, which is homo
 
 रामम् च -> रामं च -> रामञ्च
 
-रामम् टीहा -> रामं टीका -> रामण्टीका
+रामम् टीका -> रामं टीका -> रामण्टीका
 
 रामम् तत्र -> रामं तत्र -> रामन्तत्र
 
