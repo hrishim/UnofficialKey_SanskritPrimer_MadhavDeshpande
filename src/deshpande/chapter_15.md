@@ -223,17 +223,28 @@ Done above
 
 5\. The disciples ask the teacher: "Does happiness originate in a pure mind?". The teacher tells them: "You must overcome (परा + जि) desire. If you would overcome desire, you would not experience happiness or misery."
 
+शिष्याः गुरुं पृच्छन्ति: "सुखं शुचिनः मनसः उद्भवति वा"। गुरुः तम् वदति "त्वम् इच्छां पराजय। यदा त्वम् इच्छां पराजयेः तदा त्वम् सुखं दुःखं च न अनुभवेः"।
+
+
+[मनस् शब्द रूप](https://www.aplustopper.com/manas-ke-shabd-roop-in-sanskrit/)
+
 <BR>
 
 6\. The daughter brought her mother sweet honey in a heavy, white vessel.
+
+दुहिता तव मात्रे मधुरं मधु गुरोः श्वेते पात्रे नयति।
 
 <BR>
 
 7\. Having composed a new book, the mean sage did not want to summarize it.
 
+नव पुस्तकं रचित्वा क्षुद्रः मुनिः तत् संक्षिपतुम् न इच्छति।
+
 <BR>
 
 8\. When he vanquished the village, the virtuous king was not able to burn it. He requested the enemy: "Let us unite for the sake of the people."
+
+यदा सः ग्रामम् अजयत्, साधुः नृपः तम् दहितुम न शक्नोति। सः अरीन् अर्थयते "जनाः कृते वयम् संगच्छामहे"
 
 <BR>
 
