@@ -250,10 +250,16 @@ Done above
 
 9\. The old father-in-law awaited his son-in-law outside the house. The son-in-law thought: "My father-in-law will only abuse me.". Avoiding him, the son-in-law set out for the forest.
 
+वृद्धः श्वशुरः गृहं बहिः जामातरं प्रतीक्षते। जामाता अचिन्तयत् - "श्वशरुः मा अधिक्षिपति एव।" सः परिहरत्य जामताा वनम् प्रतिष्ठते।
+
+
+वृद्धो श्वशुरो गृहं बहिर्जामातरम्प्रतीक्षते। जामाता अचिन्तयत् - "श्वशरुर्मा अधिक्षिपत्येव।" स परिहरत्य जामाता वनम्प्रतिष्ठते।
+
 <BR>
 
 10\. The mother instructed her son: "You must eat only soft fruits. Otherwise you will get sick."
 
+माता तस्याः पुत्रम् आदिशत् - "त्वम् मृदु फलम् एव खाद। अन्यथा त्वम् रुग्णम् भविष्यसि।"
 
 <BR>
 
