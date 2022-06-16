@@ -17,6 +17,11 @@ The best way to learn Sanskrit is to learn from a good teacher following whateve
 - [Sanskrit OTT](https://www.sanskritott.com/guest/home) - Movies and short films
 - [सम्भाषणसन्देशः](https://sambhashanasandesha.in/) - Sanskrit Magazine
 - [सुधर्मा संस्कृतदिनपत्रिका](https://sudharmasanskritdaily.in/) - Sudharma Sanskrit Newspaper
+- [Ambuda - Sanskrit library project](https://ambuda.org/)
+
+**Dictionaries:**
+- [learnsanskrit.cc](https://www.learnsanskrit.cc/)
+- [kosha.sanskrit.today](https://kosha.sanskrit.today/)
 
 **Useful links:**
 - [*Sandhi* in Sanskrit](https://openpathshala.com/sandhi-in-sanskrit)
