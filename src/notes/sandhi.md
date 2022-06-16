@@ -58,7 +58,7 @@ A *visarga* becomes स् before त्, थ्, and स् - रामः त�
 
 <BR>
 
-5\) When preceded by अ and followed by any vowel except अ। the विसर्ग is dropped:
+5\) When preceded by अ and followed by any vowel except अ, the विसर्ग is dropped:
 
 पुत्रः उभयतः -> पुत्र उभयतः।
 
@@ -88,6 +88,7 @@ The *visarga* after सः and एषः followed by a consonant does not follow
 
 एषः च -> एष च।
 
+<BR>
 
 8\) A *visarga* changes to र् if it is preceded by any vowel except अ or आ, and followed by a vowel or a voiced consonant:
 
@@ -103,7 +104,43 @@ The *visarga* after सः and एषः followed by a consonant does not follow
 
 ## Vowel Sandhi
 
-C) Formation of diphthongs:
+**A) Lengthening of similar simple vowels:**
+
+a) अ or आ + अ or आ -> आ
+
+Examples: राम + अत्र -> रामात्र; माला + आकाशे -> मालाकाशे
+
+b) इ or ई + इ or ई -> ई
+
+Examples: उपरि + इति -> उपरीति; नदी + इति -> नदीति
+
+c) उ or ऊ + उ or ऊ -> ऊ
+
+Examples: गच्छतु + उपरि -> गच्छतूपरि; गच्छतु + ऊर्मिः -> गच्छतूर्मिः
+
+d) ऋ or  ॠ + ऋ or  ॠ -> ॠ
+
+Examples (rare): पितृ + ऋषिः -> पितॄषिः ; पितृ + ॠकारः ->  पितॄकारः
+
+<br>
+
+**B) Simple vowels folowed by dissimilar vowels:**
+
+a) इ or ई -> य् if followed by any other vowel.
+
+Examples: उपरि + अश्वः -> उपर्यश्वः ; नदी + एव -> नद्येव
+
+b) उ or ऊ -> व् if followed by any other vowel.
+
+Example: धावतु + अत्र -> धावत्वत्र
+
+c) ऋ or  ॠ -> र् if followed by any other vowel
+
+Example: पुतृ + अत्र -> पित्रत्र
+
+<br>
+
+**C) Formation of diphthongs:**
 
  a) अ or आ + इ or ई -> ए
 
@@ -129,6 +166,12 @@ C) Formation of diphthongs:
 
  <BR>
 
+**D) Exceptions**
+
+**FIXME**
+
+ <BR>
+ 
 **Vowel sandhi rules (continued)**
 
 a.1) ए + अ = ए
