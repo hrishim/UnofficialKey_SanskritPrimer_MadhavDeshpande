@@ -4,6 +4,7 @@
   - [Sandhi](./notes/sandhi.md)
   - [Subashitam](./subashitam/subashitam1.md)
   - [शब्द रुप](./notes/shabd_roop.md)
+  - [Tenses - लकार - धातु रूप](./notes/dhatu_roop.md)
 - [Samskrta-Subodhini - Unofficial Key](./deshpande/intro.md)
   - [Lesson 1](./deshpande/chapter_1.md)
   - [Lesson 3](./deshpande/chapter_3.md)

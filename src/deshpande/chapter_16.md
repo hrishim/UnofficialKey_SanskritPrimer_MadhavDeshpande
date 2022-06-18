@@ -30,3 +30,11 @@
 (These sentences may seem strange in English)
 
 **5) Write any five passive sentences of your own in Sanskrit.**
+
+## Notes
+
+There are two kinds of passive voice in Sanskrit - कर्मणि प्रयोग and भावे प्रयोग
+
+### Transitive Passive - कर्मणि प्रयोग
+
+### Intransitive Passive - भावे प्रयोग
