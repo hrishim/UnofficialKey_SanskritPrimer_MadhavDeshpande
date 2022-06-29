@@ -28,5 +28,6 @@
   - [Lesson 6: अश्वः](./reader1/r1l6.md)
   - [Lesson 7: श्रृगालस्य कौशलम्](./reader1/r1l7.md)
   - [Lesson 9: अश्वशारङ्गयोः कथा](./reader1/r1l9.md)
+  - [Lesson 11: कूपः](./reader1/r1l11.md)
   - [Lesson 34: भूमिः](./reader1/r1l34.md)
   - [Amarakosha Extracts](./reader1/r1ae.md)
