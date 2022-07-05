@@ -1,5 +1,12 @@
 # Sandhi
 
+**ToC**
+1. [Anusvāra Sandhi Rules](#anusvāra-sandhi-rules)
+1. [Visarga Sandhi Rules](#visarga-sandhi-rules)
+1. [Word-internal Sandhi rule: Change of न् to ण्](#word-internal-sandhi-rule)
+1. [Vowel Sandhi](#vowel-sandhi)
+1. [Consonant Sandhi Rules](#consonant-sandhi-rules)
+
 ## Anusvāra Sandhi Rules
 
 अनुस्वार
@@ -100,7 +107,9 @@ The *visarga* after सः and एषः followed by a consonant does not follow
 
 तरोः + धावति -> तरोर्धावति
 
-## Word-internal Sandhi rule: Change of न् to ण्
+## Word internal Sandhi rule 
+
+Change of न् to ण्
 
 ## Vowel Sandhi
 
@@ -168,7 +177,10 @@ Example: पुतृ + अत्र -> पित्रत्र
 
 **D) Exceptions**
 
-**FIXME**
+Long ई, ऊ, and  ए do not change if they occur at the end of dual forms or nouns or verbs. Similarly the final vowels of interjections like आ, हे and अहो remain unchanged.
+
+Examples:
+मुनी + अत्र -> मुनी अत्र ; धेनू + इति -> धेनु इति; माले अत्र -> माले अत्र
 
  <BR>
  
@@ -183,6 +195,20 @@ a.2) ए -> अय् before any vowel other than अ
 
 Examples: वने इः -> वनयिह &nbsp; देवे इति -> देवयिति
 
+<BR>
+
+b.1) ओ + अ -> ओ
+
+Examples: प्रभो + अधुना -> प्रभोऽधुना &nbsp; गुरो + अत्र -> गोरोऽत्र
+
+b.2) ओ -> अव् before any vowel other than अ
+
+Examples: गुरो + इति -> गुरविति &nbsp; शिशो + इति -> शिशविति
+
+<BR>
+
+
+**FIXME**: Incomplete
 
 ## Consonant Sandhi Rules
 
