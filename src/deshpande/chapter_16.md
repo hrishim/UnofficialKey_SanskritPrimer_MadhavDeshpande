@@ -9,19 +9,49 @@
 
 १. तेन पात्रेण जलं पीयते।
 
+Water is drunk (by someone) with that vessel.
+
 २. दासेन सह नृपेण गम्यते।
+
+The going with the servant is done by the king.
 
 ३. नृपेण दासाय कनकं दीयते।
 
+Giving of gold for/to the servant is done by the king.
+
 ४. जनकेन पुत्राय कुप्यते।
+
+Being angry for the son wis as done by the father.
 
 ६. मया नृपस्य दासो दृश्यते।
 
+The king's servant is seen by me.
+
 ७. मित्रस्य काव्यं दृष्ट्वा नृपेण तुष्यते।
+
+Seeing the friend's poem the king is gladdened.
 
 ८. तेनाश्वेन कूपे पत्यते।
 
+Falling into the well is done by that horse.
+
 ९. मांसं विना शृगालैर्न जीव्यते।
+
+Without meat living cannot be done by jackals.
+
+१०. गृहस्य पुरतो दासेन वीरस्य गुणा अघोष्यन्त।
+
+In the house's front the virtues of the brave were announced/cried out (like a crier of news) by the servant.
+
+
+११. दासेन वनं गम्यतां वृक्षाश्च कृत्यन्ताम्।
+
+Going to the forest and cutting of trees was done by the servant
+
+१२. नृपस्य कृते दासेन प्रासादस्यॊपरि कुसुमानि फलानि च नीयन्ताम्।
+
+For the king's sake flowers and fruits were brought to the palace's top by the servant.
+
 
 <BR>
 
@@ -95,5 +125,16 @@ In these cases use the आत्मनेपदि (middle form) of the verb.
 | कर्तरि प्रयोग (Active voice) |  |  | |
 | **कर्मणि प्रयोग** (Transitive Passive Voice) | | | |
 
+**Note that all passive forms are identical with the forms of a 4<sup>th</sup> conjugation middle verb such as मन्**
 
 ### Intransitive Passive - भावे प्रयोग
+
+In Sanskrit one can have an intransitive passive construction for any intransitive verb, and for transitive verbs used without objects. The focus of the construction is neither the agent, nor the object (which does not exist in this case anyway), but the action (भाव) itself. Thus intransitive constructions can be rendered into English as: 
+
+- The action of going is done by Rama
+- The action of going was done by my friends
+- The action of eating should be done by the King
+
+While strange in English, these sentences are frequent in Sanskrit and are often considered more polite than the corresponding active constructions.
+
+In intransitive passive the agent takes the instrumental case (तृतीया विभक्ति) and **the passive verb is always in third person singular**.
