@@ -7,50 +7,121 @@
 
 **3) Translate the following into English:**
 
-१. तेन पात्रेण जलं पीयते।
+**१. तेन पात्रेण जलं पीयते।**
 
 Water is drunk (by someone) with that vessel.
 
-२. दासेन सह नृपेण गम्यते।
+<BR>
+
+**२. दासेन सह नृपेण गम्यते।**
 
 The going with the servant is done by the king.
 
-३. नृपेण दासाय कनकं दीयते।
+<BR>
+
+**३. नृपेण दासाय कनकं दीयते।**
 
 Giving of gold for/to the servant is done by the king.
 
-४. जनकेन पुत्राय कुप्यते।
+<BR>
 
-Being angry for the son wis as done by the father.
+**४. जनकेन पुत्राय कुप्यते।**
 
-६. मया नृपस्य दासो दृश्यते।
+Being angry for the son was done by the father.
+
+<BR>
+
+**६. मया नृपस्य दासो दृश्यते।**
 
 The king's servant is seen by me.
 
-७. मित्रस्य काव्यं दृष्ट्वा नृपेण तुष्यते।
+<BR>
+
+**७. मित्रस्य काव्यं दृष्ट्वा नृपेण तुष्यते।**
 
 Seeing the friend's poem the king is gladdened.
 
-८. तेनाश्वेन कूपे पत्यते।
+<BR>
+
+**८. तेनाश्वेन कूपे पत्यते।**
 
 Falling into the well is done by that horse.
 
-९. मांसं विना शृगालैर्न जीव्यते।
+<BR>
+
+**९. मांसं विना शृगालैर्न जीव्यते।**
 
 Without meat living cannot be done by jackals.
 
-१०. गृहस्य पुरतो दासेन वीरस्य गुणा अघोष्यन्त।
+<BR>
+
+**१०. गृहस्य पुरतो दासेन वीरस्य गुणा अघोष्यन्त।**
 
 In the house's front the virtues of the brave were announced/cried out (like a crier of news) by the servant.
 
+<BR>
 
-११. दासेन वनं गम्यतां वृक्षाश्च कृत्यन्ताम्।
+**११. दासेन वनं गम्यतां वृक्षाश्च कृत्यन्ताम्।**
 
 Going to the forest and cutting of trees was done by the servant
 
-१२. नृपस्य कृते दासेन प्रासादस्यॊपरि कुसुमानि फलानि च नीयन्ताम्।
+<BR>
+
+**१२. नृपस्य कृते दासेन प्रासादस्यॊपरि कुसुमानि फलानि च नीयन्ताम्।**
 
 For the king's sake flowers and fruits were brought to the palace's top by the servant.
+
+<BR>
+
+**१३. हॆ तात, ऎतानि फलानि जलॆन क्षालयित्वा भक्ष्यन्ताम्।**
+
+Oh father, these fruits, after being washed, maybe eaten by you.
+
+<BR>
+
+**१४. नृपस्य दासॆन स मुनिरदृश्यत।**
+
+The sage was seen by the king's servant.
+
+<BR>
+
+**१५. हे दास, मया तव नृपस्य गुरुणा भूयते।**
+
+Oh servant, I be your king's guru.
+
+<BR>
+
+**१६. भार्यया भक्त्या स गुरुरनम्यत।**
+
+भार्यया भक्त्या स गुरुोः अनम्यत।
+
+With devotion the Guru is bowed to by the wife.
+
+<BR>
+
+**१७.  जनकेन शिशुस्ताडयेत।**
+
+The boy was beaten by the father.
+
+<BR>
+
+**१८. यद्यपि भार्ययाहं निन्द्ये, तथापि मया सा न कदापि निन्द्यते।**
+
+Eventhough (my) wife is blamed/derided by me, even then she never ever 
+blames/derides (me).
+
+<BR>
+
+**१९. या नारी मया चिन्त्यते तयाहं न चिन्त्ये।**
+
+The woman who I am thought of by, she is not thought of by me.
+
+<BR>
+
+
+**२०. त्वया मरणं न बुध्यते, न वा जीवनमिति मुनिनाभाष्यत।**
+
+Your death is not known, nor your life - thus was said by the sages.
 
 
 <BR>
