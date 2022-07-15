@@ -144,7 +144,7 @@ Your death is not known, nor your life - thus was said by the sages.
 
 **3. Misery was remembered by the two boys.**
 
-दुःखं बालाभ्यां स्मरते।
+दुःखं बालाभ्यां स्मर्यते।
 
 <BR>
 
@@ -192,7 +192,7 @@ Your death is not known, nor your life - thus was said by the sages.
 
 **11. Standing around the king must be done by the servants.**
 
-नृपः सर्वतः दासैः तिष्ठताम्।
+नृपः सर्वतः दासैः स्थीयताम्।
 
 <BR>
 
