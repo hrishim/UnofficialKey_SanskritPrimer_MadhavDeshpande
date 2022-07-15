@@ -130,6 +130,99 @@ Your death is not known, nor your life - thus was said by the sages.
 
 (These sentences may seem strange in English)
 
+**1. Fruits are eaten by the crows.**
+
+फलानि काकान् खाद्यन्ते।
+
+<BR>
+
+**2. Falling is done by water.**
+
+जलेन पतते।
+
+<BR>
+
+**3. Misery was remembered by the two boys.**
+
+दुःखं बालाभ्यां स्मरते।
+
+<BR>
+
+**4. Running toward that mountain is done by the horses.**
+
+अश्वैः सः पर्वतः प्रति धावते। 
+
+<BR>
+
+**5. Being around the village is done by those trees.**
+
+ग्रामेण सर्वतः वृक्षाः भवन्ते।
+
+<BR>
+
+**6. Being without gold is done by me.**
+
+मया कनकं विना भवते।
+
+<BR>
+
+**7. Between the two pots, a leaf is seen by the crow.**
+
+पात्रयोः मध्ये पत्रं काकान दृश्यते। 
+
+<BR>
+
+**8. That lotus is taken by her.**
+
+तत् कमलं ताम् नीयते।
+
+<BR>
+
+**9. Those grasses should be seen by the two of us.**
+
+तानि तृणानि आवाभ्याम् दृश्येरन्।
+
+<BR>
+
+**10. The villages must be conquered by the king.**
+
+ग्रामाणि नृपेण विजयन्ताम्।
+
+<BR>
+
+**11. Standing around the king must be done by the servants.**
+
+नृपः सर्वतः दासैः तिष्ठताम्।
+
+<BR>
+
+
+**12. Without a horse, going to town is done my me.**
+
+अश्वं विना मया नगरं गम्यते।
+
+<BR>
+
+**13. Those two girls were seen by those two boys.**
+
+ते बाले ताभ्यां बालाभ्यां अदृश्येताम्।
+
+<BR>
+
+**14. I should be remembered by the king.**
+
+**15. You were praised by me.**
+
+**16. The king was spoken to by the servant.**
+
+**17. The woman should be saved by the sage.**
+
+**18. When the boy's body was seen by the mother, crying was done by her.**
+
+**19. All the houses were visited (lit. gone to) by that woman.**
+
+<BR>
+
 **5) Write any five passive sentences of your own in Sanskrit.**
 
 ## Notes
