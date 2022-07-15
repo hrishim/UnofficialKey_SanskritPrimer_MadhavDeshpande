@@ -138,7 +138,7 @@ Your death is not known, nor your life - thus was said by the sages.
 
 **2. Falling is done by water.**
 
-जलेन पतते।
+जलेन पत्यते।
 
 <BR>
 
@@ -150,19 +150,19 @@ Your death is not known, nor your life - thus was said by the sages.
 
 **4. Running toward that mountain is done by the horses.**
 
-अश्वैः सः पर्वतः प्रति धावते। 
+अश्वैः सः पर्वतः प्रति धाव्यते। 
 
 <BR>
 
 **5. Being around the village is done by those trees.**
 
-ग्रामेण सर्वतः वृक्षाः भवन्ते।
+ग्रामेण सर्वतः वृक्षाः भूयन्ते।
 
 <BR>
 
 **6. Being without gold is done by me.**
 
-मया कनकं विना भवते।
+मया कनकं विना भूयते।
 
 <BR>
 
@@ -186,7 +186,7 @@ Your death is not known, nor your life - thus was said by the sages.
 
 **10. The villages must be conquered by the king.**
 
-ग्रामाणि नृपेण विजयन्ताम्।
+ग्रामाणि नृपेण जीयन्ताम्।
 
 <BR>
 
