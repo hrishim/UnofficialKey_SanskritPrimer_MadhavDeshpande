@@ -1,9 +1,14 @@
 # Lesson 16: The passive voice (कर्मणि प्रयोग, भावे प्रयोग)
 
 
-**1) Write a complete passive paradigm (present, past, imerative, and optative) for the following verbs: वद्, चुर्, वस्, यज्**
+**1) Write a complete passive paradigm (present, past, imperative, and optative) for the following verbs: वद्, चुर्, वस्, यज्**
+
+<BR>
 
 **2) Transform info passive the first 10 sentences in exercise 1 and 2 of lesson 12. Make sure you use the appropriate gerund or infinitive forms in your passive sentences.**
+
+
+<BR>
 
 **3) Translate the following into English:**
 
@@ -249,6 +254,10 @@ Your death is not known, nor your life - thus was said by the sages.
 
 **5) Write any five passive sentences of your own in Sanskrit.**
 
+<BR>
+
+---
+
 ## Notes
 
 There are two kinds of passive voice in Sanskrit - कर्मणि प्रयोग and भावे प्रयोग
@@ -326,3 +335,11 @@ In Sanskrit one can have an intransitive passive construction for any intransiti
 While strange in English, these sentences are frequent in Sanskrit and are often considered more polite than the corresponding active constructions.
 
 In intransitive passive the agent takes the instrumental case (तृतीया विभक्ति) and **the passive verb is always in third person singular**.
+
+**List of verbs:**
+
+**FIXME: complete the list**
+
+| Root | Active Voice (कर्तरि प्रयोग) | Passive Voice (कर्मणि/भावे प्रयोग) | Meaning |
+| --- | --- | --- | --- |
+| अर्थ् | अर्थयते | अर्थयते | plead, ask for, wish, strive to obtain, desire |
