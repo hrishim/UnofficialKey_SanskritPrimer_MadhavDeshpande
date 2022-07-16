@@ -130,6 +130,8 @@ Your death is not known, nor your life - thus was said by the sages.
 
 (These sentences may seem strange in English)
 
+<BR>
+
 **1. Fruits are eaten by the crows.**
 
 फलानि काकान् खाद्यन्ते।
@@ -211,15 +213,37 @@ Your death is not known, nor your life - thus was said by the sages.
 
 **14. I should be remembered by the king.**
 
+नृपेण अहं स्मर्येत।
+
+<BR>
+
 **15. You were praised by me.**
+
+त्वम् मया श्लाघ्यते।
+
+<BR>
 
 **16. The king was spoken to by the servant.**
 
+नृपः दासेन अकथयत।
+
+<BR>
+
 **17. The woman should be saved by the sage.**
+
+मुनिना नारी रक्षयताम् ।
+
+<BR>
 
 **18. When the boy's body was seen by the mother, crying was done by her.**
 
+यदा बालस्य शरीरः मात्रा अदृश्यत, तया रोधनम् अभूयत।
+
+<BR>
+
 **19. All the houses were visited (lit. gone to) by that woman.**
+
+सर्वे गृहाणि तया नार्या अगम्यत।
 
 <BR>
 
