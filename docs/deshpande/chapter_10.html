@@ -1,0 +1,498 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Lesson 10 - My Sanskrit Notes</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        
+        <link rel="icon" href="../favicon.svg">
+        
+        
+        <link rel="shortcut icon" href="../favicon.png">
+        
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        
+        <link rel="stylesheet" href="../css/print.css" media="print">
+        
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../notes_intro.html"><strong aria-hidden="true">1.</strong> Sanskrit Notes</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../notes/sandhi.html"><strong aria-hidden="true">1.1.</strong> Sandhi</a></li><li class="chapter-item expanded "><a href="../subashitam/subashitam1.html"><strong aria-hidden="true">1.2.</strong> Subashitam</a></li><li class="chapter-item expanded "><a href="../notes/lakaras.html"><strong aria-hidden="true">1.3.</strong> Tenses - लकार</a></li><li class="chapter-item expanded "><a href="../notes/shabd_roop.html"><strong aria-hidden="true">1.4.</strong> शब्द रुप</a></li><li class="chapter-item expanded "><a href="../notes/dhatu_roop.html"><strong aria-hidden="true">1.5.</strong> धातु रूप</a></li></ol></li><li class="chapter-item expanded "><a href="../deshpande/intro.html"><strong aria-hidden="true">2.</strong> Samskrta-Subodhini - Unofficial Key</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../deshpande/chapter_1.html"><strong aria-hidden="true">2.1.</strong> Lesson 1</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_3.html"><strong aria-hidden="true">2.2.</strong> Lesson 3</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_6.html"><strong aria-hidden="true">2.3.</strong> Lesson 6</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_7.html"><strong aria-hidden="true">2.4.</strong> Lesson 7</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_8.html"><strong aria-hidden="true">2.5.</strong> Lesson 8</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_9.html"><strong aria-hidden="true">2.6.</strong> Lesson 9</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_10.html" class="active"><strong aria-hidden="true">2.7.</strong> Lesson 10</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_11.html"><strong aria-hidden="true">2.8.</strong> Lesson 11</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_12.html"><strong aria-hidden="true">2.9.</strong> Lesson 12</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_13.html"><strong aria-hidden="true">2.10.</strong> Lesson 13</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_14.html"><strong aria-hidden="true">2.11.</strong> Lesson 14</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_15.html"><strong aria-hidden="true">2.12.</strong> Lesson 15</a></li><li class="chapter-item expanded "><a href="../deshpande/chapter_16.html"><strong aria-hidden="true">2.13.</strong> Lesson 16: The passive voice (कर्मणि प्रयोग, भावे प्रयोग)</a></li></ol></li><li class="chapter-item expanded "><a href="../reader1/r1_intro.html"><strong aria-hidden="true">3.</strong> संस्कृतप्रथमादर्शः Reader - I</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../reader1/r1l1.html"><strong aria-hidden="true">3.1.</strong> Lesson 1: सूर्यः प्रत्यक्षदेवता</a></li><li class="chapter-item expanded "><a href="../reader1/r1l2.html"><strong aria-hidden="true">3.2.</strong> Lesson 2: उद्यमः कार्यसाधकः</a></li><li class="chapter-item expanded "><a href="../reader1/r1l3.html"><strong aria-hidden="true">3.3.</strong> Lesson 3: गोदोहः</a></li><li class="chapter-item expanded "><a href="../reader1/r1l4.html"><strong aria-hidden="true">3.4.</strong> Lesson 4: स्वयङ्कृतोऽनर्थः</a></li><li class="chapter-item expanded "><a href="../reader1/r1l5.html"><strong aria-hidden="true">3.5.</strong> Lesson 5: श्रीरामपट्टाभिषेकः</a></li><li class="chapter-item expanded "><a href="../reader1/r1l6.html"><strong aria-hidden="true">3.6.</strong> Lesson 6: अश्वः</a></li><li class="chapter-item expanded "><a href="../reader1/r1l7.html"><strong aria-hidden="true">3.7.</strong> Lesson 7: श्रृगालस्य कौशलम्</a></li><li class="chapter-item expanded "><a href="../reader1/r1l9.html"><strong aria-hidden="true">3.8.</strong> Lesson 9: अश्वशारङ्गयोः कथा</a></li><li class="chapter-item expanded "><a href="../reader1/r1l10.html"><strong aria-hidden="true">3.9.</strong> Lesson 10: कोकिलः</a></li><li class="chapter-item expanded "><a href="../reader1/r1l11.html"><strong aria-hidden="true">3.10.</strong> Lesson 11: कूपः</a></li><li class="chapter-item expanded "><a href="../reader1/r1l34.html"><strong aria-hidden="true">3.11.</strong> Lesson 34: भूमिः</a></li><li class="chapter-item expanded "><a href="../reader1/r1ae.html"><strong aria-hidden="true">3.12.</strong> Amarakosha Extracts</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">My Sanskrit Notes</h1>
+
+                    <div class="right-buttons">
+                        
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        
+                        
+
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="lesson-10"><a class="header" href="#lesson-10">Lesson 10</a></h1>
+<p><strong>1) Translate the following into English:</strong>
+<br><br>
+१. अधुना सा नारी गृहे श्वश्र्वा सह मन्त्रयते।</p>
+<p>Today that woman counselled with her mother-in-law at home.
+<br><br></p>
+<p>२. यद्यपि चन्द्र आकाशे एव भवति, तथापि बाला मन्यन्ते – चन्द्रो ह्रदेऽपि वसति – इति।</p>
+<p>यद्यपि चन्द्रः आकाशे एव भवति, तथापि बालाः मन्यन्ते – चन्द्रः ह्रदे अपि वसति – इति।</p>
+<p>Even if the moon is in only in the sky, even then boys/girls think – moon lives in the lake.
+<br><br></p>
+<p>३. जनको जननीं भाषते – हे भार्ये, एतेन बालेन सह आवां मोदावहे – इति।</p>
+<p>जनकः जननीं भाषते – हे भार्ये, एतेन बालेन सह आवां मोदावहे – इति।</p>
+<p>Father says to the mother – Wife, with this boy we two rejoice.
+<br><br></p>
+<p>४. ह्रदस्य जले गजा गाहन्ते। ते मन्यन्ते – चन्द्रोऽप्यत्रैव गाहते – इति।</p>
+<p>ह्रदस्य जले गजाः गाहन्ते। ते मन्यन्ते – चन्द्रः अपि अत्रैव गाहते – इति।</p>
+<p>Elephants plunge into the lake’s water. They think – the moon also plunges there.
+<br><br></p>
+<p>५. शृगाला वने गजमीक्षन्ते। गजस्य शक्तिं ते श्लाघन्ते।</p>
+<p>शृगालाः वने गजम् ईक्षन्ते। गजस्य शक्तिं ते श्लाघन्ते।</p>
+<p>Jackals see te elephant in the forest. They praise the strength of the elephant.
+<br><br></p>
+<p>६. यथाकाशे चन्द्रो वर्धते, तथा गृहे बाला वर्धते।</p>
+<p>यथा आकाशे चन्द्रः वर्धते, तथा गृहे बाला वर्धते।</p>
+<p>Just as the moon grows in the sky, in that manner the girl grows in the home.
+<br><br></p>
+<p>७. यदा जननी बालामीक्षते, तदा सा मोदते।</p>
+<p>यदा जननी बालाम् ईक्षते, तदा सा मोदते।</p>
+<p>When the mother sees the girl she rejoices.
+<br><br></p>
+<p>८. हे भार्ये, अद्याहं त्वामर्थये – मां मा त्यज – इति।</p>
+<p>हे भार्ये, अद्य अहं त्वाम् अर्थये – मां मा त्यज – इति।</p>
+<p>Wife today I request you – dont abandon me.
+<br><br></p>
+<p>९. पर्वतस्योपरि वनं विद्यते। तस्मिन् वनेऽद्य गजा म्रियन्ते।</p>
+<p>पर्वतस्य उपरि वनं विद्यते। तस्मिन् वने अद्य गजाः म्रियन्ते।</p>
+<p>On top of the mountain a forest exists. In that forest today elephants die.
+<br><br></p>
+<p>१०. मित्रस्य वचनेन नृपः खिद्यते, किन्तु स भाषते – हे मित्र, य		दाहं त्वामीक्षे, तदाहं मोदे – इति।</p>
+<p>मित्रस्य वचनेन नृपः खिद्यते, किन्तु सः भाषते – हे मित्र, यदा अहं त्वाम् ईक्षे, तदा अहं मोदे – इति।</p>
+<p>The king is sad because of the friends words, but he says – Friend, when I see you I rejoice.
+<br><br></p>
+<p>११. यद्यपि मम भार्या मां निन्दति, तथाप्यहं तां श्लाघे। किन्तु सा मां न कदापि श्लाघते।</p>
+<p>यद्यपि मम भार्या मां निन्दति, तथापि अहं तां श्लाघे। किन्तु सा मां न कदापि श्लाघते।</p>
+<p>Even if my wife scolds/blames/derides me even then I praise her. But she never praises me.
+<br><br></p>
+<p>१२. यदा स बालो वृक्षात् अधः पतति, तदा स वेपते। स जनकं भाषते – अहं न कदापि वृक्षं रोहेयम् – इति।</p>
+<p>यदा सः बालः वृक्षात् अधः पतति, तदा सः वेपते। सः जनकं भाषते – अहं न कदापि वृक्षं रोहेयम् – इति।</p>
+<p>When that boy fell from the tree, then he trembled. He speaks to his father thus – I will never climb the tree.
+<br><br></p>
+<p>१३. जना मां कविं मन्यन्ते। किन्त्वहं न कदापि काव्यमलिखम्। कविः काव्येन मोदते। अहं काव्येन क्लिश्ये। अहं शास्त्राय स्पृह्यामि।</p>
+<p>जनाः मां कविं मन्यन्ते। किन्तु अहं न कदापि काव्यम् अलिखम्। कविः काव्येन मोदते। अहं काव्येन क्लिश्ये। अहं शास्त्राय स्पृह्यामि।</p>
+<p>People think I am a poet. But I never wrote a poem. Poets rejoice due to poetry. I suffer due to poetry. I long for sacred texts.
+<br><br></p>
+<p>१४. मम भार्या तस्या जनन्या वचने रमते। किन्तु अहं मम श्वश्र्वा वचनेन खिद्ये।</p>
+<p>मम भार्या तस्याः जनन्याः वचने रमते। किन्तु अहं मम श्वश्र्वाः वचनेन खिद्ये।</p>
+<p>My wife rejoices in her mother’s words. But I am sad due to my mother-in-law’s words.
+<br><br></p>
+<p>१५.  यद्यप्यद्य त्वं मां धनस्य कृते श्लाघसे, तथापि ह्यः मम त्वमेव मामनिन्दः।</p>
+<p>यद्यपि अद्य त्वं मां धनस्य कृते श्लाघसे, तथापि ह्यः मम त्वम एव माम् अनिन्दः।</p>
+<p>Even if you praise me for my wealth today, even then tomorrow only you will  scold/blame/deride me.
+<br><br></p>
+<p>१६. यथा शृगालो मांसं ग्रसते, तथा मम दुःखं मां ग्रसते।</p>
+<p>यथा शृगालः मांसं ग्रसते, तथा मम दुःखं मां ग्रसते।</p>
+<p>Just as the jackal swallows meat, like that I swallow my misery.
+<br><br></p>
+<p>१७. एतस्मिन् देशे जनाः सुखं न लभन्ते, किन्तु तस्मिन् देशे जना अन्नमपि न लभन्ते।</p>
+<p>एतस्मिन् देशे जनाः सुखं न लभन्ते, किन्तु तस्मिन् देशे जनाः अन्नम् अपि न लभन्ते।</p>
+<p>In this country people do not get happiness, but in that country people dont get even food.
+<br><br></p>
+<p>१८. यतोऽहमद्य त्वां चिन्तयामि, ततः श्वः त्वमपि मां चिन्तयेः।</p>
+<p>यतः अहम् अद्य त्वां चिन्तयामि, ततः श्वः त्वम् अपि मां चिन्तयेः।</p>
+<p>Just as I today think of you, like that tomorrow you also will think of me.
+<br><br></p>
+<p>१९. यां नारीमहं चिन्तयामि, सा मां न चिन्तयति। सा यं नरं चिन्तयति, स तां न चिन्तयति। स यां चिन्तयति, सा तं न चिन्तयति। सा कं चिन्तयति। सा मां चिन्तयति।</p>
+<p>यां नारीम् अहं चिन्तयामि, सा मां न चिन्तयति। सा यं नरं चिन्तयति, सः तां न चिन्तयति। सः यां चिन्तयति, सा तं न चिन्तयति। सा कं चिन्तयति। सा मां चिन्तयति।</p>
+<p>The woman who I think about, she does not think about me. The man she thinks about, he does not think about her. The woman he (that man) thinks about, she does not think about him. Who does she think about? She thinks about me.
+<br><br></p>
+<p>२०. यस्मिन् वने स मुनिर्वर्तते, तस्मिन् एव वने सा नारी रमते।</p>
+<p>यस्मिन् वने स मुनिः वर्तते, तस्मिन् एव वने सा नारी रमते।</p>
+<p>That forest in which the sage is there, in only that  forest the woman rejoices.
+<br><br></p>
+<hr />
+<p><br><br>
+<strong>2) Rewrite the above sentences, without the sandhis, but write with sandhis those sequences which are originally without sandhis</strong></p>
+<p>१. अधुना सा नारी गृहे श्वश्र्वा सह मन्त्रयते।</p>
+<p>अधुना सा नारी गृहे श्वश्र्वा सह मन्त्रयते। No change
+<br><br></p>
+<p>२. यद्यपि चन्द्र आकाशे एव भवति, तथापि बाला मन्यन्ते – चन्द्रो ह्रदेऽपि वसति – इति।</p>
+<p>यद्यपि चन्द्रः आकाशे एव भवति, तथापि बालाः मन्यन्ते – चन्द्रः ह्रदे अपि वसति – इति।</p>
+<p>यद्यपि चन्द्रः आकाशे एव भवति, तथापि बालाः मन्यन्ते – चन्द्रः ह्रदेऽपि वसतीति।
+<br><br></p>
+<p>३. जनको जननीं भाषते – हे भार्ये, एतेन बालेन सह आवां मोदावहे – इति।</p>
+<p>जनकः जननीम्भाषते – हे भार्ये, एतेन बालेन सह आवाम्मोदावहयिति।
+<br><br></p>
+<p>४. ह्रदस्य जले गजा गाहन्ते। ते मन्यन्ते – चन्द्रोऽप्यत्रैव गाहते – इति।</p>
+<p>ह्रदस्य जले गजाः गाहन्ते। ते मन्यन्ते – चन्द्रः अपि अत्रैव गाहते – इति।</p>
+<p>ह्रदस्य जले गजाः गाहन्ते। ते मन्यन्ते – चन्द्रः अपि अत्रैव गाहतयिति।
+<br><br></p>
+<p>५. शृगाला वने गजमीक्षन्ते। गजस्य शक्तिं ते श्लाघन्ते।</p>
+<p>शृगालाः वने गजम् ईक्षन्ते। गजस्य शक्तिं ते श्लाघन्ते।</p>
+<p>शृगालाः वने गजम् ईक्षन्ते। गजस्य शक्तिन्ते श्लाघन्ते।
+<br><br></p>
+<p>६. यथाकाशे चन्द्रो वर्धते, तथा गृहे बाला वर्धते।</p>
+<p>यथा आकाशे चन्द्रः वर्धते, तथा गृहे बाला वर्धते। No Change
+<br><br></p>
+<p>७. यदा जननी बालामीक्षते, तदा सा मोदते।</p>
+<p>यदा जननी बालाम् ईक्षते, तदा सा मोदते। No change
+<br><br></p>
+<p>८. हे भार्ये, अद्याहं त्वामर्थये – मां मा त्यज – इति।</p>
+<p>हे भार्ये, अद्य अहं त्वाम् अर्थये – मां मा त्यज – इति।</p>
+<p>हे भार्येऽद्य अहन्त्वाम् अर्थये – मां मा त्यजेति।
+<br><br></p>
+<p>९. पर्वतस्योपरि वनं विद्यते। तस्मिन् वनेऽद्य गजा म्रियन्ते।</p>
+<p>पर्वतस्य उपरि वनं विद्यते। तस्मिन् वने अद्य गजाः म्रियन्ते। No change
+<br><br></p>
+<p>१०. मित्रस्य वचनेन नृपः खिद्यते, किन्तु स भाषते – हे मित्र, यदाहं त्वामीक्षे, तदाहं मोदे – इति।</p>
+<p>मित्रस्य वचनेन नृपः खिद्यते, किन्तु सः भाषते – हे मित्र, यदा अहं त्वाम् ईक्षे, तदा अहं मोदे – इति।</p>
+<p>मित्रस्य वचनेन नृपो खिद्यते, किन्तु सः भाषते – हे मित्र, यदा अहन्त्वाम् ईक्षे, तदा अहम्मोदे - इति।
+<br><br></p>
+<p>११. यद्यपि मम भार्या मां निन्दति, तथाप्यहं तां श्लाघे। किन्तु सा मां न कदापि श्लाघते।</p>
+<p>यद्यपि मम भार्या मां निन्दति, तथापि अहं तां श्लाघे। किन्तु सा मां न कदापि श्लाघते।</p>
+<p>यद्यपि मम भार्या मां निन्दति, तथापि अहन्तां श्लाघे। किन्तु सा मान्न कदापि श्लाघते।
+<br><br></p>
+<p>१२. यदा स बालो वृक्षात् अधः पतति, तदा स वेपते। स जनकं भाषते – अहं न कदापि वृक्षं रोहेयम् – इति।</p>
+<p>यदा सः बालः वृक्षात् अधः पतति, तदा सः वेपते। सः जनकं भाषते – अहं न कदापि वृक्षं रोहेयम् – इति।</p>
+<p>यदा सः बालः वृक्षात् अधः पतति, तदा सः वेपते। सः जनकम्भाषते – अहन्न कदापि वृक्षं रोहेयमिति।
+<br><br></p>
+<p>१३. जना मां कविं मन्यन्ते। किन्त्वहं न कदापि काव्यमलिखम्। कविः काव्येन मोदते। अहं काव्येन क्लिश्ये। अहं शास्त्राय स्पृह्यामि।</p>
+<p>जनाः मां कविं मन्यन्ते। किन्तु अहं न कदापि काव्यम् अलिखम्। कविः काव्येन मोदते। अहं काव्येन क्लिश्ये। अहं शास्त्राय स्पृह्यामि।</p>
+<p>जनाः मां कविम्मन्यन्ते। किन्तु अहन्न कदापि काव्यम् अलिखम्। कविः काव्येन मोदते। अहं काव्येन क्लिश्ये। अहं शास्त्राय स्पृह्यामि।
+<br><br></p>
+<p>१४. मम भार्या तस्या जनन्या वचने रमते। किन्तु अहं मम श्वश्र्वा वचनेन खिद्ये।</p>
+<p>मम भार्या तस्याः जनन्याः वचने रमते। किन्तु अहं मम श्वश्र्वाः वचनेन खिद्ये।</p>
+<p>मम भार्या तस्याः जनन्याः वचने रमते। किन्तवहम्मम श्वश्र्वाः वचनेन खिद्ये।
+<br><br></p>
+<p>१५.  यद्यप्यद्य त्वं मां धनस्य कृते श्लाघसे, तथापि ह्यः मम त्वमेव मामनिन्दः।</p>
+<p>यद्यपि अद्य त्वं मां धनस्य कृते श्लाघसे, तथापि ह्यः मम त्वम एव माम् अनिन्दः।</p>
+<p>यद्यपि अद्य त्वम्माम्धनस्य कृते श्लाघसे, तथापि ह्यः मम त्वमे एव माम् अनिन्दः।
+<br><br></p>
+<p>१६. यथा शृगालो मांसं ग्रसते, तथा मम दुःखं मां ग्रसते।</p>
+<p>यथा शृगालः मांसं ग्रसते, तथा मम दुःखं मां ग्रसते।</p>
+<p>यथा शृगालः मांसं ग्रसते, तथा मम दुःखम्मां ग्रसते।
+<br><br></p>
+<p>१७. एतस्मिन् देशे जनाः सुखं न लभन्ते, किन्तु तस्मिन् देशे जना अन्नमपि न लभन्ते।</p>
+<p>एतस्मिन् देशे जनाः सुखं न लभन्ते, किन्तु तस्मिन् देशे जनाः अन्नम् अपि न लभन्ते।</p>
+<p>एतस्मिन् देशे जनाः सुखन्न लभन्ते, किन्तु तस्मिन् देशे जनाः अन्नम् अपि न लभन्ते।
+<br><br></p>
+<p>१८. यतोऽहमद्य त्वां चिन्तयामि, ततः श्वः त्वमपि मां चिन्तयेः।</p>
+<p>यतः अहम् अद्य त्वां चिन्तयामि, ततः श्वः त्वम् अपि मां चिन्तयेः।</p>
+<p>यतः अहम् अद्य त्वान्चिन्तयामि, ततः श्वः त्वम् अपि मान्चिन्तयेः।
+<br><br></p>
+<p>१९. यां नारीमहं चिन्तयामि, सा मां न चिन्तयति। सा यं नरं चिन्तयति, स तां न चिन्तयति। स यां चिन्तयति, सा तं न चिन्तयति। सा कं चिन्तयति। सा मां चिन्तयति।</p>
+<p>यां नारीम् अहन्चिन्तयामि, सा मां न चिन्तयति। सा यं नरं चिन्तयति, सः तां न चिन्तयति। सः यां चिन्तयति, सा तं न चिन्तयति। सा कं चिन्तयति। सा मां चिन्तयति।</p>
+<p>यां नारीम् अहं चिन्तयामि, सा मान्न चिन्तयति। सा यम्नरन्चिन्तयति, सः तान्न चिन्तयति। सः यान्चिन्तयति, सा तन्न चिन्तयति। सा कन्चिन्तयति। सा मान्चिन्तयति।
+<br><br></p>
+<p>२०. यस्मिन् वने स मुनिर्वर्तते, तस्मिन् एव वने सा नारी रमते।</p>
+<p>यस्मिन् वने स मुनिः वर्तते, तस्मिन् एव वने सा नारी रमते।</p>
+<p>यस्मिन् वने स मुनिः वर्तते, तस्मिनेव वने सा नारी रमते।
+<br><br></p>
+<hr />
+<p><br><br>
+<strong>3) Translate the following into Sanskrit:</strong>
+<br><br></p>
+<p>1. I praise the clouds, which wander (भ्रम् 1P, भ्रमति) in the sky, because the clouds give us water.</p>
+<p>अहं मेघान् श्लाघे यान् आकाशे भ्रमन्ति यतः मेघाः मह्यम जलं विन्दन्ति।</p>
+<p>अहम्मेघान् श्लाघे यानाकाशे भ्रमन्ति यतो मेघा मह्यम जलं विन्दन्ति।
+<br><br></p>
+<p>2. The fire swallows the trees in the forest, as a beast swallows food.</p>
+<p>अनलः वने तरूवः/वृक्षाः ग्रसते यथा पश्वः अन्नं ग्रसते।</p>
+<p>अनलो वने तरूवो/वृक्षा ग्रसते यथा पश्वोऽन्नङ्ग्रसते।
+<br><br></p>
+<p>3. The elephants plunge into the water of the lake.</p>
+<p>गजाः ह्रदस्य जले गाहन्ते।</p>
+<p>गजा ह्रदस्य जले गाहन्ते।
+<br><br></p>
+<p>4. The sage looks at the world and thinks that there is only sorrow in the world.</p>
+<p>मुनिर्लोकम्पश्यति चिन्तयति च लोके दुःखमेव भवति इति।
+<br><br></p>
+<p>5. In that country, the people are depressed today.</p>
+<p>स देशे जना अद्य खिद्यन्ते।
+<br><br></p>
+<p>6. When the king strikes his enemies with a weapon, the sages read the sacred texts.</p>
+<p>यदा नृपः तस्य अरीणाम् शस्त्रेण् तादयति तदा मुनयः शास्त्रम्पठन्ति।
+<br><br></p>
+<p>7. When I obtain gold, my happiness grows.</p>
+<p>यदा अहङ्कनकं विन्दामि मम सुखं वर्धते।
+<br><br></p>
+<p>8. I suffer, when my friends blame my poetry.</p>
+<p>अहं क्लिशे यदा मम मित्राणि मम काव्यं निन्दन्ति।
+<br><br></p>
+<p>9. I rejoice, when my enemies suffer.
+<br><br></p>
+<p>10. When a man gets his wife’s devotion, he rejoices.</p>
+<p>यदा नरः तव भार्यायाः भक्तिम् विन्दति सः मोदते।</p>
+<p>यदा नरो तव भार्याया भक्तिम् विन्दति स मोदते।
+<br><br></p>
+<p>11. I see the splendor of the flowers. The flowers are on the creeper.</p>
+<p>अहं  कुसुमानाम् शोभानाम् पश्यामि। कुसुमानि लते वर्तन्ते।</p>
+<p>अहङ्कुसुमानाम् शोभानाम्पश्यामि। कुसुमानि लते वर्तन्ते।
+<br><br></p>
+<p>12. Now when the daughter-in-law sees the mother-in-law, the mother-in-law trembles.</p>
+<p>अधुना यदा वधु श्वश्रुम् पश्यति, सा श्वश्रुः वेपते।
+<br><br></p>
+<p>13. Today I say, “O friend, do not recite your poems. Due to those poems, you rejoice, but I feel depressed”</p>
+<p>अद्य अहम्भाषे – हे मित्र, तव काव्यं मा पठ/पठेः। तेन काव्येन त्वम्मोदसे किन्त्वहं खिद्ये।
+<br><br></p>
+<p>14. The trees grow in the forest.</p>
+<p>वृक्षाः वने वर्धन्ते।</p>
+<h2 id="notes"><a class="header" href="#notes">Notes</a></h2>
+<p><strong>Indeclinables:</strong></p>
+<p>अद्य today; शवः tomorrow; ह्यः yesterday; अधुना now; यथा just as; तथा so, in that manner;</p>
+<p>एकदा once; कदाचित् sometimes; न कदापि never; किन्तु but</p>
+<p>यद्यपि (यदि अपि) : even if</p>
+<p>तथापि (तथा अपि): even then
+<br><br></p>
+<p><strong>आत्मनेपदिन् Verbs</strong></p>
+<table><thead><tr><th>Root</th><th>Word</th><th>Root</th><th>Word</th><th>Root</th><th>Word</th></tr></thead><tbody>
+<tr><td>ईक्ष (1A)</td><td>इक्षते to see</td><td>मन् (4A)</td><td>मन्यते (to think)</td><td>अर्थ् (10A)</td><td>अर्थयते (to request)</td></tr>
+<tr><td>नुद् (6A)</td><td>नुदते (to incite, push)</td><td>क्लिश् (4A)</td><td>क्लिश्यते (to suffer)</td><td>मृ (4A)</td><td>म्रियते (to die)</td></tr>
+<tr><td>गाह् (1A)</td><td>गाहते (to dive, plunge)</td><td>विद् (4A)</td><td>विद्यते (to be)</td><td>ग्रस् (1A)</td><td>ग्रसते (to swallow, devour)</td></tr>
+<tr><td>रम् (1A)</td><td>रमते (to sport, to rejoice in)</td><td>जन् (4A)</td><td>जायते (to be born)</td><td>लभ् (1A)</td><td>लभते (to obtain, get)</td></tr>
+<tr><td>वृत् (1A)</td><td>वर्तते (to be)</td><td>वेप् (1A)</td><td>वेपते (to tremble)</td><td>वृध् (1A)</td><td>वर्धते (to grow)</td></tr>
+<tr><td>मन्त्र (10A)</td><td>मन्त्रयते (to counsel)</td><td>भाष् (1A)</td><td>भाषते (to speak)</td><td>खिद् (4A)</td><td>खिद्यते (to be depressed)</td></tr>
+<tr><td>मुद् (1A)</td><td>मोदते (to rejoice)</td><td>श्लाघ् (1A)</td><td>श्लाघते (to praise)</td><td></td><td></td></tr>
+</tbody></table>
+<p><br><br></p>
+<p><strong>Vowel Sandhi Rules:</strong></p>
+<p>ए + अ = ए  लभते अत्र =&gt; लभतेऽत्र; वने अपि =&gt; वनेऽपि
+<br><br>
+ए =&gt; अय् before any vowel other than अ</p>
+<p>वने इह =&gt; वनयिह; देवे इति =&gt; देवयिति
+<br><br></p>
+<p>ओ + अ = ओ प्रभो अधुना =&gt; प्रभोऽधुना; गुरो + अत्र =&gt; गुरोऽत्र
+<br><br></p>
+<p>ओ =&gt; अव्	before any vowel other than अ</p>
+<p>गुरो इति =&gt; गुरविति; शिशो इति =&gt; शिशविति
+<br><br></p>
+<p>ऐ =&gt; आय् before any vowel तस्मै इति =&gt; तस्मायिति; नद्यै इति =&gt; नद्यायिति
+<br><br></p>
+<p>औ =&gt; आव् before any vowel कवौ इह =&gt; कवाविह; गुरौ इति =&gt; गुराविति
+<br><br></p>
+<p>य् and व् resulting from the changes of ए, ओ, औ, and ऐ maybe optionally elided, and in the case of such elision no further sandhi occurs. Examples:</p>
+<p>वने + इह -&gt; वनयिः or वन इह</p>
+<p>गुरो + इति -&gt; गुरविति or गुर इति</p>
+<p>तस्मै + इति -&gt; तस्मायिति or तस्मा इति</p>
+<p>कवौ + इति -&gt; कवाविति or कवा इति</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../deshpande/chapter_9.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../deshpande/chapter_11.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../deshpande/chapter_9.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../deshpande/chapter_11.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
