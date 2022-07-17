@@ -29,7 +29,7 @@ When people see me then they run everywhere.
 
 ५. यदा बालाः पर्वतं प्रत्यधाबन् तदा तेऽश्राम्यन्।
 
-When the boys ran towards the mountein then they beecame tired.
+When the boys ran towards the mountain then they beecame tired.
 
 बालाः पर्वतं प्रति धावित्वा अश्राम्यन्।
 <br><br>
