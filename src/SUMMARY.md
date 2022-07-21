@@ -20,6 +20,7 @@
   - [Lesson 14](./deshpande/chapter_14.md)
   - [Lesson 15](./deshpande/chapter_15.md)
   - [Lesson 16: The passive voice (कर्मणि प्रयोग, भावे प्रयोग)](./deshpande/chapter_16.md)
+  - [Lesson 17: Future tense: -स्य Future](./deshpande/chapter_17.md)
 - [संस्कृतप्रथमादर्शः Reader - I](./reader1/r1_intro.md)
   - [Lesson 1: सूर्यः प्रत्यक्षदेवता](./reader1/r1l1.md)
   - [Lesson 2: उद्यमः कार्यसाधकः](./reader1/r1l2.md)
