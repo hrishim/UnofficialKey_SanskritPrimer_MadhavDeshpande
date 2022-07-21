@@ -15,7 +15,7 @@ Examples:
 | --- | --- |
 | He will be | सः भविष्यति। |
 | I will go | अहं गमिष्यामि |
-| He will falll | सः पतिष्यति |
+| He will fall | सः पतिष्यति |
 | He will think | सः चिन्तयिष्यति |
 | You will speak | त्वम् वदिष्यसि |
 
