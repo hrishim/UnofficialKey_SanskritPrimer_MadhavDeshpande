@@ -81,9 +81,13 @@ Those flowers will be brought from the village by her.
 
 **११. अश्वाः न पत्राणि न वा तृणानि खादिष्यन्ति।**
 
+Horses will not eat leaves or grass.
+
 <BR>
 
 **१२. यादाहं सर्वस्य दुःखस्य कारणं बोधिष्यामि तदाहं बिद्धो भविष्यामि।**
+
+If I will know the misery of all then I will become Buddha.
 
 <BR>
 
@@ -93,9 +97,80 @@ Those flowers will be brought from the village by her.
 
 **१४. ह्रदस्य तीरे कुसुमानि भविष्यन्ति हंसाश्च ह्रदे नर्तिष्यन्ति।**
 
+In the bank of the lake there will be flowers and swans will dance in the lake.
+
 <BR>
 
 **१५. सा भाषिष्यते। तया भाषिष्यते।**
+
+She will speak. Speaking will be done by her.
+
+<BR>
+
+**3) Convert the sentences in exercises 1 and 4 in lesson 14 into future sentences**
+
+<BR>
+
+**4) Translate the following into Sanskrit:**
+
+**1. The crows will sit on the trees and eat fruit**
+
+<BR>
+
+**2. The servants will stand around the king tomorrow.**
+
+<BR>
+
+**3. The village will be visited (gone to) by me.**
+
+<BR>
+
+**4. The king's teacher will come and teach the king.**
+
+<BR>
+
+**5. The father will be worshipped by his sons.**
+
+<BR>
+
+**6. The husband will be abused by his wife.**
+
+<BR>
+
+**7. The poet will compose a poem and praise the king.**
+
+<BR>
+
+**8. If the jackals will not get meat, they will die.**
+
+<BR>
+
+**9. The servants will go to the forest and cut the trees.**
+
+<BR>
+
+
+**10. God's virtues will be praised by me.**
+
+<BR>
+
+**11. THere will be flowers in a garden in front of the palace.**
+
+<BR>
+
+**12. The daughter-in-law will follow her mother-in-law.**
+
+<BR>
+
+**13. By God's power the king's wife will get back her life.**
+
+<BR>
+
+**14. I will not rejoice with my mother-in-law's words.**
+
+<BR>
+
+**15. I will go to heaven, will see my son, and will live in happiness.**
 
 <BR>
 
