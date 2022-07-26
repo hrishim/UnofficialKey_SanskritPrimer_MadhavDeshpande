@@ -113,11 +113,17 @@ She will speak. Speaking will be done by her.
 
 **4) Translate the following into Sanskrit:**
 
+<BR>
+
 **1. The crows will sit on the trees and eat fruit**
+
+काकाः वृक्षेषु सत्स्यति फलञ्च खादिष्यन्ति।
 
 <BR>
 
 **2. The servants will stand around the king tomorrow.**
+
+श्वः दासाः नृपम्परितः स्थास्यति।
 
 <BR>
 
