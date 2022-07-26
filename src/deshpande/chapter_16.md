@@ -159,7 +159,7 @@ For the king's sake flowers and fruits were brought to the palace's top by the s
 
 <BR>
 
-**१३. हॆ तात, ऎतानि फलानि जलॆन क्षालयित्वा भक्ष्यन्ताम्।**
+**१३. हॆ तात, एतानि फलानि जलेन क्षालयित्वा भक्ष्यन्ताम्।**
 
 Oh father, these fruits, after being washed, maybe eaten by you.
 
@@ -193,8 +193,8 @@ The boy was beaten by the father.
 
 **१८. यद्यपि भार्ययाहं निन्द्ये, तथापि मया सा न कदापि निन्द्यते।**
 
-Eventhough (my) wife is blamed/derided by me, even then she never ever 
-blames/derides (me).
+Even though (my) wife  blames/derides me, even then she is never ever 
+blamed/derided by me.
 
 <BR>
 
