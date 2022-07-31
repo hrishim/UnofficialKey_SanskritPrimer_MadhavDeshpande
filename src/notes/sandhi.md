@@ -6,6 +6,7 @@
 1. [Word-internal Sandhi rule: Change of न् to ण्](#word-internal-sandhi-rule)
 1. [Vowel Sandhi](#vowel-sandhi)
 1. [Consonant Sandhi Rules](#consonant-sandhi-rules)
+1. [महेश्वर सूत्राणि](#महेश्वर-सूत्राणि)
 
 ## Anusvāra Sandhi Rules
 
@@ -351,3 +352,8 @@ Examples:
 कवि + छात्रः = कविच्छात्रः
 
 लक्षमी + छाया = लक्ष्मीच्छाया or लक्ष्मीछाया
+
+---
+
+## महेश्वर सूत्राणि
+

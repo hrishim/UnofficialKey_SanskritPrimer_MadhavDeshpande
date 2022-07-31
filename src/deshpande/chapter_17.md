@@ -129,56 +129,86 @@ She will speak. Speaking will be done by her.
 
 **3. The village will be visited (gone to) by me.**
 
+ग्रामं मया गम्यते।
+
 <BR>
 
 **4. The king's teacher will come and teach the king.**
+
+नृपस्य अध्यापकः आगमिष्यति नृपञ्च पाठयिष्यति।
 
 <BR>
 
 **5. The father will be worshipped by his sons.**
 
+जनकः पुत्रैः नंस्यते।
+
 <BR>
 
 **6. The husband will be abused by his wife.**
+
+भार्यया भर्तां अधिक्षेप्स्यति/प्रक्षेप्स्यति।
 
 <BR>
 
 **7. The poet will compose a poem and praise the king.**
 
+कविः काव्यं रचयिष्यति नृपं शंसिष्यति च।
+
 <BR>
 
 **8. If the jackals will not get meat, they will die.**
 
+यदि शृगालैः मांस्म् न लप्स्यते तर्हि ते मरिष्यन्ते।
+
 <BR>
 
 **9. The servants will go to the forest and cut the trees.**
+
+दासाः वनं गत्वा वृक्षान् कर्तिष्यन्ति।
+
+दासाः वनं गमिष्यन्ति वृक्षान् च कर्तिष्यन्ति।
 
 <BR>
 
 
 **10. God's virtues will be praised by me.**
 
+ईश्वरस्य गुणाः मया शंसिष्यन्ते।
+
 <BR>
 
-**11. THere will be flowers in a garden in front of the palace.**
+**11. There will be flowers in a garden in front of the palace.**
+
+प्रासादस्य पुरतः उद्याने कुसुमानि भविष्यन्ति।
 
 <BR>
 
 **12. The daughter-in-law will follow her mother-in-law.**
 
+स्नुषा तव श्वश्रुम् अनुसरिष्यति।
+
 <BR>
 
 **13. By God's power the king's wife will get back her life.**
+
+ईश्वरस्य बलेन नृपस्य भार्यया जीवनं लप्स्यते।
 
 <BR>
 
 **14. I will not rejoice with my mother-in-law's words.**
 
+अहं मम श्वश्वाः शब्दाः सह न क्लेशिष्ये।
+
 <BR>
 
 **15. I will go to heaven, will see my son, and will live in happiness.**
 
+अहं स्वर्गं गत्वा मम पुत्रं द्रक्षयामि सुखेन च जीवनं जीविष्यामि।
+
 <BR>
+
+**५) Write any five Sanskrit sentences in future tense**
 
 ## Notes
 
