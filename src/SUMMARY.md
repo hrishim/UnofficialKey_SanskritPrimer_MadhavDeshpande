@@ -33,5 +33,6 @@
   - [Lesson 9: अश्वशारङ्गयोः कथा](./reader1/r1l9.md)
   - [Lesson 10: कोकिलः](./reader1/r1l10.md)
   - [Lesson 11: कूपः](./reader1/r1l11.md)
+  - [Lesson 12: वानरक्रीडा](./reader1/r1l12.md)
   - [Lesson 34: भूमिः](./reader1/r1l34.md)
   - [Amarakosha Extracts](./reader1/r1ae.md)
