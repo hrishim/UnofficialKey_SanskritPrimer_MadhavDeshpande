@@ -6,6 +6,8 @@
   - [Tenses - लकार](./notes/lakaras.md)
   - [शब्द रुप](./notes/shabd_roop.md)
   - [धातु रूप](./notes/dhatu_roop.md)
+  - [Grammer](./notes/grammer.md)
+  - [Terminology](./notes/terminology.md)
 - [Samskrta-Subodhini - Unofficial Key](./deshpande/intro.md)
   - [Lesson 1](./deshpande/chapter_1.md)
   - [Lesson 3](./deshpande/chapter_3.md)

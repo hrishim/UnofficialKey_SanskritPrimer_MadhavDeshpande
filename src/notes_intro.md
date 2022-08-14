@@ -39,6 +39,7 @@ The best way to learn Sanskrit is to learn from a good teacher following whateve
 - [Master Basic Shabdarupas and Dhaturupas - Vyoma Labs](https://youtube.com/playlist?list=PLmozlYyYE-EQ3kJmDuXWSZtnEueO29FH)
 - [Sanskrit Document Collection](https://sanskritdocuments.org/)
 - [Learn to Chant Narayaneeyam](https://youtube.com/playlist?list=PL8Y9um-Q0HDEhYh2Y2ewNhV-6o93ZRcae) - Youtube Playlist
+- [Sanskrit Bhasha Bodha](https://www.youtube.com/c/BhashaBodha) - YouTube Channel
 
 
 **Note:** Memorizing Amarakosha or Ashtadhyayi may be attempted by young learners. Older ones may not find it easy.
