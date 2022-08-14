@@ -58,12 +58,14 @@ How to add a सुप् प्रत्यय to a प्रातिपदि
 
 Speaking of कृदन्त पदम - रम् is a धातु, if we add a प्रत्यय then we get राम as a new प्रातिपदिकम्. To this new प्रातिपदिकम् we can add a सुप् प्रत्यय to form a सुबन्त पदम्.
 
+---
+
 **What is कारकम्?**
 
 Let us take a simple sentence. बालकः तस्य गृहे पुस्तकम् पठति। In this sentence:
 क्रिया पदम् =  पठति. **All others are नाम पदम्**. In a sentence the क्रिया पदम् is the most important. 
 
-Note that व्याकरणम् is one shastra. There are other shastras like न्यायशास्त्र मिमांस शास्त्र etc which have a different concept for a वाक्यम्.
+Note that व्याकरणम् is one shastra. There are other shastras like न्यायशास्त्र मीमांस शास्त्र etc which have a different concept for a वाक्यम्.
 
 - कः पठति? बालकः
 - किम् पठति? पुस्तकम्
@@ -76,3 +78,36 @@ What is कारकम् ? **क्रियान्वयि कारकम
 
 What is the relationship of तस्य with पठति? It has a relationship with गृहे but none with पठति. So it is not a कारकम्.
 
+**New sentence:** बालकः ग्रन्थालये स्यूतात् लेखकस्य पुस्तकम् हस्तेन मित्राय ददाति।
+
+कः ददाति? बालकः
+
+In the above sentence बालकः is कर्ता and its relationship with the क्रिया पदम् is कतृकारकम्. 
+
+<br>
+
+किम् ददाति? पुस्तकम्
+
+पुस्तकम् has relationship of कर्म with ददाति. So it is called कर्म कारकम्. 
+
+<br>
+
+केन ददाति? हस्तेन - Relationship is करणम् - करण कारकम्
+
+<br>
+
+कस्मै ददाति? मित्राय - Relationship is सम्प्रदानम् - सम्प्रदान कारकम्
+
+<br>
+कस्मात् ददाति? स्यूतात् - Relationship is अपादानम् - अपादान कारकम्
+
+<br>
+
+कस्मिन् ददाति? ग्रन्थालये  - Relationship is अधिकरणम् - अधिकरण कारकम्
+
+Some नाम पदम् in a sentence have different relationship to क्रिया पदम्. These are called कारकम्. To indicate that relationship we add different विभक्ति प्रत्यय to the प्रातिपदिकम् of that नाम पदम्.
+
+
+**How many काराक are there?** Six (above)
+
+---
