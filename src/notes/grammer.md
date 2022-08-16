@@ -1,17 +1,21 @@
 # Grammer
 
 
-वाक्यम् - sentence
+**Grammer terms**
 
-पदम् - word
+**अक्षरम्** - श्रवणेन्द्रियग्राह्यम् अक्षरम् । तच्च कण्ठताल्वाद्यभिघातेन अभिव्यज्जते। अक्षरस्यैव नामान्तरं ’वर्णः’ इति। That which can be perceived by the faculty of hearing is अक्षरम्. It is classified/separated based on articulation into तच्च, कण्ठ, तालु etc. 
 
-वर्णः - sounds (phenomes?)
+**वर्णः** - Same as अक्षरम्
 
-अक्षरम - sounds
+**वर्णः** - sounds (phenomes?)
 
-सन्धिः - when two वर्णः are joined/combined 
+**वाक्यम्** - sentence
 
-समासम् - when two पदम् are joined/combined
+**पदम्** - word
+
+**सन्धिः** - when two वर्णः are joined/combined 
+
+**समासम्** - when two पदम् are joined/combined
 
 In Sanskrit grammar there is an entire branch devoted to the study of the joining of two वर्णः and that is called सन्धिः. Example: नमस्ते, कोपि etc
 

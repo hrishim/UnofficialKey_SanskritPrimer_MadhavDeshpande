@@ -1,12 +1,23 @@
 # Sandhi
 
+
+
+
 **ToC**
+
+Notes from Deshpande
 1. [Anusvāra Sandhi Rules](#anusvāra-sandhi-rules)
 1. [Visarga Sandhi Rules](#visarga-sandhi-rules)
 1. [Word-internal Sandhi rule: Change of न् to ण्](#word-internal-sandhi-rule)
 1. [Vowel Sandhi](#vowel-sandhi)
 1. [Consonant Sandhi Rules](#consonant-sandhi-rules)
-1. [महेश्वर सूत्राणि](#महेश्वर-सूत्राणि)
+
+
+[Notes from other sources](#notes-from-other-sources)
+
+
+
+# Notes from Deshpande
 
 ## Anusvāra Sandhi Rules
 
@@ -208,8 +219,56 @@ Examples: गुरो + इति -> गुरविति &nbsp; शिशो 
 
 <BR>
 
+c) ऐ -> आय्, before any vowel
 
-**FIXME**: Incomplete
+Examples: तस्मै + इति -> तस्मायिति &nbsp; नद्यै + इति -> नद्यायिति
+
+<BR>
+
+d) औ -> आव्, before any vowel
+
+Examples: कवौ + इह -> कवाविह &nbsp; गुरौ + इति -> गुराविति
+
+<BR>
+
+e) य् and व् resulting from changes of ए, ओ, ऐ, and औ may be optionally elided, and in the case of such elision of य् and व्, no further sandhi occurs. Examples:
+
+वने + इह -> वनयिह or वन इह
+
+गुरो + इति -> गुरविति or गुर इति
+
+तस्मै + इति -> तस्मायिति or तस्मा इति
+
+कवौ + इति -> कवाविति or कवा इति
+
+<BR>
+
+Due to various sandhi rules, occasionally identical sequences result from different original sequences, and only the larger sentential context can help identify the originals. Compare and contrast the following:
+
+(बालाः इह) बाला इह तिष्ठन्ति। "The boys stand here."
+
+(बालौ इह) बाला इह तिष्ठतः। "Two boys stand here."
+
+(बाला इह) बाला इह तिष्ठति। "A girl stands here."
+
+<BR>
+
+| Final &#8595; / Initial &#8594; | **अ** | **आ** | **इ** | **ई** | **उ** | **ऊ** | **ऋ** | **ॠ** | **ए** | **ऐ** | **ओ** | **औ** | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| **अ/आ** | आ | आ | ए | ए | ओ | ओ | अर्  | अर् | ऐ | ऐ | औ | औ | 
+| **इ/ई** |  |  |  | |  |  |  |  |  |  |  |  | 
+| **उ/ऊ** |  |  |  | |  |  |  |  |  |  |  |  | 
+| **ऋ/ॠ** |  |  |  | |  |  |  |  |  |  |  |  | 
+| **ए** |  |  |  | |  |  |  |  |  |  |  |  | 
+| or |  |  |  | |  |  |  |  |  |  |  |  | 
+| **ऐ** |  |  |  | |  |  |  |  |  |  |  |  | 
+| or |  |  |  | |  |  |  |  |  |  |  |  | 
+| **ओ** |  |  |  | |  |  |  |  |  |  |  |  | 
+| or |  |  |  | |  |  |  |  |  |  |  |  | 
+| **औ** |  |  |  | |  |  |  |  |  |  |  |  | 
+| or |  |  |  | |  |  |  |  |  |  |  |  | 
+
+**FIXME**: Fill the table 
 
 ## Consonant Sandhi Rules
 
@@ -355,5 +414,7 @@ Examples:
 
 ---
 
-## महेश्वर सूत्राणि
+# Notes from other sources
+
+**महेश्वर सूत्राणि**
 

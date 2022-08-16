@@ -23,3 +23,15 @@ Similarly there is a branch devoted to the study of the joining of two पदम
 तिङन्तम् - verbs (क्रिया पदम)
 
 कृदन्तम् - 
+
+
+---
+
+| Four types of buttermilk |
+| --- |
+| घोलम् - 100% दधि + 0% जलम् |
+| तक्रम् - 75% दधि + 25% जलम् | 
+| उदश्वित् - 50% दधि + 50% जलम्|
+| छच्छिका - 25% दधि + 75% जलम्|
+
+Difference between अर्धम् and अर्धः is that अर्धम् is exactly half and अर्धः is a piece.
