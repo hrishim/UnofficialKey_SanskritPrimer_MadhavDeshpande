@@ -9,7 +9,7 @@ There are ten tenses in Sanskrit. The present tense is called लट् लक�
 1. लिङ् लकार - Potential/Optative mood
 1. लोट् लकार - Imperative mood
 1. लुट्
-1. लृट्
+1. लृट् - Future tense ()
 1. लृङ्
 
 **Here is a sloka to remember all the लकार:**
