@@ -12,6 +12,7 @@ The best way to learn Sanskrit is to learn from a good teacher following whateve
 - [Sanskrit through self-study - IITM](http://acharya.gen.in:8080/sanskrit/lessons.php)
 - [Samskrita Shikshanam](https://youtube.com/playlist?list=PLFkBI_x3Q_wHeWGqrtTKx6tT0xuDPVUic) YouTube Playlist
 - [Samskrita Bharati - Pravesha Course](https://youtube.com/playlist?list=PLWV98cyTzbXzF0LyF8liA00e2JYcNtCTU) YouTube playlist
+- [Learn Sanskrit](https://learnsanskrit.org/)
 
 **Magazines etc.:**
 - [Sanskrit OTT](https://www.sanskritott.com/guest/home) - Movies and short films

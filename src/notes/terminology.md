@@ -27,6 +27,8 @@ Similarly there is a branch devoted to the study of the joining of two पदम
 
 ---
 
+## Misc stucc (not terminology)
+
 | Four types of buttermilk |
 | --- |
 | घोलम् - 100% दधि + 0% जलम् |
@@ -35,3 +37,15 @@ Similarly there is a branch devoted to the study of the joining of two पदम
 | छच्छिका - 25% दधि + 75% जलम्|
 
 Difference between अर्धम् and अर्धः is that अर्धम् is exactly half and अर्धः is a piece.
+
+<br>
+
+भो नवको मक्षिकः 
+
+त्वं दूरात् आगतः
+
+केवलम्मृत्यवे
+
+टाश्!!!
+
+\- हैकुः मया कृतम्
