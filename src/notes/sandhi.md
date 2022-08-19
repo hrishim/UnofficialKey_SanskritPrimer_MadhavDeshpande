@@ -386,7 +386,7 @@ Examples:
 
 <br>
 
-11\. Final न्, before an unvouce dental, palatal, or retroflex stop, is replaced by an *anusvara* plus a sibilant homorganic with the stop. Examples:
+11\. Final न्, before an unvoiced dental, palatal, or retroflex stop, is replaced by an *anusvara* plus a sibilant homorganic with the stop. Examples:
 
 देवान् + तत्र = देवांस्तत्र
 
