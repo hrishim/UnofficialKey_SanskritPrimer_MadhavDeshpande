@@ -416,5 +416,20 @@ Examples:
 
 # Notes from other sources
 
+## Maheshvara Sutra
+
 **महेश्वर सूत्राणि**
+
+
+अइउण् । ऋऌक् । एओङ् । ऐऔच् ।
+
+हयवरट् । लण् । ञमङणनम् ।
+
+झभञ् । घढधष् । जबगडदश् ।
+
+खफछठथचटतव् । कपय् ।
+
+शषसर् । हल् ।
+
+Memorize the above sutras. They are useful in learning Sandhi.
 
