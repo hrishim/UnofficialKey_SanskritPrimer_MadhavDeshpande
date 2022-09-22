@@ -385,7 +385,7 @@ Note that all other items in the sentence, except adjectives of the object and t
 
 ### Transitive Passive Voice (कर्मणि प्रयोग) in Past imperfect (लङ् लकार), imperative (लोट् लकार) and optative (लिङ् लकार) 
 
-In these cases use the आत्मनेपदि (middle form) of the verb.
+In these cases use the आत्मनेपदि (middle form) of the verb. Remember that the verb agrees with the कर्मन् (object) in number and person.
 
 | प्रयोग (Voice) | Sentence | Translation | Tense |
 | --- | --- | --- | --- |
