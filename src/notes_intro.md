@@ -20,6 +20,11 @@ The best way to learn Sanskrit is to learn from a good teacher following whateve
 - [सुधर्मा संस्कृतदिनपत्रिका](https://sudharmasanskritdaily.in/) - Sudharma Sanskrit Newspaper
 - [Ambuda - Sanskrit library project](https://ambuda.org/)
 
+**Books:**
+
+- [कृदन्तरूपनन्दिनी][https://www.samskritabharati.in/preview?bharati_books=VmpGU1MwNUdUWGRPV0U1aFVsZDRWMWx0TVRSaFJsSldWbTFHYW1KR2NGWlZWM00xVkd4S2MxZHViRmRpVkVZelZqQmFZVTVzV25WaFIwWlRUVEpvTmxadGVHRmtNRFZ5VFZWV2FHVnFRVGs9&samskrita_bharati=VmpGU1MwNUdUWGRPV0U1aFVsZDRWMWx0TVRSaFJsSldWbTFHYW1KR2NGWlZWM00xVkd4S2MxZHViRmRpVkVZelZqQmFZVTVzV25WaFIwWlRUVEpvTmxadGVHRmtNRFZ5VFZWV2FHVnFRVGs9]
+
+
 **Dictionaries:**
 - [learnsanskrit.cc](https://www.learnsanskrit.cc/)
 - [kosha.sanskrit.today](https://kosha.sanskrit.today/)
