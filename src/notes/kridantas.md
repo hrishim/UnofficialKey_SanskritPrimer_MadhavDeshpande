@@ -37,7 +37,7 @@ Generally a पदम् is not just simply one combination of प्रकृ�
 
 So essentially the word वैदेह्याः is formed using two प्रकृतिः  - <span style="color:blue">वि</span> and <span style="color:blue">दिह्</span> and joining them with many प्रत्ययः.
 
-Generally Sanskrit व्याकरण ज्ञानम् is प्रकृति प्रत्यय ज्ञानम्. The derivation of पदम् ् from प्रकृति and प्रत्यय is called निष्पत्ति.
+Generally Sanskrit व्याकरण ज्ञानम् is प्रकृति प्रत्यय ज्ञानम्. The derivation of पदम् from प्रकृति and प्रत्यय is called निष्पत्ति.
 
 
 **There are only two kinds of words in Sanskrit:**
