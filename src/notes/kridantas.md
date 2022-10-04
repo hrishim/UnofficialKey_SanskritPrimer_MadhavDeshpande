@@ -99,8 +99,14 @@ The above covers all words in Sanskrit. Knowing Sanskrit is knowing all the abov
 
 [This Kridanta](https://www.youtube.com/playlist?list=PLmozlYyYE-ERJj2FfX6WfH5t8i3d2fh1Z) lesson series is about converting *dhatu* -> *pratipadikam* by adding *krt pratyaya* (कृत्). This conversion will give 95% of *pratipadikas* - just an estimate. There is another view - सर्वम् नाम् धातिजमाः - all nouns are from *dhatus*.
 
-**Start from 27:27**
+Within कृत् प्रत्ययाः there are two categories. One is the *pratyayas* directly given by Panini which we call कृत् प्रत्यय. Panini specifically says this is the *dhatu* and you add this *krit pratyaya* and you get this *pratipadika*. There are also another set of *pratyayas* called उणादि प्रत्यय. They are also added to *dhatus* to get *pratipadikas*. Example: गौः is derived from गम् धातु। गच्छति इति गौः। Derived from <span style="color:blue">गम्</span> + <span style="color:red">डोस्</span>. Such *pratyayas* (like <span style="color:red">डोस्</span>) are called उणादि। **Is गो उणादि or डोस्? Later the teacher says गो is उणादि.**
 
----
+There are two views regarding उणादि - 
 
-All words in Sanskrit arise from धातु or verb roots. One view is that **all** words are from verb roots. Another view is that the vast majority (95%) of पदानि (words) arise from verb roots (धातवः) and a small number are separate set
+1. we accept the derivation of उणादि from *dhatu* then 100%, or at least 99% of *pratipadikas* will be derived from *dhatus*. 
+2. those that consider उणादि as something that cannot be split further - meaning they take गो as something that cannot be divided - say that there is a set of केवल प्रातिपतिकः that cannot be split further. Most words come from *dhatus* and a smaller set come from *kevala pratipadikam*.
+
+
+
+
+**Start from 35:20**
