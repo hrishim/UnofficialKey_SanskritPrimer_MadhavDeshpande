@@ -1,9 +1,11 @@
 # Kridantas
 
-These notes are from the Vyoma Pathasala [Kridanta](https://www.youtube.com/playlist?list=PLmozlYyYE-ERJj2FfX6WfH5t8i3d2fh1Z) lectures by Dr. Sowmya Krishnapur.
+These notes are from the Vyoma Pathasala [Kridanta](https://www.youtube.com/playlist?list=PLmozlYyYE-ERJj2FfX6WfH5t8i3d2fh1Z) lessons by Dr. Sowmya Krishnapur.
 
 
-## Context
+## Lesson 1
+
+### Context
 
 From the [first lesson](https://youtu.be/Vr-5sJXTS_4).
 
@@ -79,9 +81,25 @@ The teacher says "Any word we see in Sanskrit is one of these. Anything is 100% 
 
 4. **समासः** - Example: <span style="color:purple">सीतापति</span> <span style="color:red">सु</span> = <span style="color:green">सीतापतिः</span>. द्वयोः सुबन्तयोः योजनेन समासः भवति। *Samasa* kind of प्रातिपदिक is derived by joining two *subanthas*. गज + आनन = गजानन, राज्ञः + पुत्रः = राजपुत्रः, राधा + कृष्णः = राधाकृष्णौ
 
+**Summary so far:** The diagram below (concisely and excellently) summarizes the lecture so far.
+
+Words in Sanskrit are of two kinds - तिङन्तम् and सुबन्तम्। धातुः तिङन्तस्य मूलम्। *Dhatu* is the root of *thingantham*. सुबन्तस्य प्रकृतिः प्रातिपदिकम। The root of a *subantham* is *prathipadhikam*. 
+
+धातोः तिङ् प्रतययस्य योजनेन तिङन्तम् भवति। प्रातिपदिकात् सुप् प्रत्ययस्य योजनेन सुबन्तम् भवति। Attaching a *thing-pratyaya* to a *dhatu* makes it a *thingantham*. Attaching a *sup-pratyaya* to a *pratipadikam* makes it a *subantham*. These are the two main words in Sanskrit - verb forms and noun forms.
+
 ![Words diagram](./images/word_diagram.png)
 
-**Start from 21:08**
+धातोः कृत् प्रतययस्य योजनेन प्रातिपदिकम् भवति। Adding a *krit pratyaya* converts a *dhatu* to a *pratipadhikam*. A *dhatu* can be converted to another *dhatu* by adding a *sanadhi pratyaya*. सुबन्तात् सनादि प्रत्यय योजनेन अपि धातुः भवति। *Subantha* can be converted to *dhatu* by adding a *sanadhi pratyaya*. सुबन्तात् प्रातिपदिकम् भवति तद्धित प्रत्यय योजनेन। ़From *subantha* adding *thadhita pratyaya* will make it *pratipathikam*. *Samasa* will convert multiple (two or  more) to a *prathipadhikam*.
+
+In the above diagram the red lines achieve inter-conversion. One cannot convert *subanta* directly to *tinganta*. You have to first make it a *dhatu*. Similarly, you can convert a *subanta* to a *pratipadika* and then back to *subanta* to get a new word. A *dhatu* can be converted to another *dhatu* using a *snadaya pratyaya*.
+
+The above covers all words in Sanskrit. Knowing Sanskrit is knowing all the above. There are other things like *Sandhi* etc but they are just changing the letters. Of the above there are three steps which are very basic: *dhatu* -> *pratipadikam*, *dhatu* -> *tingantam* and *pratipadikam*->*subantam*
+
+![Words diagram](./images/word_diagram2.png)
+
+[This Kridanta](https://www.youtube.com/playlist?list=PLmozlYyYE-ERJj2FfX6WfH5t8i3d2fh1Z) lesson series is about converting *dhatu* -> *pratipadikam* by adding *krt pratyaya* (कृत्). This conversion will give 95% of *pratipadikas* - just an estimate. There is another view - सर्वम् नाम् धातिजमाः - all nouns are from *dhatus*.
+
+**Start from 27:27**
 
 ---
 
