@@ -106,7 +106,98 @@ There are two views regarding उणादि -
 1. we accept the derivation of उणादि from *dhatu* then 100%, or at least 99% of *pratipadikas* will be derived from *dhatus*. 
 2. those that consider उणादि as something that cannot be split further - meaning they take गो as something that cannot be divided - say that there is a set of केवल प्रातिपतिकः that cannot be split further. Most words come from *dhatus* and a smaller set come from *kevala pratipadikam*.
 
+*Kridantas* are always *pratipadikas*. We cannot use *kridantas* directly because *pratipadikas* cannot be used in sentences. They have to be converted to *subanta* by adding a सुप् *pratyaya* to form a *padam*. 
+
+---
+
+**कृदन्ताः**
+- कृत् इति प्रत्ययः।
+- कृत् अन्ते यस्य सः कृदन्तः।
+- कृत् प्रत्ययाः धातुभ्यः विहिताः<span style="color:red"><sup>1</sup></span>।
+- कृदन्ताः प्रातिपदिकसंज्ञकाः<span style="color:red"><sup>2</sup></span>।
+- कृदन्तेभ्यः सुप्-प्रत्ययस्य योजनेन सुबन्ताः भवन्ति।
+
+<span style="color:red"><sup>1</sup></span>विहिताः = ordained, supplied, made &nbsp;
+<span style="color:red"><sup>2</sup></span>संज्ञका = named, termed
+
+There are ~140 कृत् प्रत्ययाः in *Ashtadyayi*. भिन्नेषु अर्थेषु भवन्ति। These *pratyayas* are added in specific meanings. 
 
 
+Below are examples of what कृत् *pratyayas* do and how they change meaning. You dont have to remember all of this. The examples are not comprehensive. Only a sample for understanding.
 
-**Start from 35:20**
+**Example 1 : कर्ता (the one who does action): पाचकः, वक्ता, गतवान्**
+
+धातवः कृयाम् बोधयति। A *dhatu* is something that tells you an action. यदा कृत् प्रत्ययः योज्यते तदा कर्ता भवति। पच् धातु (cooking) -> पाचकः (यः पाक कार्यं करोति सः। The one who does cooking.)
+
+यः वदते सः वक्ता। यः गच्छति - भूत कालि गमन कार्यं कृतवान् - सः गतवान्। All these words refer to the person who performed the action. We get that meaning because of the *pratyaya*.
+
+<span style="color:blue">पच्</span> + <span style="color:red">अक</span> = <span style="color:green">पाचकः</span>
+
+**Example 2: कर्म the object of action - पठितः, खाद्यम्**
+
+The word पठित (पठितः, पठिता, पठितम्) says what was read (not who read).
+
+किम् पठितम्? (What was read?) कृदन्ताः पठिताः। व्याकरणम् पठितम्।
+
+पठित्वान् is the person who did the action of reading whereas पठित refers to the object. The change in meaning is because of the *pratyaya*.
+
+**Example 3: भावः (क्रिया) action - कृतिः, गतिः, बुभुक्षा**
+
+*Pratyayas* can be used to convert a *dhatu* to give you the meaning of कर्ता (does), कर्म (object) and also क्रिया (the action).
+
+कृतिः = doing &nbsp; गतिः = going &nbsp; बुभुक्षा = to desire to eat
+
+**Example 4: क्रियाणाम् परस्परसम्बन्धः - the inter-relationship between क्रिया**
+
+कृत्वा = having done something you move on to another क्रिया
+
+कर्तुम् = gives the purpose कर्तुम गच्छति (goes for doing)
+
+
+**Example 5: पौनः पुन्यम्**
+
+कारं कारम् = doing it again and again
+
+दर्शं दर्शम् = seeing again and again
+
+---
+
+*Kridantas* are nouns that still have a portion of an action. Not all *krit pratyayas* are added to all *dhatus*. Some are general and applied to all *dhatus* and some are applied to specific *dhatus*.
+
+These are the major *pratyayas* we will be studying in the course. We will study about 25  that are common and important. Most of these are general and can be applied to all *dhatus*.
+
+| कृत्प्रत्ययविभागः (अर्थमनुसृत्य) | | | |
+| --- | --- | --- | --- |
+| **कर्तरि** | **भावे** | **भूते** | **विध्यादिषु** |
+| ण्वुल् | ल्युट् | क्तवतु | अनीयर् |
+| तृच् | क्तिन् | क्त | तव्य |
+| शतृ / शानच् | अ | | यत् / ण्यत् |
+| क्किप् | घञ् | | |
+| | अच् | | |
+
+
+| **कृदनताव्ययानि** | **उपपदकृतन्दाः** | 
+| --- | --- | 
+| क्तवा-ल्यप् | अण |
+| तुमुन | क |
+| णमुल् | ट |
+| | ड |
+| | खश् |
+
+
+### प्रत्ययः १ - ल्युट् (अन)
+
+ल्युट् इति प्रत्ययः रूपेतु अन इति श्रुयते।
+
+Here are some example usages of this प्रत्यय
+
+पूर्वं रामतपोवनादि<span style="color:red">गमनं</span> हत्वा मृगं काञ्चनम् <br>
+वैदेही<span style="color:red">हरणं</span> जटायु<span style="color:red">मरणं</span> सुग्रीव<span style="color:red">सम्भाषणम्</span>। <br>
+वाली<span style="color:red">निग्रहणं</span> समुद्र<span style="color:red">तरणं</span> लङ्कापुरी<span style="color:red">दाहनं</span> <br>
+पश्चाद्रावणकुम्भकर्ण<span style="color:red">हननम्</span> एतद्धि रामायणम्॥ [Listen here](https://youtu.be/Vr-5sJXTS_4?t=3791)
+
+<span style="color:red">करणं</span> मधुरं <span style="color:red">तरणं</span> मधुरं <span style="color:red">हरणं</span> मधुरं <span style="color:red">रमणं</span> मधुरम्।<br>
+वमितं मधुरं शमितं मधुरं मधुराधिपतेरखिलं मधुरम्॥
+
+
+**Start from 1:03:00**
