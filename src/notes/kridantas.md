@@ -2,6 +2,9 @@
 
 These notes are from the Vyoma Pathasala [Kridanta](https://www.youtube.com/playlist?list=PLmozlYyYE-ERJj2FfX6WfH5t8i3d2fh1Z) lessons by Dr. Sowmya Krishnapur.
 
+1. [Lesson 1](#lesson-1)
+2. [Lesson 2](#lesson-2)
+
 
 ## Lesson 1
 
@@ -191,13 +194,27 @@ These are the major *pratyayas* we will be studying in the course. We will study
 
 Here are some example usages of this प्रत्यय
 
+All the words in red color are *kridantas*. Specifically they are ल्यटन्ताः or words ending in ल्युट्.
+
 पूर्वं रामतपोवनादि<span style="color:red">गमनं</span> हत्वा मृगं काञ्चनम् <br>
 वैदेही<span style="color:red">हरणं</span> जटायु<span style="color:red">मरणं</span> सुग्रीव<span style="color:red">सम्भाषणम्</span>। <br>
 वाली<span style="color:red">निग्रहणं</span> समुद्र<span style="color:red">तरणं</span> लङ्कापुरी<span style="color:red">दाहनं</span> <br>
 पश्चाद्रावणकुम्भकर्ण<span style="color:red">हननम्</span> एतद्धि रामायणम्॥ [Listen here](https://youtu.be/Vr-5sJXTS_4?t=3791)
 
+दाहनम् - to make something burn
+
 <span style="color:red">करणं</span> मधुरं <span style="color:red">तरणं</span> मधुरं <span style="color:red">हरणं</span> मधुरं <span style="color:red">रमणं</span> मधुरम्।<br>
-वमितं मधुरं शमितं मधुरं मधुराधिपतेरखिलं मधुरम्॥
+वमितं मधुरं शमितं मधुरं मधुराधिपतेरखिलं मधुरम्॥ [Listen here](https://youtu.be/Vr-5sJXTS_4?t=3974)
 
+<br>
 
-**Start from 1:03:00**
+आदौ देवकिदेविगर्भ<span style="color:blue">जननम्</span> गोपीगृहे<span style="color:blue">वर्धनम्</span><br>
+मायापूतनिजीवित <span style="color:blue">अपहरणम्</span> गोवर्धन <span style="color:blue">उद्धारणम्</span>।<br>
+कंसच्छेदनकौरवादि (<span style="color:blue">छेदनम्</span>) <span style="color:blue">हननम्</span> कुन्तीसुत <span style="color:blue">आपालनम्</span><br>
+एतद्भागवतं पुराणकथितं श्रीकृष्णलिलामृतम्॥ [Listen here](https://youtu.be/Vr-5sJXTS_4?t=4854)
+
+Valmiki Ramayana third sarga has a lot of ल्यट् (अन) *kridantas*.
+
+Why are the *pratyayas* named the way they are? Pannini tries to add some identifying letters into each *pratyaya*. So the *pratyaya* will have its own letters and some other letters for identification. They help us in doing many things. That is not strictly in the purview of this class. Can email teacher (sowmya dot krishnapur at gmail).
+
+## Lesson 2
