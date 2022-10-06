@@ -213,8 +213,35 @@ All the words in red color are *kridantas*. Specifically they are ल्यट�
 कंसच्छेदनकौरवादि (<span style="color:blue">छेदनम्</span>) <span style="color:blue">हननम्</span> कुन्तीसुत <span style="color:blue">आपालनम्</span><br>
 एतद्भागवतं पुराणकथितं श्रीकृष्णलिलामृतम्॥ [Listen here](https://youtu.be/Vr-5sJXTS_4?t=4854)
 
-Valmiki Ramayana third sarga has a lot of ल्यट् (अन) *kridantas*.
+Valmiki Ramayana third sarga has a lot of ल्युट् (अन) *kridantas*.
 
 Why are the *pratyayas* named the way they are? Pannini tries to add some identifying letters into each *pratyaya*. So the *pratyaya* will have its own letters and some other letters for identification. They help us in doing many things. That is not strictly in the purview of this class. Can email teacher (sowmya dot krishnapur at gmail).
 
 ## Lesson 2
+
+[Second Lesson Video](https://www.youtube.com/watch?v=O3AVVXRz2aI)
+
+अद्य वयम ल्यट् प्रत्ययस्य रूपाणि तेषाम् प्रयोगाणाम च अभ्यासम् कुर्मः।
+
+**Recap of previous lesson:**
+
+What all things can *krit pratyayas* convey meaning of - कर्ता (doer), कर्म (object), करणम् (the instrument), क्रिया (the action), कालः (the tense), पौन पुन्यम् (repeatedy doing something), विधिः (the injunction to do something) and many more.
+
+**ल्युट् प्रत्ययः** गमनम्, पठनम्, जननम्, मरणम्, तरणम्, करणम्...
+
+यत्र यत्र अयं प्रत्ययः भवति तत्र अन्ते अनम् अथवा अणम् इति श्रूयते। अयं भावार्थकः प्रत्ययः इत्युच्छते अर्थात क्रियां बोधयति। Note that the above examples are *subantas* the *kridantas* are like गमन, पठन etc.
+
+This *pratyaya* is a general *pratyaya* which is used in the sense of action. The easy way of identifying this *pratyaya* is by looking at the अनम्/अणम् at the end of it. But not everywhere you see a अनम्/अणम् that is a ल्युट् प्रत्यय.
+
+---
+
+**षोडशोपचार-पूजायाः अङ्गानि** -  यतः भगवतः पूजा क्रियते तत्र षोडश-अङ्गानि भवति। When we are worshipping the lord we have 16 steps. They are all different actions. किम् किम् भवति षोडशोपचारे -
+
+1. ध्यानम् - we pray to the deity
+2. आवाहनम् - we bring the deity into the idol or kalasha
+3. आसनम् - sitting. आसनप्रदानम् we are giving him a seat
+4. पाद्यप्रदानम् - पादस्य क्षालनार्थं जलम्
+5. अर्घ्यप्रदानम् - अर्घ्यम् is हस्त प्रक्षालनार्थं जलम्
+
+
+**Start at 24:30**
