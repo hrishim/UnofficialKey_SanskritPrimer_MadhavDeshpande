@@ -241,7 +241,43 @@ This *pratyaya* is a general *pratyaya* which is used in the sense of action. Th
 2. आवाहनम् - we bring the deity into the idol or kalasha
 3. आसनम् - sitting. आसनप्रदानम् we are giving him a seat
 4. पाद्यप्रदानम् - पादस्य क्षालनार्थं जलम्
-5. अर्घ्यप्रदानम् - अर्घ्यम् is हस्त प्रक्षालनार्थं जलम्
+5. अर्घ्यप्रदानम् - अर्घ्यम् is हस्त प्रक्षालनार्थं जलम् प्रदानम्
+6. आचमनीयप्रदानम् - पातुम जलम् आचमनीयमित्युच्छते 
+7. स्नानम्
+8. वस्त्रधारणम्
+9. यज्ञोपवीतधारणम्
+10. गन्धलेपनम् - लिपनम् is to anoint. गन्ध is fragrant 
+11. पुष्पार्चनम् - पुष्पैः अर्चनम् (worshipping with flowers)
+12. धूपाराधनम् - worshipping (आराधनम्) with धूपा
+13. दीपदर्शनम् - showing deepam
+14. निवेदनम् - giving नैवेद्यम् (action of offering food)
+15. नीराजनम् - aarati
+16. प्रार्थनम् - praying
+
+1-6 above are *kridantas* but a different kind. After 6 are ल्यट् *kridantas*.
+
+---
+
+**कुत्र अनम्? कुत्र अणम्?**
+
+णत्वं कुत्र भवति? In grammatiचal parlance this is called णत्व. Here is a general rule that works most of the time- 
+
+नकारात् पूर्वम् -
+- रेफः/ ऋकारः / षकारः अस्ति चेत् णत्वम् भवति। Example: In त<span style="color:red">रन</span>म् there is र् before न्। In this rule you dont have to worry if there are any स्वाराः (vowels) in betwee. *Swaras* will not obstruct णत्व. That word becomes त<span style="color:red">र</span><span style="color:green">ण</span>म्. Similarly पे<span style="color:red">षन</span>म् becomes पे<span style="color:गरेेन">ष</span><span style="color:red">ण</span>म्
+
+- Second rule: If there is a consonent between the रेफः/ ऋकारः / षकारः and नकार. Examples: <span style="color:red">क्र</span>य<span style="color:red">न</span>म्, <span style="color:red">बृं</span>ह<span style="color:red">न</span>म्, <span style="color:red">क्षे</span>प<span style="color:red">न</span>म् - If the व्यञ्जनानि (consonants) are one of कवर्ग-पवर्ग-ह्-य्-व्-र् then णत्वम् happens. All three examples qualify and they become क्रयणम्, बृंहणम्, and क्षेपणम्
+
+- If there are other consonants between रेफः/ ऋकारः / षकारः and नकार then णत्व does not happen. Examples: ग्रथनम्, अर्चनम्, गृञ्जनम्, क्षालनम्, रटनम्, क्रीडनम्, मूर्च्छनम्, क्रोशनम्
+
+The above is the most general rule for णत्व. There are other rules also. This rule holds for simple cases.
 
 
-**Start at 24:30**
+वृक्षेन / वृक्षेण ? वृक्षेण
+
+ऋृषबेन / ऋृषबेण ? ऋृषबेन
+
+Both above are not ending in अनम् so this rule does not apply. A different rule applies. See Sandhi notes "Word Internal Sandhi rule".
+
+---
+
+**Start at 45:56**

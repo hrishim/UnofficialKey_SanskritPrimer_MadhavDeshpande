@@ -47,7 +47,7 @@ Optionally an *anusvāra* is further changes to a nasal consonant, which is homo
 
 ## Visarga Sandhi Rules
 
-1\) The final *visarga* remains unchanged before क् ख् प् फ् : रामम् पतति।
+1\) The final *visarga* remains unchanged before क् ख् प् फ् E.g. रामः पतति।
 
 <BR>
 
