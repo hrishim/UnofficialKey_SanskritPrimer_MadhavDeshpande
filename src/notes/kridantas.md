@@ -280,4 +280,46 @@ Both above are not ending in अनम् so this rule does not apply. A differe
 
 ---
 
-**Start at 45:56**
+**ल्युट्-प्रत्यत्यान्तस्य रूपाणि १**
+
+How do we get the forms of ल्युट् प्रत्यय from the *dhatu*? For most *dhatus* adding अन् will give a ल्युट् प्रत्यय.
+
+| गणित-क्रियाः | गति-क्रियाः|
+| --- | --- |
+| गण् - गणनम् (counting) | गम् - गमनम् (going) | 
+| सङ्कल् - सङ्कलनम् (addition) | चल् - चलनम् (moving) | 
+| व्यवकल् - व्यवकलनम् (subtraction) | धाव् - धावनम् (running) | 
+| गुण् - गुणनम् (multiplication) | भ्रम् - भ्रनणम् (rotating) | 
+| विभज् - विभजनम् (division) | कम्प् - कम्पनम् (shaking) |
+
+These words only give क्रिया and there is no reference to any काला.
+
+गमनम् अस्ति। - Present tense
+
+गमनम् भविष्यति - Will go - Future tense
+
+गमनम् आसीत् - Was going. - Past tense.
+
+Some *krit pratyayas* do convey tense. E.g. गतवान्. This ल्युट् *pratyaya* does not convey tense.
+
+---
+
+**ल्युट्-प्रत्यत्यान्तस्य रूपाणि २**
+
+| इकारान्ताः/ईकारान्ताः | उकारान्ताः/ऊकारान्ताः|
+| --- | --- |
+| चि - चयनम्  (collect/pluck) | प्लु - प्लवनम् (jump) |
+| स्मि - स्मयनम् (smile) | स्तु - स्तवनम् (praise) |
+| नी - नयनम् (take/carry) | हु - हवनम् (homam/havan, perform a sacrifice/ritual) |
+| शी - शयनम् (sleep) | भू - भवनम् (existance)|
+| डी - डयनम् (fly) | पू - पवनम् (clean, purify) |
+
+
+If the words ends in इकारान्ताः/ईकारान्ताः we add अयनम्
+
+If the words ends in उकारान्ताः/ऊकारान्ताः we add अवनम्
+
+
+---
+
+**Start at 1:10:00**
