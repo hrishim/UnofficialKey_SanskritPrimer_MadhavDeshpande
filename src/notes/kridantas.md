@@ -398,4 +398,11 @@ Bhakti is of nine kinds
 
 ---
 
-**Start at 1:31:00**
+**Summary**
+
+![Words diagram](./images/kridanta2_summary.png)
+
+
+ [Student question](https://youtu.be/O3AVVXRz2aI?t=6122): Why do we call it ल्युट् when the sound added is अन्/अण्?
+
+**Start at 1:40:00** Only questions.
