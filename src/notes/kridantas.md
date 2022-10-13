@@ -2,9 +2,9 @@
 
 These notes are from the Vyoma Pathasala [Kridanta](https://www.youtube.com/playlist?list=PLmozlYyYE-ERJj2FfX6WfH5t8i3d2fh1Z) lessons by Dr. Sowmya Krishnapur.
 
-1. [Lesson 1](#lesson-1)
-2. [Lesson 2](#lesson-2)
-
+- [Lesson 1](#lesson-1)
+- [Lesson 2](#lesson-2)
+- [Lesson 3](#lesson-3)
 
 ## Lesson 1
 
@@ -403,6 +403,11 @@ Bhakti is of nine kinds
 ![Words diagram](./images/kridanta2_summary.png)
 
 
- [Student question](https://youtu.be/O3AVVXRz2aI?t=6122): Why do we call it ल्युट् when the sound added is अन्/अण्?
+ [Student question](https://youtu.be/O3AVVXRz2aI?t=6122): Why do we call it ल्युट् when the sound added is अन्/अण्? <br>
 
-**Start at 1:40:00** Only questions.
+ The लकार and टकार in ल्युट् has its own purposes of modifying the swara etc of the *dhatu*. Why we get अन् is because where every यु occurs it is replaced by अन् as per a *Panini sutra* called **युवोरनाकौ**.
+
+
+**Start at 1:48:00** Only questions.
+
+## Lesson 3
