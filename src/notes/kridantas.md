@@ -407,7 +407,4 @@ Bhakti is of nine kinds
 
  The लकार and टकार in ल्युट् has its own purposes of modifying the swara etc of the *dhatu*. Why we get अन् is because where every यु occurs it is replaced by अन् as per a *Panini sutra* called **युवोरनाकौ**.
 
-
-**Start at 1:48:00** Only questions.
-
 ## Lesson 3
