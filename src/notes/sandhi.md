@@ -433,5 +433,30 @@ Examples:
 
 Memorize the above sutras. They are useful in learning Sandhi.
 
+## यण् सन्धिः - इकोयणचि
+
+The *Panini* sutra for यण्सन्धिः is इकोयणचि. The इक्, यण् and अच् terms in this *sutra* refer to portions of the Maheshvara sutra highlighted in red below.
+
+अ<span style="color:red">इउण् । ऋऌक्</span>। - **इक्**
+
+ह<span style="color:red">यवरट् । लण् </span>। -  **यण्**
+
+<span style="color:red">अइउण् । ऋऌक् । एओङ् । ऐऔच् ।</span> - **अच्**
+
+इक् refers to vowels इ ई उ ऊ ऋ ॠ लृ
+
+यण् refers to vowels य व र ल
+
+अच् refers to all vowels अ आ इ ई उ ऊ ऋ लृ ए ऐ ओ औ
+
+This *sutra* says that the vowels इ/ई, उ/ऊ, ऋ/ॠ and लृ if followed by a any vowel of different type (i.e. different from this vowel असवर्णस्वरः) it must be (आदेशः) replaced (correspondingly) by य्, व्, र्, or ल्. 
+
+
+| |  यण् सन्धिः | | |
+| --- | --- | --- | --- |
+| इई | उऊ | ऋॠ | लृ | 
+| य् | व् | र् | ल् |
+
+
 ---
 
