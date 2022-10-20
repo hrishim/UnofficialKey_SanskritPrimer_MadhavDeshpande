@@ -485,6 +485,22 @@ This *sutra* says that the vowels इ/ई, उ/ऊ, ऋ/ॠ and लृ if follow
 
 If ए ऐ ओ औ are followed by स्वाराः it changes as shown in the above table.
 
+**Examples:**
+
+हरे + ए = हर् + अय् + ए = हरये &nbsp;&nbsp;&nbsp; हरे + आगच्छ = हर् + अय् + आगच्छ = हरयागच्छ
+
+नै + अकः = न् + आय् + अकः = नायकः &nbsp;&nbsp;&nbsp; तस्यै + इदम् = तस्य् + आय् + इदम् = तस्यायिदम्
+
+विष्णो + ए = विष्ण् + अव् + ए = विषणवे &nbsp;&nbsp;&nbsp; गुरो + आदिश = गुर् + अ्व + आदिश = गुरावादिश
+
+पौ + अकः = प् + आव् + अकः = पावकः
+
+बालकौ + आगतौ = बालक् + आव् + आगतौ = बालकावागतौ
+
+फले + इच्छा = फलयिच्छा / फल इच्छा
+
+कटे + उपवेशनम् = कटयुपवेशनम् / कट उपवेशनम्
+
 **Note from teacher:**
 There is another *sutra* that provides an exception to एचोऽयवायावः. As per सूत्र "एङः पदान्तादति" the एङ् (ए ओ) at the end of the word followed by अत् (ह्रस्व अ) the both will get common replacement of पूर्वरूप (ए, ओ)
 
