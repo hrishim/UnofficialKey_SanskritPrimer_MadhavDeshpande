@@ -201,7 +201,7 @@ Examples:
 a.1) ए + अ = ए
 
 Examples:
-लभते अत्र -> लाभतेऽत्र &nbsp; वने अपि -> वनेऽपि
+लभते अत्र -> लभतेऽत्र &nbsp; वने अपि -> वनेऽपि
 
 a.2) ए -> अय् before any vowel other than अ
 
@@ -433,7 +433,9 @@ Examples:
 
 Memorize the above sutras. They are useful in learning Sandhi.
 
-## यण् सन्धिः - इकोयणचि
+## १. यण् सन्धिः - इकोयणचि
+
+इकोयणचि ६.१.७७ - इकः स्थाने यण् स्यादचि संहितायां विषये। इको यण् स्यादसवर्णेऽचि परे इति सूत्रस्य फलितोऽर्थः इति ज्ञेयम्।
 
 The *Panini* sutra for यण्सन्धिः is इकोयणचि. The इक्, यण् and अच् terms in this *sutra* refer to portions of the Maheshvara sutra highlighted in red below.
 
@@ -457,6 +459,42 @@ This *sutra* says that the vowels इ/ई, उ/ऊ, ऋ/ॠ and लृ if follow
 | इई | उऊ | ऋॠ | लृ | 
 | य् | व् | र् | ल् |
 
+
+**Examples:** 
+
+प्रति + एकम् = प्रत् + य् + एकम् =  प्रत्येकम्  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; नदी + अत्र = नद् + य् + अत्र = नद्यत्र
+
+मनु + अन्तरम् = मन् + व् + अन्तरम् = मन्वन्तरम् &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; वधू + आगमनम् = वध् + व् + आगमनम् =  वध्वागमनम्
+
+पितृ + इच्छा = पित् + र् + इच्छा = पित्रिच्छा 
+
+घस्लृ + आदेशः = घस् + ल् + आदेशः = घस्लादेशः (uncommon)
+
+---
+
+## २. यान्तवान्तादेशसन्धिः
+
+एचोऽयवायावः - ६.१.७८ एचः क्रमाद् अय् अव् आय् आव् एते स्युरचि।
+
+यान्तौ वान्तौ च = अय् आय् अव् आव्
+
+| |  यान्तवान्तादेशसन्धिः | | |
+| --- | --- | --- | --- |
+| ए | ऐ | ओ | औ | 
+| अय् | आय् | अव् | आव् |
+
+If ए ऐ ओ औ are followed by स्वाराः it changes as shown in the above table.
+
+**Note from teacher:**
+There is another *sutra* that provides an exception to एचोऽयवायावः. As per सूत्र "एङः पदान्तादति" the एङ् (ए ओ) at the end of the word followed by अत् (ह्रस्व अ) the both will get common replacement of पूर्वरूप (ए, ओ)
+
+---
+
+**How do we decide which *sutra* overrides another one?**
+
+First we have to look for the सूत्र number. If सूत्रs in first 7 अध्यायs and the 1st quarter of 8th अध्याय then first rule is more powerful than later on. In last 3 quarters of 8th अध्याय then it is reverse. Later is powerful than previous.
+
+In case of one sutra in सपादसप्ताध्यायी (first 7 chapters and 1st quarter of 8th) and another in त्रिपादी (last 3 quarters of 8th अध्यायी) then सपादसप्ताध्यायी is powerful.
 
 ---
 
