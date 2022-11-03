@@ -147,6 +147,8 @@ Examples (rare): पितृ + ऋषिः -> पितॄषिः ; पि�
 
 **B) Simple vowels folowed by dissimilar vowels:**
 
+यण् सन्धिः - इकोयणचि
+
 a) इ or ई -> य् if followed by any other vowel.
 
 Examples: उपरि + अश्वः -> उपर्यश्वः ; नदी + एव -> नद्येव
@@ -157,7 +159,7 @@ Example: धावतु + अत्र -> धावत्वत्र
 
 c) ऋ or  ॠ -> र् if followed by any other vowel
 
-Example: पुतृ + अत्र -> पित्रत्र
+Example: पितृ + अत्र -> पित्रत्र
 
 <br>
 
@@ -197,6 +199,8 @@ Examples:
  <BR>
  
 **Vowel sandhi rules (continued)**
+
+a.2, b.2, c, d below are यान्तवान्तादेशसन्धिः as per *Panini sutra* एचोऽयवायावः
 
 a.1) ए + अ = ए
 
@@ -451,7 +455,7 @@ The *Panini* sutra for यण्सन्धिः is इकोयणचि. The
 
 अच् refers to all vowels अ आ इ ई उ ऊ ऋ लृ ए ऐ ओ औ
 
-This *sutra* says that the vowels इ/ई, उ/ऊ, ऋ/ॠ and लृ if followed by a any vowel of different type (i.e. different from this vowel असवर्णस्वरः) it must be (आदेशः) replaced (correspondingly) by य्, व्, र्, or ल्. 
+This *sutra* says that the vowels इ/ई, उ/ऊ, ऋ/ॠ and लृ if followed by any vowel of different type (i.e. different from this vowel असवर्णस्वरः) it must be (आदेशः) replaced (correspondingly) by य्, व्, र्, or ल्. 
 
 
 | |  यण् सन्धिः | | |

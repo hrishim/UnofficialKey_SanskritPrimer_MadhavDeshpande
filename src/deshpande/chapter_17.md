@@ -370,7 +370,7 @@ Examples:
 
 In some cases the स्य infix occurs without being preceeded by इ. For example, पास्यति (he/she will drink).
 
-"Active and middle verbs" (middle = आत्मनेपदि) follow the active and middle present tense patterns in स्य future forms. For some middle verbs once can have optional active forms.  E.g. वर्तिष्यते and वत्स्र्यति. Another is मनिष्यति and मंस्यति.
+"Active and middle verbs" (middle = आत्मनेपदि) follow the active and middle present tense patterns in स्य future forms. For some middle verbs once can have optional active forms.  E.g. वर्तिष्यते and वत्स्‌र्यति. Another is मनिष्यति and मंस्यति.
 
 For some active verbs one can have middle forms - गमिष्यति and गंस्यते. Passive forms are obtained by using the corresponding middle forms with स्य-infix.
 

@@ -31,7 +31,23 @@ This is a list of commonly used and some uncommon शब्द रुप
 | *सप्तमी* | हरौ | हर्योः | हरिषु | *सप्तमी* | पत्यौ | पत्योः | पतीषु |
 | *सम्बोधन* | हे हरे | हे हरी | हे हरयः | *सम्बोधन* | हे पते | हे पती | हे पतयः |
 
-**Note:** Most इकारान्त पुंल्लिङ्गः are similar to हरि शब्दः. But some, like पति, are different.
+**Note:** When पति occurs at the end of compounds like नरपति it behaves in a normal fashion and follows the pattern like हरि. The feminine form of पति is पत्नी and it follows the same form as नदी.
+
+<br>
+
+| **इकारान्तः पुंल्लिङ्गः सखि शब्दः** | | | |
+| --- | --- | --- | --- |
+| **विभक्ति** | **एकवचन** | **द्विवचन** | **बहुवचन** |
+| **प्रथमा** | सखा | सखायौ | सखायः |
+| **द्वितीया** | सखायम् | सखायौ | सखीन् |
+| **तृतीया** | सख्या | सखिभ्याम् | सखिभिः |
+| **चतुर्थी** | सख्ये | सखिभ्याम्  | सखिभ्यः |
+| **पञ्चमी** | सख्युः | सखिभ्याम् | सखिभ्यः |
+| **षष्ठी** | सख्युः | सख्योः | सखीनाम् |
+| **सप्तमी** | सख्यौ | सख्योः | सखिषु |
+| **सम्बोधन** | हे सखे | हे सखायौ | हे सखायः |
+
+**Note:** Most इकारान्त पुंल्लिङ्गः are similar to हरि शब्दः. But some, like पति and सखि, are different. The word सखि is masculine a form meaning friend. सखी is a feminine word that also means friend (female). It follows the same form as नदी
 
 
 | **उकारान्तः पुंल्लिङ्गः गुरु शब्दः (Teacher)** | | | |
