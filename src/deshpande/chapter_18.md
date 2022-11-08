@@ -46,9 +46,13 @@
 
 **7. When Duhsasana dragged (कृष् 1P) her clothing in Duryodhana's assembly, Draupadi looked down with modesty and trembled with fear.**
 
+यदा दुःशासनोऽकृषत् तस्य वस्त्रं दुर्योधनस्य सभे द्रौपदी ह्रिया अधः अपश्यत् भिया अकम्पयत् च।
+
 <BR>
 
 **8."Go on bullocks, go on", said the farmer to the bullocks.**
+
+"चलन्तु गावः, चलन्तु" इति कृषो गवयवदत्।
 
 <BR>
 

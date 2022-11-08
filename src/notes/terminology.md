@@ -22,7 +22,7 @@ Similarly there is a branch devoted to the study of the joining of two पदम
 
 तिङन्तम् - verbs (क्रिया पदम)
 
-कृदन्तम् - 
+कृदन्तम् - The term used to refer to a group of प्रत्ययाः. It is not a प्रत्यय by it self but refers to a group.
 
 
 ---

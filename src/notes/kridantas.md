@@ -408,3 +408,11 @@ Bhakti is of nine kinds
  The लकार and टकार in ल्युट् has its own purposes of modifying the swara etc of the *dhatu*. Why we get अन् is because where every यु occurs it is replaced by अन् as per a *Panini sutra* called **युवोरनाकौ**.
 
 ## Lesson 3
+
+[Video](https://youtu.be/K8uLh6ZMBQ8)
+
+कृदन्ताः - The term used to refer to a group of प्रत्ययाः. It is not a प्रत्यय by it self but refers to a group.
+
+कृत् is a name for a set of *pratyayas*. There are about 140 *pratyayas* that fall under this group. They are always added to *dhatus*.
+
+**Start at 4:28**
