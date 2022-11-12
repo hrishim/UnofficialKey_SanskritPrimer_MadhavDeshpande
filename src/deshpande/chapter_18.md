@@ -2,6 +2,31 @@
 
 **2) Translate the following into English:**
 
+**१.रामो नावा नदीं तरति ।**
+
+Rama cross the river using a boat.
+
+**२.अरिणां भिया वीरा न पलायन्ते ।**
+
+Heroes do not flee/escape due to the fear of enemies.
+
+**३. पत्यः प्रीतिं लभस्व ।**
+
+May you get husband's affection/regard.
+
+
+**४.उद्याने सुभ्रुवो दृष्ट्वा जना अक्ष्णां फलं लभेरन् ।**
+
+Seeing the beautiful browed (girl/woman) in the garden people may get fruit of the eyes.
+
+**५.गोः क्षीरं बालेभ्यो यच्छ ।**
+
+Give cow's milk to the boys.
+
+**६. यदा तस्य पिता अम्रियत, तदा स जरसा विनापि वृद्धोऽभवत् ।**
+
+When his father died then he, even without old age, became an old man.
+
 **3) Tranlate the following into Sanskrit:** 
 
 <BR> 
