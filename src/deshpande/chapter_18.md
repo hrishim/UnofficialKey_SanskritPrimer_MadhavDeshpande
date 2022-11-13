@@ -27,7 +27,21 @@ Give cow's milk to the boys.
 
 When his father died then he, even without old age, became an old man.
 
-**3) Tranlate the following into Sanskrit:** 
+**७. शत्रवो नृपस्य श्रियमपहर्तुमिच्छन्ति ।**
+
+Enemies wish to take away the King's prosperity.
+
+**८. अस्माकं क्रियाणां फलेषु ईश्वर एव प्रतिभूर्भविष्यति ।**
+
+Only Iswara is the guarantor of fruits of our actions.
+
+**९. ये शत्रूणां मायां न बोधन्ति ते मूढधियः पराभवं गच्छन्ति**
+
+Those that do not know (their) enemies' deceit those fools will go to ruin.
+
+<BR>
+
+**3) Translate the following into Sanskrit:** 
 
 <BR> 
 

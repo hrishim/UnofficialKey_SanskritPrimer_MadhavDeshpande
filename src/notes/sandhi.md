@@ -191,10 +191,10 @@ Example: पितृ + अत्र -> पित्रत्र
 
 **D) Exceptions**
 
-Long ई, ऊ, and  ए do not change if they occur at the end of dual forms or nouns or verbs. Similarly the final vowels of interjections like आ, हे and अहो remain unchanged.
+Long ई, ऊ, and  ए do not change if they occur at the end of dual forms of nouns or verbs. Similarly the final vowels of interjections like आ, हे and अहो remain unchanged.
 
 Examples:
-मुनी + अत्र -> मुनी अत्र ; धेनू + इति -> धेनु इति; माले अत्र -> माले अत्र
+मुनी + अत्र -> मुनी अत्र ; धेनू + इति -> धेनू इति; माले अत्र -> माले अत्र
 
  <BR>
  
