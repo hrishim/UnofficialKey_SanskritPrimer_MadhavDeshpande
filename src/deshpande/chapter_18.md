@@ -39,6 +39,35 @@ Only Iswara is the guarantor of fruits of our actions.
 
 Those that do not know (their) enemies' deceit those fools will go to ruin.
 
+**१०. सुधियः सुधीभिर्मोदन्ते कुधियश्च कुधीभिः ।**
+
+Intelligent (people) rejoice with (other) intelligent people and fools with fools.
+
+**११. यदाग्निर्वनानि दहति तदानिलस्तस्य सखा भवति ।**
+
+When fire burns the forest then wind is his friend.
+
+**१२. दिवि देवा वसन्तीति मुनयो जनेभ्यः कथयन्ति ।**
+
+Devas live in heaven - thus sages tell people.
+
+**१३. यो दासः कनकं चोरयति तस्य ह्रीर्न भवति ।**
+
+That servant who steals gold he has no modesty.
+
+ह्री (f) - modesty. Declined like धी (f. intellect)
+
+**१४. यदा देवा असुरैरयुध्यन् तदा दधीचस्य मुनेरस्थीनि तेषां शस्त्राण्यभवन्‌ ।**
+
+When the *Devas* fought with the *Asuras* then Sage *Dadhichi's* bones became their weapons.
+
+**१५. वातप्रम्यो मृगा एते भुवि धावन्ति ।**
+
+These swift as wind anumals run on Earth.
+
+वातप्रमी (m) - antelope, swift as wind
+
+
 <BR>
 
 **3) Translate the following into Sanskrit:** 
