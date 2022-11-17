@@ -126,7 +126,10 @@ These swift as wind anumals run on Earth.
 
 **9. With her long and big (विशाल) eyes, Sita almost (इव) drank Rama's face, when he returned from the forest to the hermitage.**
 
+यदा रामः वनात् आश्रमं प्रवृत्त तदा सीता तस्य विशालेन दीर्घेन अक्षिभ्याम् रामस्य मुखम् अपिबत् इव ।
+
 <BR>
 
 **10. Parvati said to the girl who stood near her, "O friend, look at this boy."**
 
+ यस्याः स्त्री तस्य समिपे अतिष्ठत् पार्वति सा अवदत् - "सखी एतं बालम् पश्यतु ।"
