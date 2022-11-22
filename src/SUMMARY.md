@@ -45,5 +45,7 @@
   - [Lesson 14: मृगाणां पक्षिणां च समयः](./reader1/r1l14.md)
   - [Lesson 16: शुकः](./reader1/r1l16.md)
   - [Lesson 17: उल्लूखलं मर्दलश्च](./reader1/r1l17.md)
+  - [Lesson 18: गजः](./reader1/r1l18.md)
+  - [Lesson 19: दश मूढाः](./reader1/r1l19.md)
   - [Lesson 34: भूमिः](./reader1/r1l34.md)
   - [Amarakosha Extracts](./reader1/r1ae.md)
