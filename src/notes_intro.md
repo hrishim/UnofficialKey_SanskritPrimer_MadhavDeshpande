@@ -19,6 +19,7 @@ The best way to learn Sanskrit is to learn from a good teacher following whateve
 - [सम्भाषणसन्देशः](https://sambhashanasandesha.in/) - Sanskrit Magazine
 - [सुधर्मा संस्कृतदिनपत्रिका](https://sudharmasanskritdaily.in/) - Sudharma Sanskrit Newspaper
 - [Ambuda - Sanskrit library project](https://ambuda.org/)
+- [Samvardhini](https://www.samskritpromotion.in/samvardhini/samvardhini_about)
 
 **Books:**
 
