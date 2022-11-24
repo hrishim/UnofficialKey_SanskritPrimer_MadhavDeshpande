@@ -47,5 +47,6 @@
   - [Lesson 17: उल्लूखलं मर्दलश्च](./reader1/r1l17.md)
   - [Lesson 18: गजः](./reader1/r1l18.md)
   - [Lesson 19: दश मूढाः](./reader1/r1l19.md)
+  - [Lesson 20: कुक्कुटो रत्नं च](./reader1/r1l20.md)
   - [Lesson 34: भूमिः](./reader1/r1l34.md)
   - [Amarakosha Extracts](./reader1/r1ae.md)
