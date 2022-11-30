@@ -51,3 +51,4 @@
   - [Lesson 20: कुक्कुटो रत्नं च](./reader1/r1l20.md)
   - [Lesson 34: भूमिः](./reader1/r1l34.md)
   - [Amarakosha Extracts](./reader1/r1ae.md)
+- [Resources](./resources.md)
