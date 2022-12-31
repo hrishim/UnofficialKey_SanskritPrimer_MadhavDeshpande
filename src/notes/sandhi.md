@@ -509,6 +509,32 @@ If ए ऐ ओ औ are followed by स्वाराः it changes as shown in 
 **Note from teacher:**
 There is another *sutra* that provides an exception to एचोऽयवायावः. As per सूत्र "एङः पदान्तादति" the एङ् (ए ओ) at the end of the word followed by अत् (ह्रस्व अ) the both will get common replacement of पूर्वरूप (ए, ओ)
 
+
+## २.२. यान्तवान्तादेशसन्धिः
+
+यकारादिप्रत्यये परे ओ औ इत्येतयोः स्थाने क्रमाद् अव् आव् एतौ आदेशौ भवतः।
+
+When a यकार प्रत्यय is added to words ending in ओ or औ then it changes as below
+
+**ओ/औ + यादिप्रत्ययः -**
+
+| यान्तवान्तादेशसन्धिः | |
+| --- | --- |
+| ओ | औ | 
+| अव् | आव् |
+
+Examples:
+
+गो + यम् = ग् + अव् + यम् = गव्यम्
+
+नौ + यम् = न् + अव् + यम् = नव्यम्
+
+---
+
+**इदमवधेयम्** - स्वरसन्धिषु यण्सन्धौ यान्तवान्तादेशसन्धौ च एकस्य पूर्वस्थितस्य वर्णस्य आदेशौ भवति। इदं सन्धिद्वयं विहाय अन्यत्र स्वरसन्धिषु पूर्वपरयोः स्थाने एकादेशो भवति। 
+
+**Know this:** Among *swara sandhis* यणसन्धि and यान्तवान्तादेशसन्धि one previous sound (letter) is replaced. Other than these two *sandhis*  other *swara sandhis* the last letter (of the first word) and the first letter (of the second woord) are replaced with the same change.
+
 ---
 
 **How do we decide which *sutra* overrides another one?**
