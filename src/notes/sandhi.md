@@ -127,6 +127,8 @@ Change of न् to ण्
 
 **A) Lengthening of similar simple vowels:**
 
+सावर्णदीर्घसन्धिः
+
 a) अ or आ + अ or आ -> आ
 
 Examples: राम + अत्र -> रामात्र; माला + आकाशे -> मालाकाशे
@@ -165,6 +167,10 @@ Example: पितृ + अत्र -> पित्रत्र
 
 **C) Formation of diphthongs:**
 
+गुणसन्धिः - a and b
+
+वृद्धिसन्धिः - c and d
+
  a) अ or आ + इ or ई -> ए
 
  Examples:
@@ -200,7 +206,11 @@ Examples:
  
 **Vowel sandhi rules (continued)**
 
+a.1 and b.1 are  पूर्वरूपसन्धिः
+
 a.2, b.2, c, d below are यान्तवान्तादेशसन्धिः as per *Panini sutra* एचोऽयवायावः
+
+<BR>
 
 a.1) ए + अ = ए
 
@@ -461,7 +471,7 @@ This *sutra* says that the vowels इ/ई, उ/ऊ, ऋ/ॠ and लृ if follow
 
 | |  यण् सन्धिः | | |
 | --- | --- | --- | --- |
-| इई | उऊ | ऋॠ | लृ | 
+| इई | उऊ | ऋॠ | ऌ | 
 | य् | व् | र् | ल् |
 
 
@@ -589,3 +599,10 @@ In case of one sutra in सपादसप्ताध्यायी (first 7 c
 तव + ऌकारः = तव् + अल् + कारः = तवल्कारः
 
 महा + ऌकारः = मह् + अल् + कारः = महल्कारः
+
+## वृद्धिसन्धिः
+
+| वृद्धिसन्धिः ||
+| --- | --- |
+| **अ/आ + ए/ऐ** | **अ/आ + ओ/औ** | 
+| ऐ | औ |
