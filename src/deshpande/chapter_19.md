@@ -77,9 +77,16 @@ Merchants (वणिजः) physicians/healers (भिषजः) and (च) pries
 
 **९. यदा अरीणाम् इषुभिः सम्राजः उरः भिन्नम् (broken), तदा सर्वेषाम् विशाम् चेतांसि शुचा पर्यभूयन्त। चन्द्रमाः एव वियतः भूमौ पतति इति सुमनसः अमन्यन्त। पशूनाम् शक्त्या पर्वतः एव नश्यति इति सर्वे जनाः अचिन्तयन्। एते अरयः पुरम् प्रविश्य सर्वाणि गृहाणि धक्ष्यन्ति इति चिन्तयित्वा सर्वे जनाः धनूंषि आदाय पुरम् रक्षितुम् द्वारि अतिष्ठन्।**
 
+When (यदा) the king's (सम्राजः) chest (उरः) split (भिन्नम्) due to the arrows (इषुभिः) of the enemies (अरीणाम्), then (तदा) all (सर्वेषाम्) the minds (चेतांसि) kings (विशाम्) were overwhelmed with (पर्यभूयन्त)  sorrow (शुचा). The moon (चन्द्रमाः) itself (एव) is falling (पतति) on the Earth (भूमौ) from the sky (वियतः)  thus (इति) good people (सुमनसः) thought (अमन्यन्त). Through the power (शक्त्या) of animals (पशूनाम्) a mountain (पर्वतः) itself (एव) is getting destroyed (नश्यति) thus (इति) all (सर्वे) people (जनाः) thought (अचिन्तयन्). Thinking (चिन्तयित्वा) that (इति) these (एते) enemies (अरयः) entering (प्रविश्य) the city (पुरम्) will burn (धक्ष्यन्ति) all (सर्वाणि) the houses (गृहाणि) all (सर्वे) people (जनाः) stood (अतिष्ठन्) at the entrance (द्वारि) holding (आदाय) bows (धनूंषि) to save (रक्षितुम्) the city (पुरम्).
+
+**With Sandhi:** यदा अरीणामिषुभिः सम्राज उरो भिन्नन्तदा सर्वेषां विशाम् चेतांसि शुचा पर्यभूयन्त। चन्द्रमा एव वियतो भूमौ पतति इति सुमनसोऽमन्यन्त। पशूनां शक्त्या पर्वत एव नश्यति इति सर्वे जना अचिन्तयन्। एते अरयः पुरम् प्रविश्य सर्वाणि गृहाणि धक्ष्यन्ति इति चिन्तयित्वा सर्वे जना धनूंषि आदाय पुरम् रक्षितुम् द्वारि अतिष्ठन्।
+ 
+
+
 <BR>
 
 **१०. कस्य सुमनसः मनः उषसम् दृष्टवा न प्रसीदति? कस्य सुमनसः चेतः सुमनांसि दृष्टवा न तुष्यति। चन्द्रमसम् दृष्ट्वा यथा सुमनांसि मोदन्ते, तथा सुहृदम् दृष्ट्वा सुहृदाम् मनांसि मोदन्ते।**
+
 
 <BR>
 
@@ -95,9 +102,17 @@ Merchants (वणिजः) physicians/healers (भिषजः) and (च) pries
 
 **1. The mendicants will go to the forests and will recite the hymns.**
 
+परिव्राजः (तhe mendicants) वनानि (to the forests) गमिष्यन्ति (will go) ऋचः (hymns) पठिष्यन्ति (will recite) च (and) ।
+
+**With Sandhi:** परिव्राजो वनानि गमिष्यन्ति ऋचः पठिष्यन्ति च।
+
 <BR>
 
 **2. Do the merchants, doctors and priests like flowers?**
+
+किम् वणिजः भिषजः ऋत्विजः च पुष्पानि रोचन्ते वा?
+
+**With Sandhi:** किं वणिजो भिषज ऋत्विजश्च पुष्पानि रोचन्ते वा?
 
 <BR>
 
