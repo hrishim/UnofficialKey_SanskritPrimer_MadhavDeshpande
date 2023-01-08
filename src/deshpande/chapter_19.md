@@ -60,7 +60,7 @@ Merchants (वणिजः) are not (न) pleased (तुष्यन्ति) 
 
 **७. चन्द्रमसम् उषसम् ज्योतींषि च दृष्ट्वा मम मनः मोदते। एतत् जगत् वेधसः काव्यम् एव। यदा सर्वासु दिक्षु सुमनसः एतत् काव्यम् पश्यन्ति, तदा ते वेधसम् प्रशंसन्ति।**
 
-Seeing (दृष्ट्वा) the moon (चन्द्रमसम्),  the dawn (उषसम्) and (च) the light (ज्योतींषि)  my (मम) mind (मनः) rejoices (मोदते). This (एतत्) world (जगत्) is only/चेरतािनलय (एव) a poem (काव्यम्) of the creator (वेधसः). When (यदा) in all (सर्वासु) directions (दिक्षु) good people (सुमनसः) see (पश्यन्ति) this (एतत्) poem (काव्यम्) then (तदा) they (ते) praise (प्रशंसन्ति) the creator (वेधसम्).
+Seeing (दृष्ट्वा) the moon (चन्द्रमसम्),  the dawn (उषसम्) and (च) the light (ज्योतींषि)  my (मम) mind (मनः) rejoices (मोदते). This (एतत्) world (जगत्) is only/certainly (एव) a poem (काव्यम्) of the creator (वेधसः). When (यदा) in all (सर्वासु) directions (दिक्षु) good people (सुमनसः) see (पश्यन्ति) this (एतत्) poem (काव्यम्) then (तदा) they (ते) praise (प्रशंसन्ति) the creator (वेधसम्).
 
 **With Sandhi:** चन्द्रमसमुषसम् ज्योतींषि च दृष्ट्वा मम मनो मोदते। एतज्जगत् वेधसः काव्यमेव। यदा सर्वासु दिक्षु सुमनस एतत् काव्यम्पश्यन्ति, तदा ते वेधसम्प्रशंसन्ति।
 
@@ -118,17 +118,27 @@ When (यदा) the king's (सम्राजः) chest (उरः) split (भ
 
 **3. When the moon shines in the sky, we are all happy.**
 
+यदा (When) चन्द्रमाः (the moon) वियति (in the sky) प्रकाशते (shines) तदा (then) वयम् (we) सर्वे (all) प्रसन्नाः (are happy)।
+
+**With Sandhi:** यदा चन्द्रमा वियति प्रकाशते तदा वयं सर्वे प्रसन्नाः।
+
 <BR>
 
 **4. Without the moon, there is darkness in the world. Similarly, without a poet's poem, there is darkness in the heart.**
+
+चन्द्रमाः (the moon) विना (without) जगति (in the world) तमसाः (darkness) वर्तते (there is)। तथा/एवमेव (similarly) कवेः (poet's) काव्यम् (poem) विना (without) हृदि/हृदये (in the heart) तमसाः (darkess) भवति (there is)।
 
 <BR>
 
 **5. When the king entered the forest with his arrows, the animals ran in all directions.**
 
+यदा (when) राजा (the king) तस्य (his) इषुणा (with arrows)  वनम् (the forest) अप्रविशत् (entered), मृगाः (the animals) सर्वेासु (in all) दिक्षु (directions) अधावन् (ran)।
+
 <BR>
 
 **6. When the mendicants come, the priests leave.**
+
+यदा परिव्राजः आगच्छन्ति ऋत्विजः अपगच्छन्ति।
 
 <BR>
 
