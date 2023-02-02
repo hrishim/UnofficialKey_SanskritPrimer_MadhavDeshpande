@@ -1,6 +1,15 @@
 # Lesson 20: Present active participles for active verbs. Future active participles
 
+**2)Translate the following sentences into English, and convert the present and future active participle constructions into yad-tad constructions:**
 
+<BR>
+
+१. जले पतन्तौ तौ बालौ दुःःम् अन्वभवताम्।
+
+२. तम् पर्वतं प्रति धावतः अश्वान् अहम् पश्यामि।
+
+
+<BR>
 
 ## Notes
 
@@ -52,4 +61,10 @@ These participles cannot be used to just replace a present tense verb for. That 
 
 ### Future active participle for active (परस्मैपदिन्) verbs
 
-Future active participle stem for गमिष्यति is गमिष्यत् - "(He who) will be going" or "(He who) is going to go". 
+Future active participle stem for गमिष्यति is गमिष्यत् - "(He who) will be going" or "(He who) is going to go". The paradigms of these future active participles are identical with those of the present active participles.
+
+| A | B |
+| --- | --- |
+| यो नरो ग्रामं गमिष्यति तम् अहम् पश्यामि। I see the man who will go to the village. | ग्रामं गमिष्यन्तं नरमहं पश्यामि। I see the man who is going to go to the village. | 
+| या नारी ग्रामं गमिष्यति तस्यै अहम् धनम् यच्छामि| I give money to that woman who will go to the village. | ग्रामं गमिष्यन्त्यै नार्यै अहम् धनम् यच्छामि। I give money to the woman who will go to the village. |
+| तस् धनम् नङ्क्ष्यति तद् अहम् न इच्छामि। I do not want that wealth which will perish. | नङ्क्ष्यद् धनम् अहम् न इच्छामि। i do not want the perishable wealth. |
