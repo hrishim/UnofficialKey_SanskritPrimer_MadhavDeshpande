@@ -245,6 +245,20 @@ Examples: कवौ + इह -> कवाविह &nbsp; गुरौ + इत�
 
 <BR>
 
+---
+
+**Note:** When words ending in ओ or औ are combined with यादिप्रत्ययः then also ओ/औ will change to अव्/आव्. 
+
+Examples:
+
+गो + यम् = ग् + अव् + यम् = गव्यम्
+
+नौ + यम् = न् + आव् + यम् = नाव्यम्
+
+---
+
+<br>
+
 e) य् and व् resulting from changes of ए, ओ, ऐ, and औ may be optionally elided, and in the case of such elision of य् and व्, no further sandhi occurs. Examples:
 
 वने + इह -> वनयिह or वन इह
