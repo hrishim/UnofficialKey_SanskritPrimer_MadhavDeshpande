@@ -6,38 +6,66 @@
 
 **१. जले पतन्तौ तौ बालौ दुःखम् अन्वभवताम्।**
 
+The two boys who are falling into the well experience sadness.
+
 यौ बालौ जले अपतताम् तौ दुःखम् अन्वभवताम्।
 
 
 **२. तम् पर्वतं प्रति धावतः अश्वान् अहम् पश्यामि।**
 
+I see the horses running towards that mountain.
+
 ये अश्वाः तम् पर्वतं प्रति अधावन् ते अहम् पश्यामि।
 
-**३. कूपमभितः अभितः तिष्ठन्तौ दासौ नृपम् अवदताम्।**
+**३. कूपमभितः तिष्ठन्तौ दासौ नृपम् अवदताम्।**
+
+The servants standing near the well said to the king.
 
 यौ दासौ कूपमभितः तिष्ठन्तौ तौ नृपम् अवदताम्।
 
 **४. कमलम् नयन्तीं ताम् दृष्ट्वा मम मित्रम् अचिन्तयत्।**
 
+Seeing she who brings the lotus, my friend thought.
+
 या कमलम् नयन्ति सा दृष्ट्वा मम मित्रम् अचिन्तयत्।
 
 **५. तृणं खादन्तः अश्वाः तुष्यन्ति।** 
 
+Grass eating horses are happy/satisfied.
+
 ये अश्वाः तृणं खादन्ति ते तुष्यन्ति।
 
+
 **६. कनकं चोरयन्तम् दासम् नृपः तुदति।**
+
+King strikes the gold stealing servant. 
 
 यः दासः कनकं चोरयति तम् नृपः तुदति।
 
 **७. पर्वतम् अभितः नश्यतः वृक्षान् दृष्ट्वा दासाः जनान् कथयन्ति।**
 
+Seeing the perishing trees near the mountain the servants told people.
+
 ये वैक्षान् पर्वतम् अभितः नश्यन्ति तान् दृष्ट्वा दासाः जनान् कथयन्ति।
 
-**८. ग्रामं विश्नतम् नृपं दासाः पश्यन्ति।**
+**८. ग्रामं विशन्तं नृपं दासाः पश्यन्ति।**
+
+The servants saw the king who was entering the village.
+
+यो नृपं ग्रामं विशति तम् दासाः पश्यन्ति।
 
 **९. पर्वतम् कृषन्तम् त्वाम् ईक्षित्वा अहम् वदामि - त्वम् मूर्खः इति।**
 
-**१०. वृक्षान् स्पृशन्ती सा पत्राणि जणयति।**
+Literal translation: Seeing the mountain-ploughing you I say - you are a fool.
+
+
+**१०. वृक्षान् स्पृशन्ती सा पत्राणि गणयति।**
+
+She who is touching the trees counts the leaves.
+
+या वृक्षान् स्पृशन्ति सा पत्राणि गणयति।
+
+
 
 <BR>
 
