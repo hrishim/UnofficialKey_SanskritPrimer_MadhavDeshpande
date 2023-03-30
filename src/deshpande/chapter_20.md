@@ -66,6 +66,26 @@ She who is touching the trees counts the leaves.
 या वृक्षान् स्पृशन्ति सा पत्राणि गणयति।
 
 
+**११. पर्वतम् प्रति धावन्तः बालाः श्राम्यन्ति।**
+
+ये बालाः पर्वतम् प्रति धावन्ति ते श्राम्यन्ति
+
+Those boys running towards the mountain become tired.
+
+**१२. ईश्वरस्य बलं चिन्तयन्तो जनाः सुखं लभन्ते।**
+
+ये जनाः ईश्वरस्य बलं चिन्तयन्ति ते सुखं लभन्ते।
+
+People thinking of *Ishvara's* strength get happiness.
+
+**१३. आकाशे गच्छन्तं चन्द्रम् जनाः आकाशस्य भूषणं मन्यन्ते।**
+
+यः चन्द्रः आकाशे गच्छति सः आकाशस्य भूषणम् मन्यन्ते जनाः।
+
+People believe the moon that goes in the sky is the sky's ornament.
+
+
+
 
 <BR>
 
