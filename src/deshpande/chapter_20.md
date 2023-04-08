@@ -84,8 +84,37 @@ People thinking of *Ishvara's* strength get happiness.
 
 People believe the moon that goes in the sky is the sky's ornament.
 
+**१४. काव्यं लिखते मित्राय नृपः रत्नानि प्रयच्छति।**
 
+यः मित्रः काव्यं लिखति तम् नृपः रत्नानि प्रयच्छति।
 
+The king gives gems to the poem writing friend.
+
+**१५. नृपस्य शीर्षम् तुदन्तं वीरम् वयम् न निन्देम।**
+
+यो वीरो नृपस्य शीर्षम् तुदेत् तम् वयन्न निन्देम।
+
+We will not condemn the hero who hits the King's head.
+
+We will not deride the "king's-head-hitting" hero. 
+
+**१६.शास्त्राणि पठद्भ्यः बालेभ्यः गुरुः फलानि यच्छति।**
+
+ये बालाः शास्त्राणि पठन्ति तेभ्यः गुरुः फलानि यच्छति।
+
+The teacher gives fruits to the scripture studying/reading students.
+
+**१७. शस्त्राणां बलम् बोधन् नृपः शास्त्राणां बलं न बोधति।**
+
+यह नृपः शस्त्राणां बलं बोधति सः शास्त्राणां बलं न बोधति।
+
+The king who thinks weapons are strength does not think scriptures are strength.
+
+**१८. नद्याः शोभां पश्यन्ती भगिनीम् रामोऽवदत्।**
+
+या भगिनी नद्यां शोभाम् पश्यति ताम् रामोऽवदत्।
+
+Rama said to the wife who is seeing the grace of the river.
 
 <BR>
 
