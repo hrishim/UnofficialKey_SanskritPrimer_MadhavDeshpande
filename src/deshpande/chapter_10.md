@@ -361,6 +361,8 @@ That forest in which the sage is there, in only that  forest the woman rejoices.
 
 ## Notes
 
+Grammarians argue that for verbs that have a choice between आत्मनेपद and परस्मैपद endings. the आत्मनेपद forms are reflexive. Example, नृपो यजते means the king sacrifices (so that the fruits of the sacrifice foes to himself). In contrast, ब्राह्मणो यजति means the priest sacrifices (so that the fruits o the sacrifice goes to the host). This semantic distinction has not survived in the classical language.
+
 **Indeclinables:**
 
 अद्य today; शवः tomorrow; ह्यः yesterday; अधुना now; यथा just as; तथा so, in that manner;
