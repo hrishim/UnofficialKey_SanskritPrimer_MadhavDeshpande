@@ -3,7 +3,7 @@
 - [Sanskrit Notes](./notes_intro.md)
   - [Sandhi](./notes/sandhi.md)
   - [Subashitam](./subashitam/subashitam1.md)
-  - [Tenses - लकार](./notes/lakaras.md)
+  - [Tenses and Moods - लकार](./notes/lakaras.md)
   - [शब्द रुप](./notes/shabd_roop.md)
   - [धातु रूप](./notes/dhatu_roop.md)
   - [Grammer](./notes/grammer.md)

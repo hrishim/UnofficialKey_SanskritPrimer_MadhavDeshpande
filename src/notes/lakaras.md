@@ -1,6 +1,9 @@
-# Tenses - लकार
+# Tenses and Moods - लकार
 
-There are ten tenses in Sanskrit. The present tense is called लट् लकार. In Sanskrit there are 3 kinds of past and future tense. Note: Tenses apply to verbs only.
+*Lakaras* convey the sense of time (tense) and sentiment (भाव). They are split into two groups - (1) कालवाचकाः (tense) and (2) भाववाचकाः (mood)
+
+There are ten *lakaras* in Sanskrit. 
+
 
 1. लट् लकार - Present tense
 1. लङ् लकार - Past tense (past action but not within a day)
@@ -8,15 +11,28 @@ There are ten tenses in Sanskrit. The present tense is called लट् लक�
 1. लुङ लकार - Past tense (simple past)
 1. लिङ् लकार - Potential/Optative mood
 1. लोट् लकार - Imperative mood
-1. लुट्
-1. लृट् - Future tense ()
-1. लृङ्
+1. लुट् लकार - Future tense ()
+1. लृट् लकार - Future tense ()
+1. लृङ् लकार - क्रियातिपत्ति (non-realization of an action)
+1. लेट् लकार - both tense and mood
+
+
+Six *lakaras* are कालवाचकाः. The present tense is called लट् लकार. In Sanskrit there are 3 kinds of past and 2 kinds of future tense. Note: Tenses apply to verbs only.
+
+The *lakaras* लोट्, लिङ् and लृङ् are used to represent moods. These three are भाववाचकाः and they represent the moods/sentiments like - आज्ञा (order), प्रार्थना (request), इच्छा (wish). The लृङ् लकार is used to express non-realization of an action.
+
+लेट् लकारः is both कालवाचकः and भाववाचकः
 
 **Here is a sloka to remember all the लकार:**
 
 लट् वर्तमाने लेट् वेदे भूते लुङ् लङ् लिटस्तथा। 
 
 विद्याशिशौ लिङ् लोटौ लुट् लृट् लृङ् च भविष्यति।।
+
+## References
+
+1. [Verbs in Sanskrit - Overview of the 10 Lakaaras by Neelesh Bodas](https://www.youtube.com/live/bPjs6qyifZk?feature=share)
+1. [Verbs in Sanskrit - Overview of the 10 Dhaatu Ganas by Neelesh Bodas](https://www.youtube.com/live/TgkOHrlq8qg?feature=share)
 
 
 ## Present tense - वर्तमान काल
@@ -43,10 +59,6 @@ All three past tenses are together are called भूत काल.
 
 **Past action that ended before today:** Any past action that ended before today but could have been witnessed by the speaker/listener (**अनद्यतन भूत**). This past is called लङ् लकार. Example: He read. = सः अपठत्। 
 
-
-**Simple past:**
-Simple past (**सामान्य भूत**), called **लुङ् लकार**, is used for events that happend in the past. 
-
 **Distant/ancient past:**
 Events in the distant past that have not been witnessed  by the speaker/listener  (**परोक्ष भूत**) are called **लिट् लकार**. Usually लिट् लकार is encountered in old treatises and texts like Ramayana and Mahabharata. Example:
 
@@ -54,6 +66,8 @@ There was a king named Dasharatha.
 
 दशरथः नाम राजा बभूव।
 
+**Simple past:**
+Simple past (**सामान्य भूत**), called **लुङ् लकार**, is used for events that happend in the past. 
 
 | Past Tense | |
 | --- | --- |
@@ -61,6 +75,8 @@ There was a king named Dasharatha.
 | लिट् लकार | ancient past (परोक्ष भूत) |
 | लुङ् लकार | simple past (सामान्य भूत) |
 
+
+लुङ् and लिट् लकार is very common in epics like Ramayana, Mahabharatha, Devi Bhagavatam etc. In that class of poetry and prose लङ् लकार is not usually found.
 
 ### लङ् लकार - अनद्यतन भूत (past imperfect tense)
 
