@@ -11,8 +11,8 @@ There are ten *lakaras* in Sanskrit.
 1. लुङ लकार - Past tense (simple past)
 1. लिङ् लकार - Potential/Optative mood
 1. लोट् लकार - Imperative mood
-1. लुट् लकार - Future tense (सामान्यभविष्यत्काल, simple future)
-1. लृट् लकार - Future tense (अनद्यतनभविष्यतकाल)
+1. लुट् लकार - Future tense (अनद्यतनभविष्यतकाल)
+1. लृट् लकार - Future tense (सामान्यभविष्यत्काल, simple future)
 1. लृङ् लकार - क्रियातिपत्ति (non-realization of an action)
 1. लेट् लकार - both tense and mood
 
