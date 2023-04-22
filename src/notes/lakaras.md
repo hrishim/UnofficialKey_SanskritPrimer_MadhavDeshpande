@@ -11,8 +11,8 @@ There are ten *lakaras* in Sanskrit.
 1. लुङ लकार - Past tense (simple past)
 1. लिङ् लकार - Potential/Optative mood
 1. लोट् लकार - Imperative mood
-1. लुट् लकार - Future tense ()
-1. लृट् लकार - Future tense ()
+1. लुट् लकार - Future tense (सामान्यभविष्यत्काल, simple future)
+1. लृट् लकार - Future tense (अनद्यतनभविष्यतकाल)
 1. लृङ् लकार - क्रियातिपत्ति (non-realization of an action)
 1. लेट् लकार - both tense and mood
 
@@ -60,7 +60,7 @@ All three past tenses are together are called भूत काल.
 **Past action that ended before today:** Any past action that ended before today but could have been witnessed by the speaker/listener (**अनद्यतन भूत**). This past is called लङ् लकार. Example: He read. = सः अपठत्। 
 
 **Distant/ancient past:**
-Events in the distant past that have not been witnessed  by the speaker/listener  (**परोक्ष भूत**) are called **लिट् लकार**. Usually लिट् लकार is encountered in old treatises and texts like Ramayana and Mahabharata. Example:
+Events in the distant past that have not been witnessed  by the speaker/listener  (**परोक्ष भूत**) are called **लिट् लकार**. Usually लिट् लकार is encountered in old treatises and texts like Ramayana and Mahabharata. In those texts लङ् लकार is not prominent. Example:
 
 There was a king named Dasharatha.
 
@@ -111,6 +111,27 @@ The most commonly encountered usage of लिट् लकार will be प्�
 
 
 ### लुङ् लकार - सामान्य भूत (simple past tense)
+
+
+## Future Tense - भविष्यत्काल
+
+There are two types of future tense in Sanskrit - लृट्लकारः (सामान्यभविष्यत्कालम्) and लुट्लकारः (अनद्यतनभविष्यत्कालम्).
+
+अनद्यतन = न अद्यतन (not now).
+
+अनद्यतनभविष्यत्काल are actions that will happen tomorrow or after (day after, next month etc.). If you say "I am going to play cricket in the evening.", that is not अनद्यतन. 
+
+Example of लुट् लकारः (अनद्यतनभविष्यत्कालः): रामः श्वः वनं गन्ता।
+
+From a grammer point of view this sentence is incorrect: रामः श्वः वनं गमिष्यति।
+
+रामः अद्य रात्रौ वनं गमिष्यति। This is correct because the action is happening in the future but today. सामान्यभविष्यत्कालः is used for cases where it is not अनद्यतन or you don't know.
+
+This sentence is correct: रामः वनं गमिष्यति।
+
+If there is a reference to when the action is going to happen and that is tomorrow or later then you must use लुट्लकार.
+
+[CONTINUE FROM 21:34](https://youtu.be/bPjs6qyifZk?t=1294)
 
 ## Imperative mood - लोट् लकार 
 
