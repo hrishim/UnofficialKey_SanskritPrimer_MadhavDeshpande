@@ -55,6 +55,8 @@ The *lakaras* लोट्, लिङ् and लृङ् are used to represent 
 
 ## Past tense - भूत काल
 
+[CONTINUE FROM 28:56](https://youtu.be/bPjs6qyifZk?t=1736)
+
 All three past tenses are together are called भूत काल. 
 
 **Past action that ended before today:** Any past action that ended before today but could have been witnessed by the speaker/listener (**अनद्यतन भूत**). This past is called लङ् लकार. Example: He read. = सः अपठत्। 
@@ -131,7 +133,42 @@ This sentence is correct: रामः वनं गमिष्यति।
 
 If there is a reference to when the action is going to happen and that is tomorrow or later then you must use लुट्लकार.
 
-[CONTINUE FROM 21:34](https://youtu.be/bPjs6qyifZk?t=1294)
+However, in today's spoken Sanskrit the use of लुट्लकार is almost extinct. लृट् लकार is used universally for future tense.
+
+प्रयोगशरणाः व्य्याकरणाः। Grammer cannot dicatate the language, the language dictates the grammer. While the grammer recommends using लुट् लकार for events happening after today in practice लृट् लकार is used and accepted in speech and prose.
+
+**लृट् लकार:** 
+
+| पुरुष | एकवचन | द्विवचन | बहुवचन | पुरुष | एकवचन | द्विवचन | बहुवचन |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ** (स्यति - to finish) धातु परस्मैपदि** | | | | **धातु आत्मनेपदि** | | | |
+| **प्रथम पुरुष** | स्यति | स्यतः | स्यन्ति | **प्रथम पुरुष** | स्यते | स्येते | स्यन्ते |
+| **मध्यम पुरुष** | स्यसि | स्यथः | स्यथ | **मध्यम पुरुष** | स्यसे | स्येथे | स्यध्वे |
+| **उत्तम पुरुष** | स्यामि | स्यावः | स्यामः | **उत्तम पुरुष** | स्ये | स्यावहे | स्यामहे |
+
+**लुट्लकारः उदाहरणानि**
+
+रामः वनं श्वः गन्ता।
+
+भवान अग्रिममासे गीतां पठिता वा?
+
+अहम् परश्वः परीक्षां लेखितास्मि।
+
+वयम् मङ्लवासरे मिलित्वा यज्ञं कर्तास्मः।
+
+त्वम् अग्रिमवर्षे कुत्र क्रीडितासि?
+
+युयम् श्वः परश्वः वा चलचित्रम् द्रष्टास्थ।
+
+
+| पुरुष | एकवचन | द्विवचन | बहुवचन |
+| --- | --- | --- | --- |
+| **पठ् धातु आत्मनेपदि** (to read)  | | | | 
+| प्रथम पुरुष | पठिता | पठितारौ | पठितारः |
+| मध्यम पुरुष | पठितासी | पठितास्थः | पठितास्थ |
+| उत्तम पुरुष | पठितास्मि  | पठितास्वः | पठितास्मः |
+
+
 
 ## Imperative mood - लोट् लकार 
 
