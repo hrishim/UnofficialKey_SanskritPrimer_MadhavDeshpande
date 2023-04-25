@@ -6,7 +6,7 @@ There are ten *lakaras* in Sanskrit.
 
 
 1. लट् लकार - Present tense
-1. लङ् लकार - Past tense (past action but not within a day)
+1. लङ् लकार - Past tense (past action but not within a day; अनद्यतनभूतकालः)
 1. लिट् लकार - Past tense (ancient past)
 1. लुङ लकार - Past tense (simple past)
 1. लिङ् लकार - Potential/Optative mood
@@ -55,8 +55,6 @@ The *lakaras* लोट्, लिङ् and लृङ् are used to represent 
 
 ## Past tense - भूत काल
 
-[CONTINUE FROM 28:56](https://youtu.be/bPjs6qyifZk?t=1736)
-
 All three past tenses are together are called भूत काल. 
 
 **Past action that ended before today:** Any past action that ended before today but could have been witnessed by the speaker/listener (**अनद्यतन भूत**). This past is called लङ् लकार. Example: He read. = सः अपठत्। 
@@ -69,16 +67,43 @@ There was a king named Dasharatha.
 दशरथः नाम राजा बभूव।
 
 **Simple past:**
-Simple past (**सामान्य भूत**), called **लुङ् लकार**, is used for events that happend in the past. 
+Simple past (**सामान्य भूत**), called **लुङ् लकार**, is used for events that happend in the past. From a grammatical perspective this is to be used for past but before yesterday.
 
 | Past Tense | |
 | --- | --- |
 | लङ् लकार | Past events that happened before today but not ancient (अनद्यतन भूत) | 
-| लिट् लकार | ancient past (परोक्ष भूत) |
+| लिट् लकार | ancient past or events not witnessed by you (परोक्ष भूत) |
 | लुङ् लकार | simple past (सामान्य भूत) |
 
+परोक्षः = अक्ष्ण परः - That which is beyond our visibility. i.e. not seen by the speaker but have heard about it.
 
 लुङ् and लिट् लकार is very common in epics like Ramayana, Mahabharatha, Devi Bhagavatam etc. In that class of poetry and prose लङ् लकार is not usually found.
+
+Example of लङ् लकार:
+
+सः ह्यः मन्दिरम् अगच्छत्। - Correct
+
+सः अद्य प्रातः मन्दिरम् अगच्छत्। - Incorrect from a grammer point of view. But has become generally accepted in spoken Sanskrit. The correct version is सः अद्य प्रातः मन्दितम् अगमत्।
+
+अगमत् is लुङ् लकार. 
+
+लिट् लकार example: रामः वनं जगाम।
+
+Note that लिट् can also be used for events that happened yesterday or day before that you did not see. Many people say that लिट् लकार is used for indicating things in the very past [but that is not correct](https://youtu.be/bPjs6qyifZk?t=1959). Anything that you did not see you should use लिट् लकार for indicating it.
+
+More examples:
+
+सः वनम् जगाम।
+
+भवान् किं चकार?
+
+छात्रः पाठम् पपाठ।
+
+प्रातः सूर्योदयः बभूव।
+
+सा उत्तरम् उवाद।
+
+किं कविः काव्यम् लिलेख?
 
 ### लङ् लकार - अनद्यतन भूत (past imperfect tense)
 
@@ -114,6 +139,17 @@ The most commonly encountered usage of लिट् लकार will be प्�
 
 ### लुङ् लकार - सामान्य भूत (simple past tense)
 
+सः वनम् अगमत्।
+
+भवान् किम् अकर्षीत्?
+
+छात्रः पाठम् अपाठीत्।
+
+प्रातः सूर्योदयः अभूत्।
+
+सा उत्तरम् अवादीत्।
+
+किं कविः काव्यम् अलेखीत्?
 
 ## Future Tense - भविष्यत्काल
 
@@ -169,8 +205,11 @@ However, in today's spoken Sanskrit the use of लुट्लकार is almos
 | उत्तम पुरुष | पठितास्मि  | पठितास्वः | पठितास्मः |
 
 
+## भाववाचक लकारः  - Moods
 
-## Imperative mood - लोट् लकार 
+[CONTINUE FROM 40:10](https://youtu.be/bPjs6qyifZk?t=2410)
+
+### Imperative mood - लोट् लकार 
 
 The imperative mood is used to express a command, advice, a wish. a request etc. A negative command or prohibition is expressed by using मा followed by the imperative form. Example: मा पिबतु (You do not drink).
  
@@ -203,7 +242,7 @@ Examples:
 
 [Notes from](https://www.mycoaching.in/2020/08/lot-lakar.html)
 
-## Potential/Optative mood - लिङ् लकार 
+### Potential/Optative mood - लिङ् लकार 
 
 Optative mode is used to indicate wish, advice, a request, a possibility, or the near future. It is also called potential mood. It is also used for conditional clauses, e.g. “If he would go…”. In Sanskrit Optative mood is called लिङ् लकारः (विधिलिङ्)
 
