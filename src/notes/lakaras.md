@@ -7,7 +7,7 @@ There are ten *lakaras* in Sanskrit.
 
 1. लट् लकार - Present tense
 1. लङ् लकार - Past tense (past action but not within a day; अनद्यतनभूतकालः)
-1. लिट् लकार - Past tense (ancient past)
+1. लिट् लकार - Past tense (ancient past, परोक्षभूतकालः)
 1. लुङ लकार - Past tense (simple past)
 1. लिङ् लकार - Potential/Optative mood
 1. लोट् लकार - Imperative mood
@@ -19,7 +19,10 @@ There are ten *lakaras* in Sanskrit.
 
 Six *lakaras* are कालवाचकाः. The present tense is called लट् लकार. In Sanskrit there are 3 kinds of past and 2 kinds of future tense. Note: Tenses apply to verbs only.
 
-The *lakaras* लोट्, लिङ् and लृङ् are used to represent moods. These three are भाववाचकाः and they represent the moods/sentiments like - आज्ञा (order), प्रार्थना (request), इच्छा (wish). The लृङ् लकार is used to express non-realization of an action.
+लिट् लङ् and लुङ् are past tense. लुट् and लृट् are used for future tense.
+
+
+The *lakaras* लोट्, लिङ् and लृङ् are used to represent moods. These three are भाववाचकाः. लोट् and लिङ् represent the moods/sentiments like - आज्ञा (order), प्रार्थना (request), इच्छा (wish). The लृङ् लकार is used to express non-realization of an action.
 
 लेट् लकारः is both कालवाचकः and भाववाचकः
 
@@ -241,6 +244,20 @@ Examples:
 - आशीर्वाद (blessing) – त्वं चिरं जीव। (तुम बहुत समय तक जियो।)
 
 [Notes from](https://www.mycoaching.in/2020/08/lot-lakar.html)
+
+**More examples**
+
+आज्ञा :- शिक्षकः छात्रम् आज्ञापयति - एतत् पुस्तकं पठ।
+
+प्रश्नः :- छात्रः पृच्छति - किम् अहम् व्याकरणम् पठानि?
+
+प्रार्थना :- पिता आवार्यं वदति - मम पुत्रं पाठयतु भवान्।
+
+आमन्त्रणम् :- रामः वदति  - श्वः भवान् मम गृहम् आगच्छतु।
+
+पद्धतिः (process) :- देहलीनगरं अनेन मार्गेण गच्छतु।
+
+आशीत्वादः :- विजयी भव।
 
 ### Potential/Optative mood - लिङ् लकार 
 
