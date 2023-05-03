@@ -210,8 +210,6 @@ However, in today's spoken Sanskrit the use of लुट्लकार is almos
 
 ## भाववाचक लकारः  - Moods
 
-[CONTINUE FROM 40:10](https://youtu.be/bPjs6qyifZk?t=2410)
-
 ### Imperative mood - लोट् लकार 
 
 The imperative mood is used to express a command, advice, a wish. a request etc. A negative command or prohibition is expressed by using मा followed by the imperative form. Example: मा पिबतु (You do not drink).
@@ -257,7 +255,9 @@ Examples:
 
 पद्धतिः (process) :- देहलीनगरं अनेन मार्गेण गच्छतु।
 
-आशीत्वादः :- विजयी भव।
+आशीर्वादः :- विजयी भव।
+
+
 
 ### Potential/Optative mood - लिङ् लकार 
 
@@ -285,6 +285,25 @@ Optative mode is used to indicate wish, advice, a request, a possibility, or the
 - इच्छा – यूयं सुखि भवेत्। (तुम खुश रहो।)
 
 [Notes from](https://www.mycoaching.in/2020/08/Vidhiling-Lakar.html)
+
+There are two types of लिङ्लकार - विधिलिङ् and आशीर्लिङ्.
+
+विधिलिङ्लकार can be used in every situation a लोट् लकार can be used. The two are completely interchangeable. 
+
+आशीर्लिङ् is used for अप्राप्यस्य इच्छा - something you want but cannot have easily. Examples: 
+- अहम् राष्ट्रपतिः भूयासम् (I wish to be the President)
+- मम शत्रुः म्रियात् (I wish for my enemy to die.)
+- विष्णुः मह्यम् आशीषः देयात्
+- सा मया सह विवाहं क्रियात्
+- अहम् भगवद्गीता स्मर्यासम्
+
+<BR>
+
+### लृङ् लकारः - क्रियातिपत्तिः 
+
+Example: If this happens then that will happen
+
+[CONTINUE FROM 51:17](https://youtu.be/bPjs6qyifZk?t=3077)
 
 <BR>
 
