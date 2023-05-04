@@ -30,7 +30,7 @@ The *lakaras* लोट्, लिङ् and लृङ् are used to represent 
 
 लट् वर्तमाने लेट् वेदे भूते लुङ् लङ् लिटस्तथा। 
 
-विद्याशिशौ लिङ् लोटौ लुट् लृट् लृङ् च भविष्यति।।
+विद्याशीषोस्तु लिङ् लोटौ लुट् लृट् लृङ् च भविष्यति।।
 
 ## References
 
@@ -303,7 +303,68 @@ There are two types of लिङ्लकार - विधिलिङ् and �
 
 Example: If this happens then that will happen
 
-[CONTINUE FROM 51:17](https://youtu.be/bPjs6qyifZk?t=3077)
+१. यदि वर्षा अभविष्यत्, तर्हि सस्यानि अवर्धिष्यन्त।
+
+If there is tain then the crops will have flourished.
+
+२. यदि कृष्णः गीतां न अवदिष्यत् तर्हि अर्जुनः न अयोत्स्यत।
+
+If Krishna had not told the Geetha, Arjuna would not have fought the battle.
+
+३. यदि कैकयी वरं न अप्राक्षीत् तर्हि रामः वनं न अगमिष्यत्।
+
+If Kaikeyi had not got the boon, then Rama would not have gone to the forest.
+
+४. अहम् अध्ययनम् अकरिष्यम् चेत् परीक्षाम् अपि अलेखिष्यम्।
+
+If I would have studied then I will would have written the exam.
+
+OR
+
+If I will study then I will write the exam.
+
+Both above meanings are correct. The take away is that लृङ् is not referring to past, present or future. It refers to क्रियातिपत्ति (non-realization of an action).
+
+५. अभिमन्युः चक्रव्यूहं सम्यक् अज्ञास्यत् वेत् सः कौरवेभ्यः न पराजेष्यत।
+
+<BR>
+
+**Note:** It is not that only लृङ् लकार should be used with यदि-तर्हि. The लृङ् लकार is for situations where you say if something that did  not happen or is difficult to happen happened
+then blah-blah. Generally when using लृङ् लकार the sentence will have यदि-तर्हि and चेत्.
+
+
+### लेट् लकारः
+
+[लेट् लकारः from 55:31](https://youtu.be/bPjs6qyifZk?t=3331)
+
+लेट् लकारः केवलं **वेदेषु** प्रयुज्यते। लौकिकसंस्कृते अस्य प्रयोगः **न भवति**।
+
+This *lakara* cannot be used in any of your sentences. This *lakara* is used only in the *Vedas*. The forms used in the *Vedas* are the only examples of लेट् लकार. You cannot create your own examples. 
+
+वेदेषु अयं लकारः भिन्नेषु अर्थेषु प्रयुज्यते - वर्तमानकालः, आज्ञा, विधिः आदयः। Sometimes as कालवाचक and sometimes as भाववाचक.
+
+उदाहरणानि - 
+
+१. नेता इन्द्रो नेषत्।
+
+नेता -  leader इन्द्रो - *Indra* नेषत् - to sprinkle water 
+
+नेषत् is लेट् लाकारः because it cannot be derived from the other 9 *lakaras*. 
+
+२. विद्युत् पताति।
+
+विद्युत् - lightning पताति - falls (पतति)
+
+So in लट् लकार we say विद्युत् पतति but in लेट् we say विद्युत् पताति
+
+३. प्रजापतिः उदधिं च्यावयाति।
+
+च्यावयाति - to force to move
+
+In classical Sanskrit this will be प्रजापतिः उदधिं च्यावयति
+
+Key take away: The *Panini* grammer applies to classical Sanskrit. The grammer of the *Vedas* including लेट् लकारः cannnot be derived using *Panini* grammer. To understand the meaning we have to ask *Veda* experts.
+
 
 <BR>
 
