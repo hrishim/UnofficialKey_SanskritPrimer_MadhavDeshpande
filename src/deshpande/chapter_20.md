@@ -116,6 +116,25 @@ The king who thinks weapons are strength does not think scriptures are strength.
 
 Rama said to the wife who is seeing the grace of the river.
 
+**१९. तीरे तिष्ठन्ती नारी ते श्वश्रूः।**
+
+The woman waiting in the river is their (plural) mother-in-law.
+
+या नारी तीरे तिष्ठन्ति सा तेषाम् श्वश्रूः।
+
+**२०. भक्त्या नमन्ती नारी दृष्ट्वा गुरुः अतुष्यत्।**
+
+Seeing the lady saluting with devotion the Guru was pleased.
+
+या नारी भक्त्या नमति सा दृष्ट्वा गुरुः अतुष्यत्।
+
+**२१. श्वश्र्वाः शक्तिं बोधन्ती वधूः दुःखं न विन्दति।**
+
+The bride that understands the mother-in-law's strength will not find sadness.
+
+या वधूः श्वश्र्वाः शक्तिं बोदति सा दुःखं न विन्दति।
+
+
 <BR>
 
 ## Notes
