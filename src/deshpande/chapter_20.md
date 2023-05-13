@@ -135,6 +135,18 @@ The bride that understands the mother-in-law's strength will not find sadness.
 या वधूः श्वश्र्वाः शक्तिं बोदति सा दुःखं न विन्दति।
 
 
+**२२. धनं चोरयन्तं नरम् अहम् रज्ज्वा अतुदम्।**
+
+यो नरो धनं अचोरयत् तस्य अहम् रज्ज्वा अतुदम्।
+
+I beat the money stealing man with a rope.
+
+**२३. आकाशे वसन्तं चन्द्रम् बालाः ह्रदे अपि पश्यन्ति।**
+
+यो चन्द्र आकाशे वसति तम् बाला ह्रदे अपि पश्यन्ति।
+
+The sky dwelling moon is seen by the boys in the lake also.
+
 <BR>
 
 ## Notes
