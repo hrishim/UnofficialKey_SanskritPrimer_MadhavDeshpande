@@ -147,6 +147,25 @@ I beat the money stealing man with a rope.
 
 The sky dwelling moon is seen by the boys in the lake also.
 
+**२४. काव्यं लिखते मित्राय नृपः रत्नानि प्रयच्छति।**
+
+The king gives gems to the poem-writing friend.
+
+यो मित्रः काव्यं लिखते तस्य नृपः रत्नानि प्रयच्छति।
+
+**२५. नृपस्य शीर्षम् तुदन्तुं वीरं वयम् न निन्देयम्।**
+
+यो वीरो नृपस्य शीर्षम् तुदति तम् अहन्न निन्देयम्।
+
+I will not condemn the hero who hits the king's head.
+
+**२६. शास्त्राणि पठद्भ्यः बालेभ्यः गुरुः फलानि यच्छति।**
+
+Guru gives fruits to those boys who study scriptures.
+
+ये बालाः शास्त्राणि पठन्ति तयोः गुरुः फलानि यच्छति।
+
+
 <BR>
 
 ## Notes
