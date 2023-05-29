@@ -147,23 +147,16 @@ I beat the money stealing man with a rope.
 
 The sky dwelling moon is seen by the boys in the lake also.
 
-**२४. काव्यं लिखते मित्राय नृपः रत्नानि प्रयच्छति।**
+**२४. मां निन्दन्तीम् अपि भार्यामहं न निन्दामि।**
 
-The king gives gems to the poem-writing friend.
+I will not also condemn my wife who condemns me.
 
-यो मित्रः काव्यं लिखते तस्य नृपः रत्नानि प्रयच्छति।
+यो भार्या मां निन्दति सा अपि न निन्दामि।
 
-**२५. नृपस्य शीर्षम् तुदन्तुं वीरं वयम् न निन्देयम्।**
+**२५. तां चिन्तयन्तं मां सा न चिन्तयति।**
 
-यो वीरो नृपस्य शीर्षम् तुदति तम् अहन्न निन्देयम्।
+She does not think of me who is thinking of her.
 
-I will not condemn the hero who hits the king's head.
-
-**२६. शास्त्राणि पठद्भ्यः बालेभ्यः गुरुः फलानि यच्छति।**
-
-Guru gives fruits to those boys who study scriptures.
-
-ये बालाः शास्त्राणि पठन्ति तयोः गुरुः फलानि यच्छति।
 
 
 <BR>
