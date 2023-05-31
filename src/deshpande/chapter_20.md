@@ -157,9 +157,32 @@ I will not also condemn my wife who condemns me.
 
 She does not think of me who is thinking of her.
 
+How to convert this sentence? The यद् शब्द रूप is there only for third person. Not for self.
+
+याम् अहं चिन्तयामि सा मां न चिन्तयति।
+
+
+**२६. तरे सीदन्ती सा अवेपत।**
+
+या तीरे सिदति सा अवेपत।
+
+She who was sitting on the bank trembled.
+
+**२७. तरौ सीदन्तः काकाः फलानि खादन्ति।**
+
+ये काकाः तरौ सीदन्ति ते फलानि खादन्ति।
+
+Those crows seated on the tree are eating fruits.
+
+**२८. हे बाल, वृक्षात् पतिष्यन्तं त्वाम् ईश्वरो न रक्षेत्।**
+
+Oh boy, may Ishwara not protect you who is falling from the tree.
+
 
 
 <BR>
+
+
 
 ## Notes
 
