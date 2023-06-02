@@ -178,9 +178,40 @@ Those crows seated on the tree are eating fruits.
 
 Oh boy, may Ishwara not protect you who is falling from the tree.
 
+**२९. हे भार्ये, स्वर्गम् गमिष्यन्त्या त्वया सह न अहम् गमिष्यामि।**
 
+हे भार्ये त्वम् स्वर्गङ्गमिष्यति, त्वया सह अहन्न गमिष्यामि।
+
+I will not go with you oh heaven-going wife.
+
+**३०. कवये धनम् दास्यते नृपाय मुनिरवदत् - हे नृप, न एषः कविः, एषः मूर्खः एव इति।**
+
+यो नृपो कवये धनम् अददात् तस्मै मुनिरवदत - हे नृप, न एषः कविः, एषः मूर्खः एव इति।
+
+The sage said to the King who was giving money to the poet thus - Oh king, this (person) is not a poet, this is a fool only. 
+
+**३१. ग्रामं जेष्यन्तं वीरम् नृपः अशंसत्।**
+
+The king praised the hero who conquered the village.
+
+यो वीरः ग्रामं अजयत् तम् नृपः अशंस्त्।
+
+**३२.मधु खादितुमिच्छन्तं माम् माता ताडयति।**
+
+Mother beats me who wants to eat honey.
+
+**३३. मार्गेण गच्छन्तं खञ्जं पश्यन्तो जनाः हसन्ति।**
+
+People who see the lame person walking on the road laugh.
+
+**३४. ऋचः पठिष्यन्तः ऋत्विजः धनं लप्स्ते।**
+
+ये ऋत्विजः ऋचः पठिष्यन्ति तेभ्यः धनं लप्स्ते।
+
+Those priests who will study the scriptures will get money.
 
 <BR>
+
 
 
 
