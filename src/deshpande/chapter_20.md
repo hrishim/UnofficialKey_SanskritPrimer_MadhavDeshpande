@@ -210,6 +210,10 @@ People who see the lame person walking on the road laugh.
 
 Those priests who will study the scriptures will get money.
 
+**३५. गृहाणि धक्ष्यतः अरीन् जनाः प्रार्थयन्त।**
+
+People appeal to the enemies who are burning homes.
+
 <BR>
 
 

@@ -305,7 +305,7 @@ Example: If this happens then that will happen
 
 १. यदि वर्षा अभविष्यत्, तर्हि सस्यानि अवर्धिष्यन्त।
 
-If there is tain then the crops will have flourished.
+If there is rain then the crops will have flourished.
 
 २. यदि कृष्णः गीतां न अवदिष्यत् तर्हि अर्जुनः न अयोत्स्यत।
 

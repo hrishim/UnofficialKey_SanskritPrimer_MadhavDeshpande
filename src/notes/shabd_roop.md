@@ -213,7 +213,7 @@ The feminine paradigm जरा "old age" is mixed with alternating forms of ज
 <BR>
 <BR>
 
-| इकारान्तः स्त्रीलिङ्गः नदी (river) शब्दः | | | | उकारान्तः स्त्रीलिङ्गः धेनु (cow) शब्दः | | | |
+| ईकारान्तः स्त्रीलिङ्गः नदी (river) शब्दः | | | | उकारान्तः स्त्रीलिङ्गः धेनु (cow) शब्दः | | | |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **विभक्ति** | **एकवचन** | **द्विवचन** | **बहुवचन** | **विभक्ति** | **एकवचन** | **द्विवचन** | **बहुवचन** |
 | **प्रथमा** | नदी | नद्यौ | नद्यः | **प्रथमा** | धेनुः | धेनू | धेनवः |
@@ -475,6 +475,49 @@ While नदी represents the normal paradigm for feminine nours in ई, severa
 | **सप्तमी** | कस्मिन्  | कयोः | केषु |
 
 <BR>
+
+## Present active participles 
+
+Though these are verbs they are declined as nouns. For example, गच्छन् रामः means the Rama who is going. So in a sentence, structurally, they behave like adjectives. The meaning of the previous sentence is "The going Rama". This type of expression is not present in English but it is in Sanskrit.
+
+Active **verbs** form their present active participles with the affix अत्. A simple way to form the present active participle stem is to replace the affix अन्ति in the present 3rd pl by the affix अत्.
+
+गच्छन्ति -> गच्छत्
+
+दीव्यन्ति -> दीव्यत्
+
+तुदन्ति -> तुदत्
+
+चोरयन्ति -> चोरयत्
+
+Since these words are like adjectives/nouns they are declined like nouns.
+
+
+| **तकारान्त पुंल्लिङ्गः गच्छत् शब्दः** | | | |
+| --- | --- | --- | --- |
+| **विभक्ति** | **एकवचन** | **द्विवचन** | **बहुवचन** |
+| **प्रथमा** | गच्छन् | गच्छन्तौ | गच्छन्तः |
+| **द्वितीया** | गच्छन्तम् | गच्छन्तौ | गच्छन्तः |
+| **तृतीया** | गच्छता | गच्छद्भ्याम् | गच्छद्भिः |
+| **चतुर्थी** | गच्छते | गच्छध्भ्याम् | गच्छद्भ्यः |
+| **पञ्चमी** | गच्छतः | गच्छद्भ्याम् | गच्छद्भ्यः |
+| **षष्ठी** | गच्छतः | गच्छतोः | गच्छताम् |
+| **सप्तमी** | गच्छति | गच्छतोः | गच्छत्सु |
+| **सम्बोधन** | हे गच्छन् | हे गच्छन्तौ | हे गच्छन्तः |
+
+<BR>
+
+| **स्त्रीलिङ्गः गच्छन्ती शब्दः** | | | |
+| --- | --- | --- | --- |
+| **विभक्ति** | **एकवचन** | **द्विवचन** | **बहुवचन** |
+| **प्रथमा** |  |  |  |
+| **द्वितीया** |  |  |  |
+| **तृतीया** |  |  |  |
+| **चतुर्थी** |  |  |  |
+| **पञ्चमी** |  |  |  |
+| **षष्ठी** |  |  |  |
+| **सप्तमी** |  |  |  |
+| **सम्बोधन** |  |  | |
 
 ---
 
