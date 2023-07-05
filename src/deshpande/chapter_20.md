@@ -222,29 +222,37 @@ People appeal to the enemies who are burning homes.
 
 **4) Translate the following into Sanskrit using present participles:**
 
-1. Wishing to obtain wealth, the priests recite the hymns.
+<BR>
+
+**1. Wishing to obtain wealth, the priests recite the hymns.**
 
 धनम् इच्छन्तः ऋत्विजः ऋचः पठिष्यति।
 
-2. I see the King looking at the flowers.
+**2. I see the King looking at the flowers.**
 
 पुष्पाणि पश्यन्तम् नृपम् अहम्पश्यामि।
 
-3. The poet praised the hero conquering the enemies.
+**3. The poet praised the hero conquering the enemies.**
 
-4. Sitting on the trees, the birds eat fruits.
+शत्रुम् विजयन्तम् वीरम् कविः श्लाघते।
 
-5. The mendicants see the servants carrying the burden.
+**4. Sitting on the trees, the birds eat fruits.**
 
-6. I spoke to the man who was going to the village.
+वृक्षान् सीदन्तः विहगाः फलानि खादन्ति।
 
-7. Thinking of God's power, the sages worship him.
+**5. The mendicants see the servants carrying the burden.**
 
-8. The father gave fruits to the son sitting near the lake.
+परिव्राजाः भारम् नयतः सेवकान् पश्यन्ति।
 
-9. Watching the beauty of the garden, she stood at the door.
+**6. I spoke to the man who was going to the village.**
 
-10. The mind of a person thinking of only money has no peace (शान्ति f).
+**7. Thinking of God's power, the sages worship him.**
+
+**8. The father gave fruits to the son sitting near the lake.**
+
+**9. Watching the beauty of the garden, she stood at the door.**
+
+**10. The mind of a person thinking of only money has no peace (शान्ति f).**
 
 11. Falling on the ground, I said to my teacher: "Why do you not like me.".
 
