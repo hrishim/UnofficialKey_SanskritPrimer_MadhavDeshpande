@@ -246,7 +246,13 @@ People appeal to the enemies who are burning homes.
 
 **6. I spoke to the man who was going to the village.**
 
+अहङ्ग्रामङ्गच्छन्तन्नरम् अभाषम्।
+
+
 **7. Thinking of God's power, the sages worship him.**
+
+ईश्वरस्य शक्तिम् चिन्तयन्तः मुनयः तं पूजयन्ति।
+
 
 **8. The father gave fruits to the son sitting near the lake.**
 
