@@ -256,19 +256,25 @@ People appeal to the enemies who are burning homes.
 
 **8. The father gave fruits to the son sitting near the lake.**
 
+पिता ह्रदस्य तटे आसीदं पुत्रं फलानि अयच्छत्।
+
 **9. Watching the beauty of the garden, she stood at the door.**
+
+उद्यानस्य सौन्दर्यं पश्यन् सा द्वारे अतिष्ठत्।
 
 **10. The mind of a person thinking of only money has no peace (शान्ति f).**
 
-11. Falling on the ground, I said to my teacher: "Why do you not like me.".
+धनमेव चिन्तयतः जनस्य मनः शान्तिम् नास्ति।
 
-12. I saw the man stealing my horse.
+**11. Falling on the ground, I said to my teacher: "Why do you not like me.".**
 
-13. Knowing the truth, you sat under a tree in the forest.
+**12. I saw the man stealing my horse.**
 
-14. Saluting the teacher, the woman sat in front of him.
+**13. Knowing the truth, you sat under a tree in the forest.**
 
-15. Throwing the gold into the river, the sage looked at the king.
+**14. Saluting the teacher, the woman sat in front of him.**
+
+**15. Throwing the gold into the river, the sage looked at the king.**
 
 <BR>
 
