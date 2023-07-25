@@ -268,7 +268,11 @@ People appeal to the enemies who are burning homes.
 
 **11. Falling on the ground, I said to my teacher: "Why do you not like me.".**
 
+भूमे पतन् अहम् मम् गुरुम् वदामि - "त्वं किम् माम् न रोचसे"।
+
 **12. I saw the man stealing my horse.**
+
+मम अश्वम् चोरयन्तम् नरम् अपश्यम्।
 
 **13. Knowing the truth, you sat under a tree in the forest.**
 
