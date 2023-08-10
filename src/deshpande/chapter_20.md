@@ -276,9 +276,17 @@ People appeal to the enemies who are burning homes.
 
 **13. Knowing the truth, you sat under a tree in the forest.**
 
+सत्यं जानन् त्वं वने वृक्षमूले (or वृक्षस्य अधः) असीदतः।
+
+सत्यं जानन् त्वं वने वृक्षस्य अधः असीदतः।
+
 **14. Saluting the teacher, the woman sat in front of him.**
 
+अध्ययापकं नमन्ती नारी तं पुरतोऽसीदत्।
+
 **15. Throwing the gold into the river, the sage looked at the king.**
+
+कनकम् क्षिपतन् मुनिः नृपम् अपश्ययत्।
 
 <BR>
 
