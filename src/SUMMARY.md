@@ -30,6 +30,7 @@
   - [Lesson 18: Irregular and Rare Nouns Ending in Vowels](./deshpande/chapter_18.md)
   - [Lesson 19: Nouns ending in consonants: One-stem type](./deshpande/chapter_19.md)
   - [Lesson 20: Present active participles for active verbs. Future active participles](./deshpande/chapter_20.md)
+  - [Lesson 21: Present agentive (कर्तरि) participles for middle (आत्मनेपदिन्) verbs](./deshpande/chapter_21.md)
 - [संस्कृतप्रथमादर्शः Reader - I](./reader1/r1_intro.md)
   - [Lesson 1: सूर्यः प्रत्यक्षदेवता](./reader1/r1l1.md)
   - [Lesson 2: उद्यमः कार्यसाधकः](./reader1/r1l2.md)
