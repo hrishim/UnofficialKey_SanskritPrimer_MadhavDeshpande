@@ -2,6 +2,8 @@
 
 ## Notes
 
+**Present agentive (कर्तरि) participles for middle (आत्मनेपदिन्) words**
+
 The meaning of these participles are like the present active voice participles for active verbs (परस्मैपदिन्) and follow the same syntactic rules.
 
 | आत्मनेपदिन् Verb | Present participle | Meaning |
@@ -21,3 +23,16 @@ Note that यद्-तद् constructions are only approximately similar to th
 | या नारी मया सह विवदते ताम् अहम् निन्दामि | मया सह विवदमानाम् नारीम् अहम् निन्ददामि |
 | यः ऋषिः नद्याम् गाहते तस्य पुत्राय धनम् यच्छामि | नद्याम् गाहमानस्य ऋषेः पुत्राय धनम् यच्छामि |
 | या नदी वने वर्तते तस्याम् अहम् गाहे | वने वर्तमानायाम् नद्ययाम् अहम् गाहे |
+
+
+**Present passive (कर्मणि) participles **
+
+| आत्मनेपदिन् Verb | Present passive participle | Meaning |
+| --- | --- | --- | 
+| दीयते | दीयमान | That which is being given|
+| गम्यते | गम्यमान | That which is being gone to |
+| नीयते | नीयमान | That which is being taken |
+| खाद्यते | खाद्यमान | That which is being eaten |
+| तुद्ययते | तुद्यमान् | That which is being hit |
+
+The masculine and neuter present participle forms are declined like अकारान्तः words (i.e. राम, फल). 
