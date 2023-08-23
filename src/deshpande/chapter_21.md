@@ -25,7 +25,7 @@ Note that यद्-तद् constructions are only approximately similar to th
 | या नदी वने वर्तते तस्याम् अहम् गाहे | वने वर्तमानायाम् नद्ययाम् अहम् गाहे |
 
 
-**Present passive (कर्मणि) participles **
+**Present passive (कर्मणि) participles**
 
 | आत्मनेपदिन् Verb | Present passive participle | Meaning |
 | --- | --- | --- | 
@@ -35,4 +35,26 @@ Note that यद्-तद् constructions are only approximately similar to th
 | खाद्यते | खाद्यमान | That which is being eaten |
 | तुद्ययते | तुद्यमान् | That which is being hit |
 
-The masculine and neuter present participle forms are declined like अकारान्तः words (i.e. राम, फल). 
+The masculine and neuter present participle forms are declined like अकारान्तः words (i.e. राम, फल). In feminine form the words have आ in the end (e.g. दीयमाना).
+
+| यद्-तद् sentence construction | Changed to present passive | 
+| --- |  --- | 
+| यो ग्रामः रामेण गम्यते स मे न रोचते। | रामेण गम्यमानो ग्रामो मे न रोचते।  | 
+| The village which is gone to by Rama does not appeal to me. | The village being visited by Rama does not appeal to me.|  
+| या नारी त्वया दृश्यते सा ते भगिनी। |  त्वया दृश्यमाना नारी ते भगिनी। | 
+| The woman who is being seen by you is your sister. | The woman being seen by you is your sister. |  
+| यद् धनम् दासेन चोर्यते तत् कूपे पतति। | दासेन चोर्यमाण धनम् कूपे पतति। | 
+| The wealth which is being stolen by the servant falls into the well. | The money being stolen by the servant falls into a well.| 
+| यानि पुस्तकानि मया पठयन्ते तानि तुभ्यम् न दास्यामि। | मया पठयमानानि पुस्तकानि तुभ्यम् न दास्यामि। | 
+| I will not give you the books which are being read by me. | I will not give you the books being read by me. | 
+
+
+**Vocabulary**
+
+| **Word** | **Meaning** | **Word** | **Meaning** | 
+| --- | --- | --- | --- |
+| पाप *n.* | sin | मधुर *a.* | sweet | 
+| कन्या *f.* | girl | हृदय *n.* |  heart | 
+| वानर *m.* | monkey | मकर *m.* | crocodile | 
+| मकरी *f.* | female crocodile | सवादु *a.* | sweet | 
+| ताड्, तादयति 10P | to beat | | | 
