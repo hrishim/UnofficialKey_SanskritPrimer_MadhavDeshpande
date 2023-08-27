@@ -1,5 +1,32 @@
 # Lesson 21: Present agentive (कर्तरि) participles for middle (आत्मनेपदिन्) verbs
 
+**3) Translate the following sentences into English and convert them into यद्-तद् constructions**
+
+<BR>
+
+**१. दुःखं लभमानाः जनाः ईश्वरं निन्दन्ति।**
+
+Those people getting sadness blame god.
+
+ये जनाः दुःखम् लभन्ते ते ईश्वरं निन्दन्ति।
+
+<BR>
+
+**२.** गजमीक्षमाणः शृगालः तं गजं शंसति।
+
+The jackal seeing the elephant praises that elephant.
+
+यो शृगालो गजमीक्षति स गजं शंसति।
+
+<BR>
+
+**३. मां मित्रं मन्यमानः नरः मम मित्रं भवति।**
+
+The man who is thinking of me as a friend is my friend.
+
+यो नरो मां मित्रं मन्यते स मे मित्रं भवति।
+
+
 ## Notes
 
 **Present agentive (कर्तरि) participles for middle (आत्मनेपदिन्) words**
