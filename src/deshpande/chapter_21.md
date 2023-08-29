@@ -12,7 +12,7 @@ Those people getting sadness blame god.
 
 <BR>
 
-**२.** गजमीक्षमाणः शृगालः तं गजं शंसति।
+**२. गजमीक्षमाणः शृगालः तं गजं शंसति।**
 
 The jackal seeing the elephant praises that elephant.
 
@@ -26,6 +26,35 @@ The man who is thinking of me as a friend is my friend.
 
 यो नरो मां मित्रं मन्यते स मे मित्रं भवति।
 
+<br>
+
+**४. वने म्रियमाणं गजं दृष्ट्वा अहं खिद्ये।**
+
+Seeing the dying elephant in the forest I am depressed.
+
+गजः वने म्रियते दृष्ट्वा अहं खिद्ये।
+
+<br>
+
+**५. स्वादूनि वचनानि भाषमाणः अपि शृगालः मृगस्य मित्रं न भवति।**
+
+Even a sweet talking jackal cannot become a deer's friend.
+
+यदि शृगालः स्वादूनि वचनानि भाषते तथापि स मृगस्य मित्रं न भवति।
+
+<br>
+
+**६. वने तुष्यन्तः गृहे च खिद्यमानाः जनाः मुनयः भवन्ति।**
+
+People who are happy in the forest and depressed at home are sages.
+
+यो जनाः वने तुष्यन्ते गृहे च खिद्यन्ते ते मुनयः भवन्ति।
+
+<br>
+
+**७. देवान् ईक्षमाणानाम् मुनीनाम् न कदापि दुःखं जायते।**
+
+The *devas* being seen by the sages never are sad.
 
 ## Notes
 
