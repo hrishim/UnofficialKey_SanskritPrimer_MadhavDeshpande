@@ -32,7 +32,7 @@ The man who is thinking of me as a friend is my friend.
 
 Seeing the dying elephant in the forest I am depressed.
 
-गजः वने म्रियते दृष्ट्वा अहं खिद्ये।
+गजः वने म्रियते तत् दृष्ट्वा अहं खिद्ये।
 
 <br>
 
@@ -54,7 +54,12 @@ People who are happy in the forest and depressed at home are sages.
 
 **७. देवान् ईक्षमाणानाम् मुनीनाम् न कदापि दुःखं जायते।**
 
-The *devas* being seen by the sages never are sad.
+The sages seeing the *devas* are never sad.
+
+**८. दुःखेन क्लिश्यमानाः जनाः पापं न त्यजन्ति, किन्तु ईश्वरमेव निन्दन्ति।**
+
+People afflicted by sadness do not abandon sin, but only condemn *Ishwara*.
+
 
 ## Notes
 
