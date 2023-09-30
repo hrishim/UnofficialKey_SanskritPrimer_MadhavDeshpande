@@ -66,4 +66,6 @@
   - [Lesson 33: लक्ष्मणस्य प्रस्थानम्](./reader1/r1l33.md)
   - [Lesson 34: भूमिः](./reader1/r1l34.md)
   - [Amarakosha Extracts](./reader1/r1ae.md)
+- [Chittoor Level 2 - Abhijna](./chittoor_abhijna/intro.md)
+  - [Samskritabodhini Lesson 4: ग्रामः नगरं च](./chittoor_abhijna/sb_lesson4.md)
 - [Resources](./resources.md)
