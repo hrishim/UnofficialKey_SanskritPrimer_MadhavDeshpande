@@ -68,4 +68,5 @@
   - [Amarakosha Extracts](./reader1/r1ae.md)
 - [Chittoor Level 2 - Abhijna](./chittoor_abhijna/intro.md)
   - [Samskritabodhini Lesson 4: ग्रामः नगरं च](./chittoor_abhijna/sb_lesson4.md)
+  - [Samskritabodhini Lesson 5: विद्यालयाः](./chittoor_abhijna/sb_lesson5.md)
 - [Resources](./resources.md)
