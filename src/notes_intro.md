@@ -4,6 +4,7 @@ These pages are a collection of my notes, my translations, and other useful thin
 
 1. Exercises from [Samskrta-Subodhini: A Sanskrit Primer" by Madhav Deshpande](./deshpande/intro.html)
 1. Translations of lessons in [संस्कृतप्रथमादर्शः Reader - I](reader1/r1_intro.html)
+1. Chittoor Level 2 paper 1 [अभिज्ञः पत्रम् १](chittoor_abhijna/intro.html)
 1. My Notes
     - [Sandhi](notes/sandhi.html)
     - [लकार](notes/lakaras.html)

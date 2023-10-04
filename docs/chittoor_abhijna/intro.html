@@ -172,6 +172,14 @@
 <li>संस्कृतबोधिनी २ - consists of mainly prose (stories)</li>
 <li>कथावल्लरी - stories</li>
 </ol>
+<p><strong>संस्कृतबोधिनी २</strong></p>
+<ol>
+<li>Lesson 1</li>
+<li>Lesson 2</li>
+<li>Lesson 3</li>
+<li>Lesson 4</li>
+<li><a href="sb_lesson5.html">विद्यालयाः</a></li>
+</ol>
 
                     </main>
 
@@ -210,6 +218,21 @@
 
         </div>
 
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
 
         
