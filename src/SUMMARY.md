@@ -69,4 +69,5 @@
 - [Chittoor Level 2 - Abhijna](./chittoor_abhijna/intro.md)
   - [Samskritabodhini Lesson 4: ग्रामः नगरं च](./chittoor_abhijna/sb_lesson4.md)
   - [Samskritabodhini Lesson 5: विद्यालयाः](./chittoor_abhijna/sb_lesson5.md)
+  - [Kathavallari Lesson 4: शर्मिष्ठा](./chittoor_abhijna/kv_lesson4.md)
 - [Resources](./resources.md)
