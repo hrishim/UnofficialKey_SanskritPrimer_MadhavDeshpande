@@ -22,3 +22,8 @@
 नगराभिमुखाः = नगरम् अभिमुखः । Headed towards city
 
 अगतिकता = Having no other resort
+
+---
+
+**अभ्यासः**
+
