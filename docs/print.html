@@ -6467,10 +6467,6 @@ In this (अस्यां) (land) absolutely pure (परमपावनाः
 <BR>
 <p>ग्रामन्यायपालने अपराधिनां कुटुम्बानां विषये रजकनापितनिरोधः दण्डो विधीयते। अयमेको बहिष्कारप्रकारः।</p>
 <BR>
-<table><thead><tr><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-</tbody></table>
 <div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="kathavallari-lesson-4-शरमिषठा"><a class="header" href="#kathavallari-lesson-4-शरमिषठा">Kathavallari Lesson 4: शर्मिष्ठा</a></h1>
 <table><thead><tr><th>Word</th><th>Meaning</th><th>Word</th><th>Meaning</th></tr></thead><tbody>
 <tr><td>महनीय</td><td>glorious, illustrious, praiseworthy</td><td>निरसयति</td><td>abolish</td></tr>
@@ -6576,6 +6572,21 @@ In this (अस्यां) (land) absolutely pure (परमपावनाः
 
         </div>
 
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3000/__livereload");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
 
         
