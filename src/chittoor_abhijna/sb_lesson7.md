@@ -2,9 +2,9 @@
 
 | Word | Meaning | Word | Meaning |  Word | Meaning | Word | Meaning |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-| आदर्शप्राय |  |सदसद् |  | अविचार्य | without considering | तदीयम् | belonging to him/it |
+| आदर्शप्राय |  |सदसद् | सत् असत् | अविचार्य | without considering | तदीयम् | belonging to him/it |
 | तपस्यतः |  | विवेकः | ability to distinguish or discriminate | समकल्पयत् | decided | अन्ततः | finally | 
-
+| उपसृत्य | approaching | इत्थम्  | thus (एवम्) | समुपलब्धः | was obtained (सम्प्राप्तः)  | भग्न | broken / disturbed | 
 
 सदसद् = सत् असत् 
 
@@ -31,3 +31,23 @@
 त्रयः लोकाः = भूलोकः, स्वर्लोकः, पातालः
 
 यज्ञाश्वमन्विष्यानयतेति = यज्ञाश्वम् अन्विष्य आनयत इति
+
+अनुपलभमानाः = न उपलभमानाः (not getting)
+
+आपातालम् = पाताल पर्यन्तम् (till *patala*)
+
+उपाक्रमन् = आसब्धवन्तः  उप-आ + Root: क्रम. It is लङ्लकारः
+
+खनितुम् = विदारयितुम्। To dig.
+
+खातः  = विदीर्णः। Dug
+
+बभूवुः = became. Root: भू लिट्लकारः भूतकालः।
+
+तपस्समाधिनिष्ठम् = तपस्समाधौ निष्ठः। Engrossed / absorbed in *tapas*
+
+क्रोधाग्निपरीताभ्यां = क्रोधः एव अग्निः, क्रोधाग्निना परीते, ताभ्याम्। With eyes filled with the fire of anger
+
+भस्मसात्कृताः = reduced to ashes
+
+अपुनरागरतानाम् 
