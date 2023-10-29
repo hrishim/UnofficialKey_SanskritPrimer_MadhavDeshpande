@@ -5,6 +5,9 @@
 | आदर्शप्राय |  |सदसद् | सत् असत् | अविचार्य | without considering | तदीयम् | belonging to him/it |
 | तपस्यतः |  | विवेकः | ability to distinguish or discriminate | समकल्पयत् | decided | अन्ततः | finally | 
 | उपसृत्य | approaching | इत्थम्  | thus (एवम्) | समुपलब्धः | was obtained (सम्प्राप्तः)  | भग्न | broken / disturbed | 
+| प्रस्तिथः | left | ददर्श | saw | निजवृत्तान्तम् | निजः वृत्तान्तः। One's own account | अनुजज्ञे | | 
+| विनीतम् | humble / humility | विज्ञाय | | सपरिवारः | retinue | सविनयम् | विनयेन सह। with humility| 
+| अभिषिञ्चति | appoint by consecration | | | | | | | 
 
 सदसद् = सत् असत् 
 
@@ -50,4 +53,18 @@
 
 भस्मसात्कृताः = reduced to ashes
 
-अपुनरागरतानाम् 
+अपुनरागरतानाम् = न पुनः आगताः। Not returned
+
+पितृव्य = brothers of fathers 
+
+विनीतः = प्रश्रितः। Humble
+
+दुर्मदान्धः = अहङ्कारी। Arrogant
+
+तत्रत्य = being there, of that place 
+
+अनुजज्ञे = अनुमतवान्। Permitted
+
+प्रार्थयामास = अयाचत। Requested
+
+सेत्स्यन्ति = भविष्यति। Will be attained. सिद्यति -> सेत्‌स्यतिु (लृट् लकारः भविष्यतकालः)
