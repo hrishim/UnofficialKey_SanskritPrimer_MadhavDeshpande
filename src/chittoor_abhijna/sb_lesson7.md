@@ -68,3 +68,59 @@
 प्रार्थयामास = अयाचत। Requested
 
 सेत्स्यन्ति = भविष्यति। Will be attained. सिद्यति -> सेत्‌स्यतिु (लृट् लकारः भविष्यतकालः)
+
+पुत्रशोकातुरेण = पुत्रशोकातुरः filled with sorrow for his sons
+
+पितामहेन = paternal grandfather
+
+पूरयामास = समापितवान्। Completed लिट् लकारः
+
+अभिषिच्य = राजानाम् कृत्वा। Having consecrated
+
+अकृतार्थ = विफलः। Unsuccessful
+
+कालधर्म गतः = दिवङ्गतः। Died 
+
+राज्यान्ते = at the end of their rule
+
+तपः तप्त्वा अकृतार्था एव = 
+
+दिवं गतौ = died
+
+ब्रह्माणं = 
+
+स्वयम्भुवमुद्दिश्य = with aim of seeing स्वयम्भुवम् (Brahma)
+
+तपस्तेपे = performed penance = तेपे = performed penance
+
+साक्षात्कृतो = appeared
+
+तत्प्रसादार्थम् = for her grace; प्रासादः = happiness, grace
+
+प्रयतस्वेति = प्रयतस्व इति = यत्नम् कुरु (लोट् लकारः - विधिः)
+
+चकार = कृतवान्। Did
+
+दिवो = दिवः from the sky or heaven
+
+अवतरन्त्याः = अधः पतन्त्याः 
+
+भूस्सोढुं = भूः सोढुम् = मर्षयितुम् bear
+
+वोढुम् =  धर्तुम् carry, bear
+
+तपश्चर्यया = तपसा। By penance 
+
+संरम्भेण = force
+
+अवततार = अवतरणम् अकरोत् 
+
+विगतवेगाभवत् = विगतः वेगः यस्याः सा। She whose force is lost / spent
+
+अनुग्रहीतुम् =  to fulfil the desire
+
+श्लथयित्वा = loosened
+
+प्लावितः = was flooded
+
+आप्लाव्य = having immersed / flooded
