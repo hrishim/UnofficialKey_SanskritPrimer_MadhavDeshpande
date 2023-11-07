@@ -1,32 +1,59 @@
 # Kathavallari Lesson 9: दृष्टिभेदः
 
 
-अनुप्रेषकः
+| Word | Meaning | Word | Meaning | Word | Meaning |
+| --- | --- | --- | --- | --- | --- |
+| प्रायतत |  | अनुप्रेषकः |  | अभिष्टम् | favorite |
+| अवरोध | obstacle | निरीक्षा | observation | अनुमीयते |  |
+| इयद्भ्यः |  | अनुमीयते |  | अहि  | snake |
+अतिक्रम्य = having passed beyond or over | प्रत्युत | on the other hand, rather, on the contrary | दृग्गोचरम्  | range of sight, horizon | अतिक्रम्य | having passed beyond or over |
+| विभ्रान्त | bewildered, confused | संशयापन्न | beset with doubt | भवादृशान् | anyone like you |
+| पाण्डित्यपुष्ट |  | जातहासः |  | सभास्तार  |  |
+| रुष्ट |  | मण्डित  | decorated |  अन्तर्दृष्टि | looking into one's own soul |
+| निरत | engaged in or occupied with | विरत | one who has given up, resigned, ceased or desisted from |  इत्थम् | in this manner |
+| विशिष्ट | peculiar, specific, particular, respectable | अभिवर्धयति | increase, strengthen | आश्रय  | shelter |
+| प्रगाढम् | much, great, exceeding |  |  |  |  |
 
-प्रत्युत
 
-अभिष्टम्
+प्रायतत = tried?
+
+अनुप्रेषकः = person of influence?
 
 कदाचित् अभीष्टसिद्धौ केऽपि अवरोधाः भवेयुः तर्हि तेऽपि भविष्यन्त्याः सिद्धेः कारणान्येव भवेयुः।
 
-अवरोध = obstacle
+इयद्भ्यः = 
 
-अनुमीयते
+अनुमीयते = 
 
 अहेः पदगतिम् अहिरेव जानाति।
 
-दृग्गोचरम् = range of sight, horizon
+A snake's manner of going is only know by a snake.
 
-विभ्रान्त = bewildered, confused
+पाण्डित्यपुष्ट = 
 
-संशयापन्न = beset with doubt
+आगत्य चात्र भवादृशान् दृष्टवान्।
 
-पाण्डित्यपुष्ट
+आगत्य च अत्र भवादृशान् दृष्टवान्।
 
-जातहासोऽभवम्
+जातहासोऽभवम् = जातहासः अभवम् 
+
+जातहासः =
+
+सभास्तार = 
 
 रुष्टाः = 
 
-अन्तर्दृष्टिमण्डिताः = 
+यूयं नूनं चर्मवासनावासिताः।
 
-बहिर्दृष्टिनिरताः = 
+
+अन्तर्दृष्टिमण्डिताः = अन्तर्दृष्टि मण्डित
+
+अन्तर्दृष्टि = looking into one's own soul
+
+मण्डित = decorated
+
+बहिर्दृष्टिनिरताः = One who has ceased looking outside
+
+प्रयत्नतः सज्जनैः अन्तर्दृष्टिः विधेया।
+
+केचन स्वदेहसौन्दर्ये, शक्तिसामर्थ्ययोश्च प्रगाढं विश्वासं वहन्ति। आत्मनः महत्तवं मन्वन्ति।
