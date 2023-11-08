@@ -75,4 +75,5 @@
   - [Samskritabodhini Lesson 8: सदाचारः](./chittoor_abhijna/sb_lesson8.md)
   - [Kathavallari Lesson 4: शर्मिष्ठा](./chittoor_abhijna/kv_lesson4.md)
   - [Kathavallari Lesson 9: दृष्टिभेदः](./chittoor_abhijna/kv_lesson9.md)
+  - [Kathavallari Lesson 10: ध्रुवचरितम](./chittoor_abhijna/kv_lesson10.md)
 - [Resources](./resources.md)
