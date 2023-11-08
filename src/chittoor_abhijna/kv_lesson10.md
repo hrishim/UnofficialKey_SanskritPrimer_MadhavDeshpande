@@ -2,8 +2,8 @@
 
 | Word | Meaning | Word | Meaning | Word | Meaning |
 | --- | --- | --- | --- | --- | --- |
-| मनोः |  | महिष्यौ |  | पितुरङ्के |  |
-| अकामयत | wished | महिषी | first wife of a king |  |  |
+| मनोः |  | महिषी | first wife of a king | पितुरङ्के |  |
+| अकामयत | wished | महिषी | |  |  |
 
 बभूवतुः = 
 
