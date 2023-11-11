@@ -7,7 +7,12 @@
 | नाभ्यनन्दत् = न अभिनन्दत् | did not welcome | प्रत्यक्ष | explicit, direct, manifest | प्रणय | conduct, display |
 | प्रत्यक्षप्रणयेन | with direct display | भर्त्सयते | threaten, abuse, deride | वृथा | in vain | 
 | भूभृत | king  | संश्रय | connected, relationship or reference to | केतन | house, flag or banner, business, house |
-| निशम्य | having heard | सपत्नीमातुः | step-mother |  |  |
+| निशम्य | having heard | सपत्नीमातुः | step-mother | खिन्न | sad |
+| दीन | poor | उद्वेग | fuss, absence of passion or emotion | पुराकृत | done formerly or long ago, begin, commenced |
+| उपगच्छति | approach | अत्यर्थम् | very much, exceedingly | उपचय | gather, store |
+| यत्न | attempt, work, trouble, pains, endeavour after, effort |  |  |  |  |
+
+
 
 <BR>
 
@@ -20,3 +25,6 @@
 Is it not understood by you that you were born from Suneetha?
 
 Don't you understand that you were born from Suneetha?
+
+<BR>
+
