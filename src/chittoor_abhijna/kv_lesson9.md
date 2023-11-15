@@ -12,9 +12,10 @@
 | **रुष्ट** |  | मण्डित  | decorated |  अन्तर्दृष्टि | looking into one's own soul |
 | निरत | engaged in or occupied with | विरत | one who has given up, resigned, ceased or desisted from |  इत्थम् | in this manner |
 | विशिष्ट | peculiar, specific, particular, respectable | अभिवर्धयति | increase, strengthen | आश्रय  | shelter |
-| प्रगाढम् | much, great, exceeding | **प्रायतत** |  |  |  |
+| प्रगाढम् | much, great, exceeding | **प्रायतत** | | | |
 
 <BR>
+
 
 कदाचित् अभीष्टसिद्धौ केऽपि अवरोधाः भवेयुः तर्हि तेऽपि भविष्यन्त्याः सिद्धेः कारणान्येव भवेयुः।
 

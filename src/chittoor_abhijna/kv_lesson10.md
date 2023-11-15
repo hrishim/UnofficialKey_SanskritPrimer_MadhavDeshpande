@@ -10,8 +10,8 @@
 | निशम्य | having heard | सपत्नीमातुः | step-mother | खिन्न | sad |
 | दीन | poor | उद्वेग | fuss, absence of passion or emotion | पुराकृत | done formerly or long ago, begin, commenced |
 | उपगच्छति | approach | अत्यर्थम् | very much, exceedingly | उपचय | gather, store |
-| यत्न | attempt, work, trouble, pains, endeavour after, effort |  |  |  |  |
-
+| यत्न | attempt, work, trouble, pains, endeavour after, effort | रुदन् | weeping |  |  |
+| सुशील | good tempered, affable, amiable | प्रशम | calmness, quiet, cessation, abatement | | |
 
 
 <BR>
@@ -28,3 +28,18 @@ Don't you understand that you were born from Suneetha?
 
 <BR>
 
+वराश्ववारणाः
+
+यदि ते दुःखमत्यर्थं वचसाऽभवत् सुरुच्याः, तत्पुण्योपचये कुरु यत्नं सर्वफलप्रदे।
+
+Is this अन्वयम् correct?
+
+यदि सुरुचयाः वचसा ते दुःखम् अत्यर्थम् अभवत् पुण्यः उपचये यत्नं कुरु तत् सर्वफलप्रदे।
+
+Meaning of ते? Why उपचयते and not उपचय? What लकारः is it? 
+
+What is the meaning of सर्वफलप्रदे ? It will give all fruits? Why प्रदे?
+
+प्रणहितो रतो भव।
+
+Take pleasure in welfare of life (प्राणहितः)
