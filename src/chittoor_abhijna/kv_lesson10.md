@@ -10,7 +10,7 @@
 | निशम्य | having heard | सपत्नीमातुः | step-mother | खिन्न | sad |
 | दीन | poor | उद्वेग | fuss, absence of passion or emotion | पुराकृत | done formerly or long ago, begin, commenced |
 | उपगच्छति | approach | अत्यर्थम् | very much, exceedingly | उपचय | gather, store |
-| यत्न | attempt, work, trouble, pains, endeavour after, effort | रुदन् | weeping |  |  |
+| यत्न | attempt, work, trouble, pains, endeavour after, effort | रुदन् | weeping | सम्पद | wealth |
 | सुशील | good tempered, affable, amiable | प्रशम | calmness, quiet, cessation, abatement | | |
 
 
