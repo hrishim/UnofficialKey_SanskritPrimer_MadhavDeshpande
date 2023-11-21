@@ -11,12 +11,13 @@
 | दीन | poor | उद्वेग | fuss, absence of passion or emotion | पुराकृत | done formerly or long ago, begin, commenced |
 | उपगच्छति | approach | अत्यर्थम् | very much, exceedingly | उपचय | gather, store |
 | यत्न | attempt, work, trouble, pains, endeavour after, effort | रुदन् | weeping | सम्पद | wealth |
-| सुशील | good tempered, affable, amiable | प्रशम | calmness, quiet, cessation, abatement | | |
+| सुशील | good tempered, affable, amiable | प्रशम | calmness, quiet, cessation, abatement | अभिपूजित | approved, assented to, honored |
+| प्रभाव | effect |  |  |  |  |
 
 
 <BR>
 
-बभूवतुः = लिट् लकारः
+बभूवतुः = लिट् लकारः 
 
 <BR>
 
@@ -43,3 +44,8 @@ What is the meaning of सर्वफलप्रदे ? It will give all frui
 प्रणहितो रतो भव।
 
 Take pleasure in welfare of life (प्राणहितः)
+
+<BR>
+
+अतः, सोऽहं तथा यतिष्ये यथा सर्वोत्तमोत्तमम्।
+
