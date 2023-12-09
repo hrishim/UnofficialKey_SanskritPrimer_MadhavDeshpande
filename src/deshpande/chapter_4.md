@@ -6,13 +6,19 @@
 
 <span style="color:blue">अश्वाः तृणं</span> खादन्ति, पुष्यन्ति, तुष्यन्ति च।
 
+Horses eat grass and are nourished and happy.
+
 **२. दास--- कनक--- चोरयति, नृपश्च दास--- दृश्--- तुद्--- च।**
 
 <span style="color:blue">दासः कनकं</span> चोरयति, नृपश्च <span style="color:blue">दासं पश्यति तुदति च</span>।
 
+The servant steals gold, and the king sees and beats the servant.
+
 **३. अहं कमल--- दिश्---, त्वं च तानि न दृश्---।**
 
 अहं <span style="color:blue">कमलानि दिशामि</span>, त्वं च तानि न <span style="color:blue">पश्यसि</span>।
+
+I show lotuses, and you do not see them.
 
 **४. काक--- फलानि चिन्तयतः, नर--- च तौ काक--- तुदन्ति।**
 
@@ -50,7 +56,7 @@ I do not plough the village and the mountain, you alone plough that mountain.
 
 सा दासम् अन्तरेण पर्वतं <span style="color:blue">विशति</span>, वृक्षान् <span style="color:blue">स्पृशति</span>, पत्राणि च <span style="color:blue">गणयति</span>।  
 
-She enters the mountain without servants, touches the trees, and counts the leaves
+She enters the mountain without a servant, touches the trees, and counts the leaves.
 
 **१०.  बालाः पर्वत--- प्रति धावन्ति श्रम्--- च। जनक--- तान् कथयति – हे बालाः, यूयं जल--- पिबथ इति।**
 
@@ -58,11 +64,13 @@ She enters the mountain without servants, touches the trees, and counts the leav
 
 **११. युवां दासान् गण्--- तान् न तुद्--- ।**
 
-युवां दासान् <span style="color:blue">गणयतः</span>, तान् न <span style="color:blue">तुदतः</span>।
+युवां दासान् <span style="color:blue">गणयतम्</span>, तान् न <span style="color:blue">तुदतम्</span>।
+
+You two count the servants, do not beat them.
 
 **१२. नृप--- ग्रामं जयति श्राम्यति च। जन--- नृपं पश्यनति, तम् अनु धाव---, तं च पूज्---।**
 
-<span style="color:blue">नृपः</span> ग्रामं जयति श्राम्यति च। <span style="color:blue">जनाः</span> नृपं पश्यनति, तम् अनु <span style="color:blue">धावन्ति</span>, तं च <span style="color:blue">पूजन्ति</span>।
+<span style="color:blue">नृपः</span> ग्रामं जयति श्राम्यति च। <span style="color:blue">जनाः</span> नृपं पश्यन्ति, तम् अनु <span style="color:blue">धावन्ति</span>, तं च <span style="color:blue">पूजन्ति</span>।
 
 <BR>
 
@@ -158,21 +166,21 @@ She enters the mountain without servants, touches the trees, and counts the leav
 
 **4. She enters and eats food. She eats fruits without me.**
 
-सा विशति खादति च। सा माम् अन्तरेण फलानि खादति।
+सा विशति आहारम् च खादति। सा माम् अन्तरेण फलानि खादति।
 
-सा विशति खादति च। सा मामन्तरेण फलानि खादति। Samhita
+सा विशति आहारम् च खादति। सा मामन्तरेण फलानि खादति। Samhita
 
 **5. The boy worships (his) father and the father is satisfied**
 
-बालः जनकं नमति जनकः च तुष्यति।
+बालः तस्य जनकं नमति जनकः च तुष्यति।
 
-बालः जनकन्नमति जनकश्च तुष्यति।
+बालः तस्य जनकन्नमति जनकश्च तुष्यति।
 
 **6. I show him the crows and he remembers misery.**
 
-अहं तं काकं दिशयामि सः च स्मरति।
+अहं तं काकं दिशयामि सः च दुःखं स्मरति।
 
-अहन्तङ्काकन्दिशयामि स च स्मरति।
+अहन्तङ्काकन्दिशयामि स च दुःखं स्मरति।
 
 **7. The horses run to the tree and stand.**
 

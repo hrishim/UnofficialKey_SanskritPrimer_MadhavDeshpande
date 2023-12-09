@@ -284,9 +284,9 @@
 
 **3) Translate into English and rewrite without sandhis:**
 
-१. शृगाला गजानां बलमचिन्तयन्। ते परव्तम् प्रति अधावन्।
+१. शृगाला गजानां बलमचिन्तयन्। ते पर्वतम् प्रति अधावन्।
 
-शृगालाः गजानां बलम् अचिन्तयन्। ते परव्तम् प्रति अधावन्।
+शृगालाः गजानां बलम् अचिन्तयन्। ते पर्वतम् प्रति अधावन्।
 
 The jackals thought of the strength of the elephants. They ran towards the mountain.
 
