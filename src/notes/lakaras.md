@@ -38,6 +38,46 @@ The *lakaras* लोट्, लिङ् and लृङ् are used to represent 
 1. [Verbs in Sanskrit - Overview of the 10 Dhaatu Ganas by Neelesh Bodas](https://www.youtube.com/live/TgkOHrlq8qg?feature=share)
 
 
+## Examples
+
+Here are examples with meaning for the same धातु in all लकार. All examples are in प्रथम पुरुष एकवचन
+
+| **लकार** | **Sentence** | **Meaning** | **Tense**|
+| --- | --- | --- | --- | 
+| लट् | सः पठति | He reads. | Present |
+| लङ् | सः अपठत् | He read. | Past |
+| लृट् | सः पठिष्यति | He will read. | Future |
+
+The above three are the commonly used in contemporary Sanskrit.
+
+---
+
+**Other forms that convey *time*:** 
+
+The लिट् and लुट् forms are also for past tense. लिट् is the ancient past and is frequently encountered in texts like Ramayana and Mahabharata
+
+लिट् - सः पपाठ - He read (in an ancient time)
+
+लुङ् (past) - अपाठीत 
+
+Future also has an additional form: 
+लुट् (future) - पठिता 
+
+---
+
+There are three forms that convey mood instead of time.
+
+पठतु - लोट्
+
+पठेत् - लिङ्
+
+अपठिष्यत - लृङ्
+
+**One special form only occurs in the Vedas**
+
+लेट - पठाति This form is encountered only in the Vedas.
+
+
 ## Present tense - वर्तमान काल
 
 | पुरुष | एकवचन | द्विवचन | बहुवचन | पुरुष | एकवचन | द्विवचन | बहुवचन |
