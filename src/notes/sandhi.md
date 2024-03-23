@@ -123,6 +123,21 @@ The *visarga* after सः and एषः followed by a consonant does not follow
 
 Change of न् to ण्
 
+वन is a neuter gender word. It's प्रथमा विभक्ति बहुवचन form is वनानि. But for शरीर the equivalent form is शरीराणि. The change of न् to ण् is governed by this rule:
+
+Dental न् changes to retroflex ण् if within the same word न् is preceded by र्, ऋ, or ष्, and is later followed either by a vowel or by व्, न्, म्, or य्. This applies despite the intervention of the following sounds: vowels, semi-vowels (except ल), क-series, प-series, and *anusvara*. If any other sounds intervene, the rule does not apply. Examples:
+
+शरीरानि -> शरीराणि
+
+नरानाम् -> नराणाम्
+
+नृपानाम् -> नृपाणाम्
+
+नरान् -> no change since न् is the word-final
+
+अर्जुनेन -> no change since ज् intervenes
+
+
 ## Vowel Sandhi
 
 **A) Lengthening of similar simple vowels:**
