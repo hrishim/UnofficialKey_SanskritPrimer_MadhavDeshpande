@@ -10,6 +10,7 @@
     - [Verbs](./notes/verbs.md)
     - [Nouns, Pronouns, and Adjectives](./notes/grammer_npa.md)
     - [Kridantas](./notes/kridantas.md)
+  - [Using Vibhaktis](./notes/using_vibhaktis.md)
   - [Terminology](./notes/terminology.md)
 - [Samskrta-Subodhini - Unofficial Key](./deshpande/intro.md)
   - [Lesson 1](./deshpande/chapter_1.md)
