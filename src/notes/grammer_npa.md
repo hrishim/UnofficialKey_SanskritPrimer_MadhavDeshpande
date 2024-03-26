@@ -6,21 +6,6 @@ Sanskrit nominals have three numbers - singular, dual, and plural. They also hav
 
 There are two types of nouns that end in अ - masculine (e.g. राम) and neuter (e.g. फलम)
 
-The nominative case (प्रथम विभक्ति) is used then the noun is the subject of a sentence in active voice.
-
-द्वितीया विभक्ति (accusative case) is used for the following:
-1. To indicate the direct object of a transitive verb
-2. To indicate the object of verbs for actions such as "going", which are transitive in Sanskrit
-3. With the word धिक् ("curse upon X") and with the prepositions below
-
-| **Preposition** | **Meaning** | **Preposition** | **Meaning** |  
-| --- | --- | --- | --- |
-| अनु | after, along | परितः | around |
-| अभितः | near, in front of | विना | without |
-| सर्वतः | on all sodes of | अन्तरा | between |
-| उभयतः | on both sides | प्रति | to, towards |
-| अन्तरेण | without, concerning | | |
-
 
 ---
 
