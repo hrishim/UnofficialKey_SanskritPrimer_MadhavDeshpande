@@ -54,7 +54,7 @@ The above three are the commonly used in contemporary Sanskrit.
 
 **Other forms that convey *time*:** 
 
-The लिट् and लुट् forms are also for past tense. लिट् is the ancient past and is frequently encountered in texts like Ramayana and Mahabharata
+The लिट् and लुङ् forms are also for past tense. लिट् is the ancient past and is frequently encountered in texts like Ramayana and Mahabharata
 
 लिट् - सः पपाठ - He read (in an ancient time)
 
@@ -102,6 +102,10 @@ All three past tenses are together are called भूत काल.
 
 **Past action that ended before today:** Any past action that ended before today but could have been witnessed by the speaker/listener (**अनद्यतन भूत**). This past is called लङ् लकार. Example: He read. = सः अपठत्। 
 
+Strictly in a grammatical sense अनद्यतन भूत refers to events in the past that are not recent but not ancient. अद्यतन is a 24 hour period - sunrise to sunrise, or midnight to mid-night, or end of day to end of next day. So अनद्यतन भूत  are events that happened in the past but not during the अद्यतन. 
+
+However, in present day usage लङ् लकार is used generally as past tense.
+
 **Distant/ancient past:**
 Events in the distant past that have not been witnessed  by the speaker/listener  (**परोक्ष भूत**) are called **लिट् लकार**. Usually लिट् लकार is encountered in old treatises and texts like Ramayana and Mahabharata. In those texts लङ् लकार is not prominent. Example:
 
@@ -110,7 +114,7 @@ There was a king named Dasharatha.
 दशरथः नाम राजा बभूव।
 
 **Simple past:**
-Simple past (**सामान्य भूत**), called **लुङ् लकार**, is used for events that happend in the past. From a grammatical perspective this is to be used for past but before yesterday.
+Simple past (**सामान्य भूत**), called **लुङ् लकार**, is used for events that happend in the past. 
 
 | Past Tense | |
 | --- | --- |
