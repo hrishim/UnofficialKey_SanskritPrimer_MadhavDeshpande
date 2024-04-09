@@ -5,7 +5,7 @@
 
 १. यदाश्वास्तृणं खादन्ति, तदा ते पुष्यन्ति।
 
-If horses eat grass then they become strong.
+When horses eat grass then they become strong.
 
 अश्वास्तृणं खादित्वा पुष्यन्ति।
 <br><br>
