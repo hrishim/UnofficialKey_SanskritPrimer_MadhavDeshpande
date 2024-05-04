@@ -5,7 +5,7 @@
 
 <BR>
 
-**2) Transform info passive the first 10 sentences in exercise 1 and 2 of lesson 12. Make sure you use the appropriate gerund or infinitive forms in your passive sentences.**
+**2) Transform into passive the first 10 sentences in exercise 1 and 2 of lesson 12. Make sure you use the appropriate gerund or infinitive forms in your passive sentences.**
 
 **१. यदाश्वास्तृणं खादन्ति, तदा ते पुष्यन्ति।**
 
